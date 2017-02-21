@@ -1,0 +1,253 @@
+REAL000065	altLabel	Palaeobiology
+REAL000065	prefLabel	Paleobiology
+REAL000101	prefLabel	Photobiology
+REAL000132	prefLabel	Radiophysics
+REAL000186	prefLabel	Environmental physics
+REAL000193	prefLabel	Absorption spectra
+REAL000249	prefLabel	Abyssal fauna
+REAL000258	altLabel	Immune responses
+REAL000258	altLabel	Immunobiology
+REAL000258	altLabel	Immunological methods
+REAL000258	prefLabel	Immunology
+REAL000289	prefLabel	Ammonia
+REAL000320	prefLabel	Comparative neurobiology
+REAL000522	prefLabel	Abstraction
+REAL000621	prefLabel	Antarctic geophysics
+REAL000680	prefLabel	Management biology
+REAL000744	prefLabel	Theoretical astrophysics
+REAL000838	prefLabel	Cryogenics
+REAL001055	altLabel	Abortions
+REAL001055	altLabel	Pregnancy losses
+REAL001055	prefLabel	Miscarriages
+REAL001151	prefLabel	Bioactivity
+REAL001220	altLabel	Biodrugs
+REAL001220	altLabel	Biologic medical products
+REAL001220	prefLabel	Biopharmaceuticals
+REAL001341	altLabel	High pressure
+REAL001341	prefLabel	High pressure physics
+REAL001421	prefLabel	Biological oceanography
+REAL001584	prefLabel	Microbiological models
+REAL001651	prefLabel	Cucumbers
+REAL001779	altLabel	Abaci
+REAL001779	altLabel	Counting frames
+REAL001779	prefLabel	Abacuses
+REAL001828	prefLabel	Abel
+REAL002028	prefLabel	Aerobiology
+REAL002350	prefLabel	Reproduction
+REAL002535	prefLabel	Ion physics
+REAL002577	prefLabel	Petrophysics
+REAL002608	altLabel	Aristocracy
+REAL002608	prefLabel	Nobility
+REAL002699	prefLabel	Astrophysics
+REAL002732	prefLabel	Nuclear reactor physics
+REAL002832	prefLabel	Blood vessels
+REAL002979	prefLabel	Instrumental physics
+REAL003037	prefLabel	Modern physics
+REAL003049	prefLabel	Biologichal rythms
+REAL003074	prefLabel	Abstract geometry
+REAL003080	altLabel	Biological chemistry
+REAL003080	prefLabel	Biochemistry
+REAL003088	prefLabel	Health physics
+REAL003129	prefLabel	Agaves
+REAL003160	prefLabel	Marine microbiology
+REAL003200	altLabel	Benzos
+REAL003200	prefLabel	Benzodiazepines
+REAL003354	prefLabel	Physical laws
+REAL003526	altLabel	Pharmaceutical biosciences
+REAL003526	prefLabel	Pharmaceutical biology
+REAL003592	prefLabel	Acasia
+REAL003704	prefLabel	Absorption spectroscopy
+REAL003759	altLabel	Biological control
+REAL003759	prefLabel	Biological pest control
+REAL003763	prefLabel	Molecular cell biology
+REAL003836	prefLabel	Bioacoustics
+REAL003927	prefLabel	Nuclear physics
+REAL003992	prefLabel	Applied physics
+REAL004051	prefLabel	Abscisic acid
+REAL004082	prefLabel	Classical physics
+REAL004193	altLabel	Biosignals
+REAL004193	prefLabel	Biological signals
+REAL004211	prefLabel	Thermal biology
+REAL004246	prefLabel	Solar physics
+REAL004327	prefLabel	Clinical biology
+REAL004342	altLabel	ASN.1
+REAL004342	prefLabel	Abstract syntax notation one
+REAL004387	altLabel	Biological specimen
+REAL004387	altLabel	Biosamples
+REAL004387	altLabel	Biospecimen
+REAL004387	prefLabel	Biological samples
+REAL004516	altLabel	Plasma instabilities
+REAL004516	prefLabel	Plasma dynamics
+REAL004641	prefLabel	Hydrogeophysics
+REAL004646	prefLabel	Biological macromolecules
+REAL004753	prefLabel	Biological species concepts
+REAL004855	prefLabel	Arctic management biology
+REAL004901	prefLabel	Aberration
+REAL004952	altLabel	Acne vulgaris
+REAL004952	prefLabel	Acne
+REAL005103	altLabel	Microgametophytes
+REAL005103	prefLabel	Pollen
+REAL005131	prefLabel	Biological transport
+REAL005173	prefLabel	Economic conservation biology
+REAL005197	prefLabel	Glycobiology
+REAL005213	altLabel	High energy astrophysics
+REAL005213	prefLabel	Astroparticle physics
+REAL005358	prefLabel	Car insurance
+REAL005458	prefLabel	Tropical biology
+REAL005610	altLabel	19-norandrostenolone
+REAL005610	altLabel	19-nortestosterone
+REAL005610	prefLabel	Nandrolone
+REAL005627	prefLabel	Biological homology
+REAL005664	prefLabel	Popular physics
+REAL005737	altLabel	Basic Input-Output System
+REAL005737	prefLabel	BIOS
+REAL005770	prefLabel	Quantum biology
+REAL005773	prefLabel	Experimental physics
+REAL006055	prefLabel	Solar-terrestrial physics
+REAL006062	prefLabel	Industrial biology
+REAL006071	prefLabel	Space physics
+REAL006187	altLabel	15-LOX-1
+REAL006187	altLabel	15-lipoxygenase
+REAL006187	prefLabel	ALOX15
+REAL006191	prefLabel	Applied biology
+REAL006290	prefLabel	Polymer physics
+REAL006530	prefLabel	Abalones
+REAL006540	prefLabel	Developmental biology
+REAL006567	prefLabel	Applied microbiology
+REAL006773	prefLabel	Biological structures
+REAL006782	prefLabel	Cars
+REAL006806	prefLabel	Structural biology
+REAL006866	prefLabel	Molecular glycobiology
+REAL006890	prefLabel	Physics education
+REAL007002	prefLabel	Freshwater biology
+REAL007075	prefLabel	Relativistic astrophysics
+REAL007137	prefLabel	Acetylation
+REAL007148	prefLabel	Ecological microbiology
+REAL007252	prefLabel	Experimental biology
+REAL007298	prefLabel	Bioaccumulation
+REAL007300	altLabel	Abiotic factors
+REAL007300	prefLabel	Abiotic components
+REAL007355	prefLabel	Biological determinism
+REAL007452	prefLabel	Cryobiology
+REAL007556	prefLabel	Adelie penguin
+REAL007760	prefLabel	Medical microbiology
+REAL007804	prefLabel	Breastfeeding
+REAL007827	altLabel	Deep layer biology
+REAL007827	prefLabel	Deep sea biology
+REAL008185	altLabel	Animal psychology
+REAL008185	altLabel	Ethology
+REAL008185	prefLabel	Behavioral biology
+REAL008221	prefLabel	Chronobiology
+REAL008504	altLabel	Microbiological techniques
+REAL008504	prefLabel	Microbiological methods
+REAL008556	prefLabel	Agrobiology
+REAL008572	prefLabel	Astrobiology
+REAL008657	prefLabel	Psychophysics
+REAL008730	prefLabel	Geomicrobiology
+REAL008749	prefLabel	General physics
+REAL008916	prefLabel	Field biology
+REAL009012	prefLabel	Comparative biology
+REAL009074	prefLabel	Arctic biology
+REAL009091	prefLabel	Aquatic microbiology
+REAL009208	altLabel	Microbiological genetics
+REAL009208	prefLabel	Microbial genetics
+REAL009260	prefLabel	Population biology
+REAL009284	altLabel	Biological research stations
+REAL009284	prefLabel	Biological stations
+REAL009453	altLabel	Neurobiology
+REAL009453	prefLabel	Neuroscience
+REAL009487	prefLabel	Biofuels
+REAL009637	prefLabel	Molecular physics
+REAL009755	prefLabel	Atomic physics
+REAL009869	prefLabel	Didactics of biology
+REAL009973	prefLabel	Benzene
+REAL010226	prefLabel	Cloud physics
+REAL010340	prefLabel	Biological productivity
+REAL010508	prefLabel	Biochemists
+REAL010528	prefLabel	Theoretical physics
+REAL010598	prefLabel	Radiobiology
+REAL010619	prefLabel	Abstract algebra
+REAL010644	prefLabel	Biological resources
+REAL010749	altLabel	Infections
+REAL010749	altLabel	Infectious diseases
+REAL010749	prefLabel	Infection biology
+REAL010765	altLabel	Physics history
+REAL010765	prefLabel	Historie of physics
+REAL010813	prefLabel	Island biology
+REAL010881	altLabel	Gas laws
+REAL010881	prefLabel	Gas physics
+REAL010987	prefLabel	Physics exercises
+REAL011111	prefLabel	Medical biology
+REAL011455	prefLabel	Medical physics
+REAL011492	altLabel	Biocoenosis
+REAL011492	prefLabel	Biological communities
+REAL011515	prefLabel	Soil physics
+REAL011553	prefLabel	Acupuncture
+REAL011616	prefLabel	Biobanks
+REAL011627	altLabel	IBP
+REAL011627	prefLabel	International Biological Programme
+REAL011768	altLabel	Degradation
+REAL011768	prefLabel	Biodegradation
+REAL011794	prefLabel	Descriptive astrophysics
+REAL011937	prefLabel	Marine conservation biology
+REAL012003	prefLabel	Molecular neurobiology
+REAL012017	prefLabel	Nanobiology
+REAL012156	altLabel	Physics of the sun
+REAL012156	prefLabel	Heliophysics
+REAL012260	prefLabel	Synthetic biology
+REAL012267	prefLabel	Biological functions
+REAL012730	altLabel	Biomembranes
+REAL012730	prefLabel	Biological membranes
+REAL012893	altLabel	Cell biophysics
+REAL012893	prefLabel	Cellular biophysics
+REAL012914	prefLabel	Biological clocks
+REAL012987	prefLabel	Cosmological constant
+REAL013018	prefLabel	Conservation biology
+REAL013062	altLabel	Marine environments
+REAL013062	altLabel	Ocean biology
+REAL013062	prefLabel	Marine biology
+REAL013151	altLabel	Nonlinear plasma
+REAL013151	prefLabel	Nonlinear plasma physics
+REAL013313	altLabel	Biodegradation
+REAL013313	altLabel	Bioremediation
+REAL013313	altLabel	Phytoremediation
+REAL013313	prefLabel	Biological treatments
+REAL013314	prefLabel	Biostatistics
+REAL013315	prefLabel	Bioavailability
+REAL013316	prefLabel	Biological effects
+REAL013317	prefLabel	Biological analysis
+REAL013318	altLabel	Biological markers
+REAL013318	prefLabel	Biomarkers
+REAL013319	prefLabel	Biological mechanisms
+REAL013320	altLabel	Biological techniques
+REAL013320	prefLabel	Biological methods
+REAL013321	prefLabel	Biological processes
+REAL013323	altLabel	Biomolecules
+REAL013323	prefLabel	Biological molecules
+REAL013395	altLabel	Biologic diversity
+REAL013395	altLabel	Diversity
+REAL013395	altLabel	Species richness
+REAL013395	prefLabel	Biodiversity
+REAL013514	prefLabel	Scientific revolution
+REAL013630	altLabel	Hydrobiology
+REAL013630	prefLabel	Aquatic biology
+REAL013739	prefLabel	Pollination
+REAL013753	prefLabel	Bioelectricity
+REAL013782	prefLabel	Virus
+REAL013791	altLabel	Bioinvasion
+REAL013791	altLabel	Ecological invasion
+REAL013791	altLabel	Introduced species
+REAL013791	prefLabel	Invasive species
+REAL013800	altLabel	Aquafarming
+REAL013800	prefLabel	Aquaculture
+REAL013810	altLabel	Human behavior
+REAL013810	altLabel	Human nature
+REAL013810	prefLabel	Sociobiology
+REAL013815	altLabel	Cytobiology
+REAL013815	altLabel	Cytology
+REAL013815	prefLabel	Cell biology
+REAL013847	altLabel	Homo sapiens
+REAL013847	altLabel	Humans
+REAL013847	prefLabel	Human biology
+REAL013952	prefLabel	Behavioral neuroscience
+REAL031702	prefLabel	Block chains
