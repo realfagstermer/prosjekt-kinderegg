@@ -16,6 +16,7 @@ REAL000621	prefLabel	Antarctic geophysics
 REAL000680	prefLabel	Management biology
 REAL000744	prefLabel	Theoretical astrophysics
 REAL000838	prefLabel	Cryogenics
+REAL000843	prefLabel	Dehydrogenase
 REAL001055	altLabel	Abortions
 REAL001055	altLabel	Pregnancy losses
 REAL001055	prefLabel	Miscarriages
@@ -33,6 +34,8 @@ REAL001779	altLabel	Counting frames
 REAL001779	prefLabel	Abacuses
 REAL001828	prefLabel	Abel
 REAL002028	prefLabel	Aerobiology
+REAL002204	altLabel	Dioxin derivates
+REAL002204	prefLabel	Dioxins
 REAL002350	prefLabel	Reproduction
 REAL002535	prefLabel	Ion physics
 REAL002577	prefLabel	Petrophysics
@@ -60,11 +63,14 @@ REAL003704	prefLabel	Absorption spectroscopy
 REAL003759	altLabel	Biological control
 REAL003759	prefLabel	Biological pest control
 REAL003763	prefLabel	Molecular cell biology
+REAL003807	prefLabel	Boron compounds
 REAL003836	prefLabel	Bioacoustics
 REAL003927	prefLabel	Nuclear physics
 REAL003992	prefLabel	Applied physics
 REAL004051	prefLabel	Abscisic acid
 REAL004082	prefLabel	Classical physics
+REAL004103	prefLabel	Dichlorobenzene
+REAL004174	prefLabel	Alcohols
 REAL004193	altLabel	Biosignals
 REAL004193	prefLabel	Biological signals
 REAL004211	prefLabel	Thermal biology
@@ -92,6 +98,7 @@ REAL005173	prefLabel	Economic conservation biology
 REAL005197	prefLabel	Glycobiology
 REAL005213	altLabel	High energy astrophysics
 REAL005213	prefLabel	Astroparticle physics
+REAL005266	prefLabel	Atmospheric pressure
 REAL005358	prefLabel	Car insurance
 REAL005458	prefLabel	Tropical biology
 REAL005610	altLabel	19-norandrostenolone
@@ -129,7 +136,9 @@ REAL007300	altLabel	Abiotic factors
 REAL007300	prefLabel	Abiotic components
 REAL007355	prefLabel	Biological determinism
 REAL007452	prefLabel	Cryobiology
+REAL007519	prefLabel	Atomic clocks
 REAL007556	prefLabel	Adelie penguin
+REAL007734	prefLabel	Atoms
 REAL007760	prefLabel	Medical microbiology
 REAL007804	prefLabel	Breastfeeding
 REAL007827	altLabel	Deep layer biology
@@ -194,8 +203,12 @@ REAL012003	prefLabel	Molecular neurobiology
 REAL012017	prefLabel	Nanobiology
 REAL012156	altLabel	Physics of the sun
 REAL012156	prefLabel	Heliophysics
+REAL012191	prefLabel	Lead
 REAL012260	prefLabel	Synthetic biology
 REAL012267	prefLabel	Biological functions
+REAL012316	prefLabel	Barium
+REAL012318	prefLabel	Beryllium
+REAL012319	prefLabel	Bohrium
 REAL012730	altLabel	Biomembranes
 REAL012730	prefLabel	Biological membranes
 REAL012893	altLabel	Cell biophysics
@@ -246,6 +259,7 @@ REAL013810	prefLabel	Sociobiology
 REAL013815	altLabel	Cytobiology
 REAL013815	altLabel	Cytology
 REAL013815	prefLabel	Cell biology
+REAL013830	prefLabel	Botany
 REAL013847	altLabel	Homo sapiens
 REAL013847	altLabel	Humans
 REAL013847	prefLabel	Human biology
