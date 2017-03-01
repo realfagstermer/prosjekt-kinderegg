@@ -11,6 +11,7 @@ REAL000258	altLabel	Immunological methods
 REAL000258	prefLabel	Immunology
 REAL000289	prefLabel	Ammonia
 REAL000320	prefLabel	Comparative neurobiology
+REAL000354	prefLabel	Chitosan
 REAL000522	prefLabel	Abstraction
 REAL000621	prefLabel	Antarctic geophysics
 REAL000680	prefLabel	Management biology
@@ -59,6 +60,7 @@ REAL003354	prefLabel	Physical laws
 REAL003526	altLabel	Pharmaceutical biosciences
 REAL003526	prefLabel	Pharmaceutical biology
 REAL003592	prefLabel	Acasia
+REAL003676	prefLabel	Cellulose
 REAL003704	prefLabel	Absorption spectroscopy
 REAL003759	altLabel	Biological control
 REAL003759	prefLabel	Biological pest control
@@ -211,11 +213,13 @@ REAL012318	prefLabel	Beryllium
 REAL012319	prefLabel	Bohrium
 REAL012730	altLabel	Biomembranes
 REAL012730	prefLabel	Biological membranes
+REAL012750	prefLabel	Brominated flame retardants
 REAL012893	altLabel	Cell biophysics
 REAL012893	prefLabel	Cellular biophysics
 REAL012914	prefLabel	Biological clocks
 REAL012987	prefLabel	Cosmological constant
 REAL013018	prefLabel	Conservation biology
+REAL013038	prefLabel	DNA repair
 REAL013062	altLabel	Marine environments
 REAL013062	altLabel	Ocean biology
 REAL013062	prefLabel	Marine biology

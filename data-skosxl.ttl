@@ -515,7 +515,7 @@
 
 <http://data.ub.uio.no/realfagstermer/c003676> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q80294> ;
-    dct:modified "2017-02-23T18:36:34.425000+00:00"^^xsd:dateTime ;
+    dct:modified "2017-02-28T18:45:37.994000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t007de248-f9f7-11e6-b0eb-02420131050e> .
 
@@ -2042,6 +2042,8 @@
     dct:created "2017-02-23T19:36:34+01:00"^^xsd:dateTime ;
     dct:creator <http://trans.biblionaut.net/data/users/07e75fa8-f9db-11e6-9cfd-02420131050e> ;
     dct:modified "2017-02-23T19:36:34+01:00"^^xsd:dateTime ;
+    user:proofread "2017-02-28T18:45:15.583000+00:00"^^xsd:dateTime ;
+    user:proofreader <http://trans.biblionaut.net/data/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Cellulose"@en .
 
 <http://data.ub.uio.no/realfagstermer/t00ffaa2e-f7a6-11e6-9fd0-02420131050e> a xl:Label ;
@@ -2592,6 +2594,8 @@
     dct:created "2017-02-23T17:07:39+01:00"^^xsd:dateTime ;
     dct:creator <http://trans.biblionaut.net/data/users/07e75fa8-f9db-11e6-9cfd-02420131050e> ;
     dct:modified "2017-02-23T17:07:39+01:00"^^xsd:dateTime ;
+    user:proofread "2017-02-28T18:45:11.400000+00:00"^^xsd:dateTime ;
+    user:proofreader <http://trans.biblionaut.net/data/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Chitosan"@en .
 
 <http://data.ub.uio.no/realfagstermer/t35d696d0-f85b-11e6-9ee2-02420131050e> a xl:Label ;
@@ -2618,6 +2622,8 @@
     dct:created "2017-02-23T19:38:06+01:00"^^xsd:dateTime ;
     dct:creator <http://trans.biblionaut.net/data/users/07e75fa8-f9db-11e6-9cfd-02420131050e> ;
     dct:modified "2017-02-23T19:38:06+01:00"^^xsd:dateTime ;
+    user:proofread "2017-02-28T18:45:33.785000+00:00"^^xsd:dateTime ;
+    user:proofreader <http://trans.biblionaut.net/data/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Brominated flame retardants"@en .
 
 <http://data.ub.uio.no/realfagstermer/t3763181a-f618-11e6-b67a-02420131050e> a xl:Label ;
@@ -4336,6 +4342,8 @@
     dct:created "2017-02-23T19:35:38+01:00"^^xsd:dateTime ;
     dct:creator <http://trans.biblionaut.net/data/users/07e75fa8-f9db-11e6-9cfd-02420131050e> ;
     dct:modified "2017-02-23T19:35:38+01:00"^^xsd:dateTime ;
+    user:proofread "2017-02-28T18:45:50.204000+00:00"^^xsd:dateTime ;
+    user:proofreader <http://trans.biblionaut.net/data/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "DNA repair"@en .
 
 <http://data.ub.uio.no/realfagstermer/te0537b4a-f79e-11e6-a7ac-02420131050e> a xl:Label ;
