@@ -349,7 +349,6 @@ REAL011419	prefLabel	Algebraic group theory
 REAL011455	prefLabel	Medical physics
 REAL011492	altLabel	Biocoenosis
 REAL011492	prefLabel	Biological communities
-REAL011505	prefLabel	Paleobiogeography
 REAL011510	prefLabel	Terrestrial physics
 REAL011515	prefLabel	Soil physics
 REAL011553	prefLabel	Acupuncture
@@ -394,6 +393,7 @@ REAL012555	prefLabel	Acetylcholine
 REAL012615	prefLabel	Antarctic geology
 REAL012692	altLabel	Dry habitats
 REAL012692	prefLabel	Arid habitats
+REAL012716	prefLabel	Cup lichens
 REAL012730	altLabel	Biomembranes
 REAL012730	prefLabel	Biological membranes
 REAL012750	prefLabel	Brominated flame retardants
@@ -440,7 +440,6 @@ REAL013395	altLabel	Biologic diversity
 REAL013395	altLabel	Diversity
 REAL013395	altLabel	Species richness
 REAL013395	prefLabel	Biodiversity
-REAL013398	altLabel	Paleozoic
 REAL013398	prefLabel	Palaeozoic
 REAL013402	prefLabel	Alchemy
 REAL013414	altLabel	Evolutionary biology
