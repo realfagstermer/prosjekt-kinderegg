@@ -7,6 +7,7 @@ REAL000132	prefLabel	Radiophysics
 REAL000171	prefLabel	Magnetoception
 REAL000186	prefLabel	Environmental physics
 REAL000193	prefLabel	Absorption spectra
+REAL000197	prefLabel	Metamorphic rocks
 REAL000249	prefLabel	Abyssal fauna
 REAL000258	altLabel	Immune responses
 REAL000258	altLabel	Immunobiology
@@ -32,6 +33,7 @@ REAL000773	prefLabel	Mergers
 REAL000838	prefLabel	Cryogenics
 REAL000843	prefLabel	Dehydrogenase
 REAL000981	prefLabel	Good manufacturing practice
+REAL001014	prefLabel	Igneous rocks
 REAL001055	altLabel	Abortions
 REAL001055	altLabel	Pregnancy losses
 REAL001055	prefLabel	Miscarriages
@@ -68,6 +70,8 @@ REAL001885	altLabel	Walsh–Fourier transforms
 REAL001885	altLabel	Walsh–Hadamard transforms
 REAL001885	prefLabel	Hadamard transforms
 REAL001889	prefLabel	Analytical geochemistry
+REAL001897	altLabel	Plutons
+REAL001897	prefLabel	Plutonic rocks
 REAL001926	prefLabel	Abyssal zone
 REAL001949	prefLabel	Rural and regional policy
 REAL002028	prefLabel	Aerobiology
