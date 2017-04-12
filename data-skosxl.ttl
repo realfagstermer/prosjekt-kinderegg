@@ -1591,6 +1591,11 @@
 <http://data.ub.uio.no/realfagstermer/c005686> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q1149626> .
 
+<http://data.ub.uio.no/realfagstermer/c005709> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q312953> ;
+    dct:modified "2017-04-11T08:57:15.410000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> .
+
 <http://data.ub.uio.no/realfagstermer/c005722> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q206047> ;
     dct:modified "2017-02-08T00:43:49.789000+00:00"^^xsd:dateTime ;
