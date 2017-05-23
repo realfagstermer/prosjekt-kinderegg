@@ -104,9 +104,18 @@
     skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t884b1098-f79e-11e6-9127-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c000321> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q351461> ;
+    dct:modified "2017-05-22T15:01:56.120000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/37f033b8-c77e-4fef-bdef-273f9065265d>,
+        <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t98cacc30-3eff-11e7-af4e-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c000340> a skos:Concept ;
-    dct:modified "2017-03-01T17:43:06.875000+00:00"^^xsd:dateTime ;
-    skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> .
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q29632120> ;
+    dct:modified "2017-05-22T15:24:16.139000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tb78cd16a-3f02-11e7-ab7f-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c000354> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q408510> ;
@@ -266,6 +275,11 @@
     dct:modified "2017-03-22T11:39:10.012000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t47009448-0b4c-11e7-b6d8-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c000906> a skos:Concept ;
+    dct:modified "2017-05-22T14:01:35.479000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t2ac27e7a-3ef7-11e7-85a4-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c000948> a skos:Concept ;
     dct:modified "2017-03-15T20:21:41.360000+00:00"^^xsd:dateTime ;
@@ -512,8 +526,10 @@
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t92dd58ac-fead-11e6-b632-02420131050e> .
 
 <http://data.ub.uio.no/realfagstermer/c001828> a skos:Concept ;
-    dct:modified "2017-02-20T19:17:37.656000+00:00"^^xsd:dateTime ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q379390> ;
+    dct:modified "2017-05-22T13:51:52.770000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b> ;
+    xl:altLabel <http://data.ub.uio.no/realfagstermer/tcf7029e2-3ef5-11e7-ae06-0242583ea775> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tcdcbfe18-f783-11e6-990d-02420131050e> .
 
 <http://data.ub.uio.no/realfagstermer/c001885> a skos:Concept ;
@@ -695,6 +711,12 @@
     dct:modified "2017-02-08T00:43:22.550000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b> .
 
+<http://data.ub.uio.no/realfagstermer/c002418> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q409415> ;
+    dct:modified "2017-05-22T15:33:17.022000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/c331c5e9-726c-4c55-9341-72d3e7874d6b> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tf9ea329a-3f03-11e7-9dbe-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c002468> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q12370533> ;
     dct:modified "2017-02-20T18:56:03.267000+00:00"^^xsd:dateTime ;
@@ -705,6 +727,13 @@
     dct:modified "2017-03-07T17:35:54.440000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/c331c5e9-726c-4c55-9341-72d3e7874d6b> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t4852140a-f794-11e6-a643-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c002549> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q3882459> ;
+    dct:modified "2017-05-22T16:28:34.307000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/aa780674-ac5f-40b2-a5a6-7912901f6d5f> ;
+    xl:altLabel <http://data.ub.uio.no/realfagstermer/tb32a09b8-3f0b-11e7-bc39-0242583ea775> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tb3230b04-3f0b-11e7-959a-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c002563> a skos:Concept ;
     dct:modified "2017-03-15T20:20:52.662000+00:00"^^xsd:dateTime ;
@@ -718,6 +747,12 @@
         <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:altLabel <http://data.ub.uio.no/realfagstermer/t39600832-0b1a-11e7-bda0-02420131050e> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/te5b9a238-f78c-11e6-903e-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c002603> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q408688> ;
+    dct:modified "2017-05-22T15:01:31.875000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t8a5000d0-3eff-11e7-939e-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c002608> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q123432> ;
@@ -745,8 +780,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c002643> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q181923> ;
-    dct:modified "2017-02-08T00:42:45.090000+00:00"^^xsd:dateTime ;
-    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> .
+    dct:modified "2017-05-22T13:43:35.852000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/37f033b8-c77e-4fef-bdef-273f9065265d>,
+        <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c>,
+        <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:altLabel <http://data.ub.uio.no/realfagstermer/ta739f774-3ef4-11e7-ac79-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c002647> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q47572> ;
@@ -1030,6 +1068,12 @@
     skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t94fbd0cc-09b2-11e7-bff0-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c003640> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q107027> ;
+    dct:modified "2017-05-22T15:28:31.305000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t4f9e9902-3f03-11e7-9997-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c003676> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q80294> ;
     dct:modified "2017-02-28T18:45:37.994000+00:00"^^xsd:dateTime ;
@@ -1038,6 +1082,11 @@
 
 <http://data.ub.uio.no/realfagstermer/c003692> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q30081> .
+
+<http://data.ub.uio.no/realfagstermer/c003697> a skos:Concept ;
+    dct:modified "2017-05-22T15:35:30.320000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/d5a885cd-56a0-4501-9c99-418db3fbcbdb> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t49623458-3f04-11e7-8fc7-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c003704> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q13553575> ;
@@ -1167,6 +1216,11 @@
     skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107>,
         <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t49b7ee48-f9ea-11e6-81ca-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c004134> a skos:Concept ;
+    dct:modified "2017-05-22T15:21:17.159000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t4cdd8cf6-3f02-11e7-b535-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c004174> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q156> ;
@@ -1423,6 +1477,12 @@
     skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t83cd76d6-0b4f-11e7-b236-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c005074> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q212936> ;
+    dct:modified "2017-05-22T15:25:45.438000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tecc00c62-3f02-11e7-9ede-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c005085> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q690068> ;
     dct:modified "2017-03-22T12:11:15.461000+00:00"^^xsd:dateTime ;
@@ -1677,6 +1737,12 @@
     skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t156b5dd8-2ddd-11e7-9b10-0242125e97f7> .
 
+<http://data.ub.uio.no/realfagstermer/c005996> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q396338> ;
+    dct:modified "2017-05-22T15:31:49.787000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tc5e5fb32-3f03-11e7-8664-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c006027> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q188777> ;
     dct:modified "2017-03-30T18:58:45.852000+00:00"^^xsd:dateTime ;
@@ -1718,6 +1784,12 @@
     skos:member <http://data.ub.uio.no/entity/c331c5e9-726c-4c55-9341-72d3e7874d6b>,
         <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t8fcc1236-09b9-11e7-94a2-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c006116> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q42250> ;
+    dct:modified "2017-05-22T15:30:39.497000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t9bf7fc12-3f03-11e7-96bb-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c006137> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q690200> ;
@@ -1783,8 +1855,14 @@
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t3b0362d6-f78f-11e6-abe4-02420131050e> .
 
 <http://data.ub.uio.no/realfagstermer/c006308> a skos:Concept ;
-    dct:modified "2017-02-21T16:22:54.022000+00:00"^^xsd:dateTime ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q180003> ;
+    dct:modified "2017-05-22T13:46:44.171000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b> .
+
+<http://data.ub.uio.no/realfagstermer/c006334> a skos:Concept ;
+    dct:modified "2017-05-22T15:02:40.786000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/37f033b8-c77e-4fef-bdef-273f9065265d> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tb33cc442-3eff-11e7-96fb-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c006354> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q1434465> ;
@@ -1852,6 +1930,11 @@
     skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3>,
         <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t26549480-feb6-11e6-9355-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c006681> a skos:Concept ;
+    dct:modified "2017-05-22T14:00:08.837000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tf6c3e154-3ef6-11e7-94a6-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c006694> a skos:Concept ;
     dct:modified "2017-03-15T18:09:49.515000+00:00"^^xsd:dateTime ;
@@ -2037,6 +2120,12 @@
         <http://data.ub.uio.no/realfagstermer/t8db5942e-0372-11e7-9680-02420131050e> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t8daebfaa-0372-11e7-922b-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c007342> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q82811> ;
+    dct:modified "2017-05-22T16:26:57.514000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/aa780674-ac5f-40b2-a5a6-7912901f6d5f> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t797a98cc-3f0b-11e7-87ea-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c007355> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q252962> ;
     dct:modified "2017-02-20T16:35:06.391000+00:00"^^xsd:dateTime ;
@@ -2059,6 +2148,12 @@
     skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107>,
         <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t3c6e59a2-09bc-11e7-b569-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c007399> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q1381169> ;
+    dct:modified "2017-05-22T15:19:14.675000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t03c1345a-3f02-11e7-a9ba-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c007425> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q8242560> ;
@@ -2089,6 +2184,12 @@
     dct:modified "2017-03-22T12:23:03.338000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t2568f7a4-09bb-11e7-8f06-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c007477> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q1757674> ;
+    dct:modified "2017-05-22T14:02:21.035000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t45e446fc-3ef7-11e7-9056-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c007519> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q227467> ;
@@ -2323,6 +2424,11 @@
     skos:member <http://data.ub.uio.no/entity/37f033b8-c77e-4fef-bdef-273f9065265d>,
         <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tcf2021a0-f7a5-11e6-8163-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c008532> a skos:Concept ;
+    dct:modified "2017-05-22T16:27:34.186000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/aa780674-ac5f-40b2-a5a6-7912901f6d5f> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t8f5db188-3f0b-11e7-b050-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c008556> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q4694222> ;
@@ -2575,6 +2681,12 @@
         <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/ta1f8d3ce-f7a6-11e6-a726-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c009501> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q1172399> ;
+    dct:modified "2017-05-22T16:23:23.521000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tf9c36852-3f0a-11e7-a7cc-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c009530> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q10850> ;
     dct:modified "2017-03-07T21:25:28.767000+00:00"^^xsd:dateTime ;
@@ -2680,6 +2792,12 @@
     skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t0e4cd558-0b33-11e7-91cd-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c009952> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q61420> ;
+    dct:modified "2017-05-22T15:01:08.977000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t7caee2b6-3eff-11e7-8438-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c009955> a skos:Concept ;
     dct:modified "2017-03-22T11:58:26.006000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/d5a885cd-56a0-4501-9c99-418db3fbcbdb> ;
@@ -2723,13 +2841,33 @@
     skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t96105758-f9db-11e6-9aaa-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c010120> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q4661718> ;
+    dct:modified "2017-05-22T13:58:28.396000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tbb384ef4-3ef6-11e7-9966-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c010129> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q5090465> ;
     dct:modified "2017-03-17T19:56:19.736000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t8f326be8-0b4b-11e7-ab4c-02420131050e> .
 
 <http://data.ub.uio.no/realfagstermer/c010132> a skos:Concept ;
-    ubo:wikidataItem <http://www.wikidata.org/entity/Q269856> .
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q269856> ;
+    dct:modified "2017-05-22T13:46:17.154000+00:00"^^xsd:dateTime ;
+    xl:altLabel <http://data.ub.uio.no/realfagstermer/t076da5b4-3ef5-11e7-a8de-0242583ea775> .
+
+<http://data.ub.uio.no/realfagstermer/c010154> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q167198> ;
+    dct:modified "2017-05-22T14:02:34.629000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t4dfa953a-3ef7-11e7-9a6a-0242583ea775> .
+
+<http://data.ub.uio.no/realfagstermer/c010222> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q179985> ;
+    dct:modified "2017-05-22T16:24:28.663000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/aa780674-ac5f-40b2-a5a6-7912901f6d5f> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t20c37186-3f0b-11e7-889b-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c010226> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q3382037> ;
@@ -2808,8 +2946,10 @@
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t6451f6ae-f78d-11e6-a4a9-02420131050e> .
 
 <http://data.ub.uio.no/realfagstermer/c010533> a skos:Concept ;
-    dct:modified "2017-03-01T17:42:44.696000+00:00"^^xsd:dateTime ;
-    skos:member <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b> .
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q5034464> ;
+    dct:modified "2017-05-22T15:22:38.761000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t7d7f92c8-3f02-11e7-803b-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c010544> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q864212> ;
@@ -2825,6 +2965,12 @@
     dct:modified "2017-03-15T20:13:55.748000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tea889f76-09bb-11e7-8e8a-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c010555> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q162633> ;
+    dct:modified "2017-05-22T15:34:37.213000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t29b4c094-3f04-11e7-b536-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c010567> a skos:Concept ;
     dct:modified "2017-02-20T20:08:47.340000+00:00"^^xsd:dateTime ;
@@ -3162,6 +3308,12 @@
     xl:altLabel <http://data.ub.uio.no/realfagstermer/t911b9ec2-0b35-11e7-9360-02420131050e> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t910f48a2-0b35-11e7-8a2e-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c011755> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q1044693> ;
+    dct:modified "2017-05-22T15:24:52.803000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/d5a885cd-56a0-4501-9c99-418db3fbcbdb> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tcd5f2b0a-3f02-11e7-afee-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c011768> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q696715> ;
     dct:modified "2017-02-20T19:12:18.377000+00:00"^^xsd:dateTime ;
@@ -3488,7 +3640,7 @@
     skos:member <http://data.ub.uio.no/entity/aa780674-ac5f-40b2-a5a6-7912901f6d5f> .
 
 <http://data.ub.uio.no/realfagstermer/c012604> a skos:Concept ;
-    dct:modified "2017-02-21T17:06:12.582000+00:00"^^xsd:dateTime ;
+    dct:modified "2017-05-22T13:53:10.271000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/aa780674-ac5f-40b2-a5a6-7912901f6d5f> .
 
 <http://data.ub.uio.no/realfagstermer/c012608> a skos:Concept ;
@@ -3637,6 +3789,12 @@
     dct:modified "2017-03-07T21:37:01.181000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/d5a885cd-56a0-4501-9c99-418db3fbcbdb> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t32c3421c-037e-11e7-adf1-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c012876> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q45782> ;
+    dct:modified "2017-05-22T13:59:57.585000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/tf0613eec-3ef6-11e7-8746-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c012892> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q200787> ;
@@ -3885,6 +4043,12 @@
         <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
     xl:altLabel <http://data.ub.uio.no/realfagstermer/t573260de-0ef4-11e7-b54d-02420131050e> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tee917bd2-feae-11e6-a523-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c013400> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q385577> ;
+    dct:modified "2017-05-22T15:26:58.028000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t17d7c1f6-3f03-11e7-91dc-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c013402> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q39689> ;
@@ -4216,6 +4380,12 @@
     dct:modified "2017-03-30T19:07:26.887000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t1d2d0108-157c-11e7-a434-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c030305> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q50615> ;
+    dct:modified "2017-05-22T13:55:45.594000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t5a2d56fe-3ef6-11e7-b1d2-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c030358> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q6535> ;
     dct:modified "2017-03-30T18:58:01.052000+00:00"^^xsd:dateTime ;
@@ -4236,10 +4406,46 @@
     dct:modified "2017-03-30T18:56:33.531000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t97aa644a-157a-11e7-9913-02420131050e> .
 
+<http://data.ub.uio.no/realfagstermer/c030474> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q262> ;
+    dct:modified "2017-05-22T14:01:12.299000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t1ce555c0-3ef7-11e7-bd1f-0242583ea775> .
+
 <http://data.ub.uio.no/realfagstermer/c030539> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q173> ;
     dct:modified "2017-03-30T19:08:36.350000+00:00"^^xsd:dateTime ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t4691b5ac-157c-11e7-be98-02420131050e> .
+
+<http://data.ub.uio.no/realfagstermer/c030678> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q13924> ;
+    dct:modified "2017-05-22T15:22:54.033000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t86992acc-3f02-11e7-b475-0242583ea775> .
+
+<http://data.ub.uio.no/realfagstermer/c030970> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q555450> ;
+    dct:modified "2017-05-22T15:35:01.223000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t3801f8b0-3f04-11e7-9ce4-0242583ea775> .
+
+<http://data.ub.uio.no/realfagstermer/c030984> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q131694> ;
+    dct:modified "2017-05-22T15:02:15.004000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/ta410adee-3eff-11e7-aec0-0242583ea775> .
+
+<http://data.ub.uio.no/realfagstermer/c031041> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q889> ;
+    dct:modified "2017-05-22T15:25:11.927000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/td7c9502a-3f02-11e7-a6b7-0242583ea775> .
+
+<http://data.ub.uio.no/realfagstermer/c031044> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q2729021> ;
+    dct:modified "2017-05-22T15:27:08.844000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
+    xl:prefLabel <http://data.ub.uio.no/realfagstermer/t1e7815ce-3f03-11e7-a099-0242583ea775> .
 
 <http://data.ub.uio.no/realfagstermer/c031218> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q229367> ;
@@ -4395,6 +4601,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Relativistic astrophysics"@en .
 
+<http://data.ub.uio.no/realfagstermer/t03c1345a-3f02-11e7-a9ba-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:19:14+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:19:14+02:00"^^xsd:dateTime ;
+    xl:literalForm "Administrative data processing"@en .
+
 <http://data.ub.uio.no/realfagstermer/t04e5869a-f78d-11e6-b93c-02420131050e> a xl:Label ;
     dct:created "2017-02-20T17:52:52+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/c267d370-f77f-11e6-9fd6-02420131050e> ;
@@ -4462,6 +4674,12 @@
     user:proofread "2017-02-23T22:34:17.996000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Barium"@en .
+
+<http://data.ub.uio.no/realfagstermer/t076da5b4-3ef5-11e7-a8de-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T15:46:17+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T15:46:17+02:00"^^xsd:dateTime ;
+    xl:literalForm "Advanced Interactive eXecutive"@en .
 
 <http://data.ub.uio.no/realfagstermer/t0843ae56-037d-11e7-bad1-02420131050e> a xl:Label ;
     dct:created "2017-03-07T22:28:40+01:00"^^xsd:dateTime ;
@@ -4855,6 +5073,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/cc9f2adc-7bcf-11e5-8420-f23c91890d47> ;
     xl:literalForm "Landscape ecology"@en .
 
+<http://data.ub.uio.no/realfagstermer/t17d7c1f6-3f03-11e7-91dc-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:26:57+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:26:57+02:00"^^xsd:dateTime ;
+    xl:literalForm "Afrikaans language monument"@en .
+
 <http://data.ub.uio.no/realfagstermer/t195bc328-f7a1-11e6-973d-02420131050e> a xl:Label ;
     dct:created "2017-02-20T20:16:36+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/c267d370-f77f-11e6-9fd6-02420131050e> ;
@@ -4953,6 +5177,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Plasma dynamics"@en .
 
+<http://data.ub.uio.no/realfagstermer/t1ce555c0-3ef7-11e7-bd1f-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T16:01:12+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T16:01:12+02:00"^^xsd:dateTime ;
+    xl:literalForm "Algeria"@en .
+
 <http://data.ub.uio.no/realfagstermer/t1d2d0108-157c-11e7-a434-02420131050e> a xl:Label ;
     dct:created "2017-03-30T21:07:26+02:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/07e75fa8-f9db-11e6-9cfd-02420131050e> ;
@@ -5007,6 +5237,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/cc9f2adc-7bcf-11e5-8420-f23c91890d47> ;
     xl:literalForm "Phylogeography"@en .
 
+<http://data.ub.uio.no/realfagstermer/t1e7815ce-3f03-11e7-a099-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:27:08+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:27:08+02:00"^^xsd:dateTime ;
+    xl:literalForm "Agder"@en .
+
 <http://data.ub.uio.no/realfagstermer/t1e7af0d0-f789-11e6-9b59-02420131050e> a xl:Label ;
     dct:created "2017-02-20T17:24:57+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
@@ -5020,6 +5256,12 @@
     user:proofread "2017-02-20T20:55:16.601000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Nuclear reactor physics"@en .
+
+<http://data.ub.uio.no/realfagstermer/t20c37186-3f0b-11e7-889b-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T18:24:28+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T18:24:28+02:00"^^xsd:dateTime ;
+    xl:literalForm "Actuary mathematics"@en .
 
 <http://data.ub.uio.no/realfagstermer/t20d0eda4-f78d-11e6-a063-02420131050e> a xl:Label ;
     dct:created "2017-02-20T17:53:39+01:00"^^xsd:dateTime ;
@@ -5191,11 +5433,23 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Abstract geometry"@en .
 
+<http://data.ub.uio.no/realfagstermer/t29b4c094-3f04-11e7-b536-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:34:37+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:34:37+02:00"^^xsd:dateTime ;
+    xl:literalForm "Academy"@en .
+
 <http://data.ub.uio.no/realfagstermer/t2abc5406-09b8-11e7-9d3d-02420131050e> a xl:Label ;
     dct:created "2017-03-15T20:47:05+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/ce21ee52-fe92-11e6-8c9b-02420131050e> ;
     dct:modified "2017-03-15T20:47:05+01:00"^^xsd:dateTime ;
     xl:literalForm "European Geophysical Society"@en .
+
+<http://data.ub.uio.no/realfagstermer/t2ac27e7a-3ef7-11e7-85a4-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T16:01:35+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T16:01:35+02:00"^^xsd:dateTime ;
+    xl:literalForm "Alkan"@en .
 
 <http://data.ub.uio.no/realfagstermer/t2ac783c6-09b8-11e7-8d97-02420131050e> a xl:Label ;
     dct:created "2017-03-15T20:47:05+01:00"^^xsd:dateTime ;
@@ -5504,6 +5758,12 @@
     user:proofread "2017-02-20T20:04:59.594000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Cell biophysics"@en .
+
+<http://data.ub.uio.no/realfagstermer/t3801f8b0-3f04-11e7-9ce4-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:35:01+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:35:01+02:00"^^xsd:dateTime ;
+    xl:literalForm "Akerselva"@en .
 
 <http://data.ub.uio.no/realfagstermer/t382ab280-feb5-11e6-9834-02420131050e> a xl:Label ;
     dct:created "2017-03-01T20:28:16+01:00"^^xsd:dateTime ;
@@ -5889,6 +6149,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Accretion"@en .
 
+<http://data.ub.uio.no/realfagstermer/t45e446fc-3ef7-11e7-9056-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T16:02:20+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T16:02:20+02:00"^^xsd:dateTime ;
+    xl:literalForm "Alchemy"@en .
+
 <http://data.ub.uio.no/realfagstermer/t45f5a800-f791-11e6-9d18-02420131050e> a xl:Label ;
     dct:created "2017-02-20T18:23:19+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/c267d370-f77f-11e6-9fd6-02420131050e> ;
@@ -5968,6 +6234,12 @@
     user:proofread "2017-02-20T20:36:48.320000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Ion physics"@en .
+
+<http://data.ub.uio.no/realfagstermer/t49623458-3f04-11e7-8fc7-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:35:30+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:35:30+02:00"^^xsd:dateTime ;
+    xl:literalForm "Accretion disk"@en .
 
 <http://data.ub.uio.no/realfagstermer/t49666cdc-feb6-11e6-90ac-02420131050e> a xl:Label ;
     dct:created "2017-03-01T20:35:55+01:00"^^xsd:dateTime ;
@@ -6075,6 +6347,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Metamorphic rocks"@en .
 
+<http://data.ub.uio.no/realfagstermer/t4cdd8cf6-3f02-11e7-b535-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:21:17+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:21:17+02:00"^^xsd:dateTime ;
+    xl:literalForm "Administrative leadership"@en .
+
 <http://data.ub.uio.no/realfagstermer/t4d0cf88c-f791-11e6-b795-02420131050e> a xl:Label ;
     dct:created "2017-02-20T18:23:31+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
@@ -6098,6 +6376,12 @@
     user:proofread "2017-02-20T20:57:17.533000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Cloud physics"@en .
+
+<http://data.ub.uio.no/realfagstermer/t4dfa953a-3ef7-11e7-9a6a-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T16:02:34+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T16:02:34+02:00"^^xsd:dateTime ;
+    xl:literalForm "Amine"@en .
 
 <http://data.ub.uio.no/realfagstermer/t4e30cde0-09bd-11e7-b1d0-02420131050e> a xl:Label ;
     dct:created "2017-03-15T21:23:52+01:00"^^xsd:dateTime ;
@@ -6152,6 +6436,12 @@
     user:proofread "2017-02-20T20:42:47.163000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Medical microbiology"@en .
+
+<http://data.ub.uio.no/realfagstermer/t4f9e9902-3f03-11e7-9997-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:28:31+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:28:31+02:00"^^xsd:dateTime ;
+    xl:literalForm "agglutinated foraminifera"@en .
 
 <http://data.ub.uio.no/realfagstermer/t4fe5c6ae-f874-11e6-8417-02420131050e> a xl:Label ;
     dct:created "2017-02-21T21:28:32+01:00"^^xsd:dateTime ;
@@ -6434,6 +6724,12 @@
     user:proofread "2017-02-20T21:14:52.112000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Bioacoustics"@en .
+
+<http://data.ub.uio.no/realfagstermer/t5a2d56fe-3ef6-11e7-b1d2-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T15:55:45+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T15:55:45+02:00"^^xsd:dateTime ;
+    xl:literalForm "Akershus"@en .
 
 <http://data.ub.uio.no/realfagstermer/t5a9aa240-f79d-11e6-a8b0-02420131050e> a xl:Label ;
     dct:created "2017-02-20T19:49:48+01:00"^^xsd:dateTime ;
@@ -7041,6 +7337,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Gopher"@en .
 
+<http://data.ub.uio.no/realfagstermer/t797a98cc-3f0b-11e7-87ea-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T18:26:57+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T18:26:57+02:00"^^xsd:dateTime ;
+    xl:literalForm "Acoustic properties"@en .
+
 <http://data.ub.uio.no/realfagstermer/t7a65edc6-ee0d-11e6-bd1c-024290857007> a xl:Label ;
     dct:created "2017-02-08T15:47:13+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/cc9f2adc-7bcf-11e5-8420-f23c91890d47> ;
@@ -7096,6 +7398,18 @@
     user:proofread "2017-02-20T19:30:55.234000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Atomic physics"@en .
+
+<http://data.ub.uio.no/realfagstermer/t7caee2b6-3eff-11e7-8438-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:01:08+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:01:08+02:00"^^xsd:dateTime ;
+    xl:literalForm "ADP-ribosylation"@en .
+
+<http://data.ub.uio.no/realfagstermer/t7d7f92c8-3f02-11e7-803b-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:22:38+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:22:38+02:00"^^xsd:dateTime ;
+    xl:literalForm "Capability-based addressing"@en .
 
 <http://data.ub.uio.no/realfagstermer/t7dfd4478-037c-11e7-9b4a-02420131050e> a xl:Label ;
     dct:created "2017-03-07T22:24:48+01:00"^^xsd:dateTime ;
@@ -7283,6 +7597,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Biological activity"@en .
 
+<http://data.ub.uio.no/realfagstermer/t86992acc-3f02-11e7-b475-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:22:53+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:22:53+02:00"^^xsd:dateTime ;
+    xl:literalForm "Adriatic sea"@en .
+
 <http://data.ub.uio.no/realfagstermer/t86ca8e4e-f620-11e6-b2b3-02420131050e> a xl:Label ;
     dct:created "2017-02-18T22:23:44+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
@@ -7370,6 +7690,12 @@
     user:proofread "2017-02-20T19:10:39.921000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "ALOX15"@en .
+
+<http://data.ub.uio.no/realfagstermer/t8a5000d0-3eff-11e7-939e-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:01:31+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:01:31+02:00"^^xsd:dateTime ;
+    xl:literalForm "Acyl halide"@en .
 
 <http://data.ub.uio.no/realfagstermer/t8a672732-f388-11e6-b03f-02420131050e> a xl:Label ;
     dct:created "2017-02-15T15:10:44+01:00"^^xsd:dateTime ;
@@ -7552,6 +7878,12 @@
     dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
     dct:modified "2017-03-17T20:56:19+01:00"^^xsd:dateTime ;
     xl:literalForm "Chemical evolution"@en .
+
+<http://data.ub.uio.no/realfagstermer/t8f5db188-3f0b-11e7-b050-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T18:27:34+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T18:27:34+02:00"^^xsd:dateTime ;
+    xl:literalForm "Acoustic methods"@en .
 
 <http://data.ub.uio.no/realfagstermer/t8f7d2a3e-0371-11e7-afbf-02420131050e> a xl:Label ;
     dct:created "2017-03-07T21:06:33+01:00"^^xsd:dateTime ;
@@ -7877,6 +8209,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Desmopressin"@en .
 
+<http://data.ub.uio.no/realfagstermer/t98cacc30-3eff-11e7-af4e-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:01:55+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:01:55+02:00"^^xsd:dateTime ;
+    xl:literalForm "Adamantane"@en .
+
 <http://data.ub.uio.no/realfagstermer/t98e61c4e-f78b-11e6-9f43-02420131050e> a xl:Label ;
     dct:created "2017-02-20T17:42:41+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
@@ -7954,6 +8292,12 @@
     user:proofread "2017-03-07T17:35:38.631000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Hall polynomials"@en .
+
+<http://data.ub.uio.no/realfagstermer/t9bf7fc12-3f03-11e7-96bb-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:30:39+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:30:39+02:00"^^xsd:dateTime ;
+    xl:literalForm "Agricultural hydrology"@en .
 
 <http://data.ub.uio.no/realfagstermer/t9c7fedaa-f9e1-11e6-b759-02420131050e> a xl:Label ;
     dct:created "2017-02-23T17:03:26+01:00"^^xsd:dateTime ;
@@ -8145,6 +8489,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Comparative evolution"@en .
 
+<http://data.ub.uio.no/realfagstermer/ta410adee-3eff-11e7-aec0-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:02:14+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:02:14+02:00"^^xsd:dateTime ;
+    xl:literalForm "Aden"@en .
+
 <http://data.ub.uio.no/realfagstermer/ta4988908-f783-11e6-ae29-02420131050e> a xl:Label ;
     dct:created "2017-02-20T16:45:45+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/c267d370-f77f-11e6-9fd6-02420131050e> ;
@@ -8206,6 +8556,12 @@
     user:proofread "2017-02-20T19:19:55.519000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Miscarriages"@en .
+
+<http://data.ub.uio.no/realfagstermer/ta739f774-3ef4-11e7-ac79-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T15:43:35+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T15:43:35+02:00"^^xsd:dateTime ;
+    xl:literalForm "ADHD"@en .
 
 <http://data.ub.uio.no/realfagstermer/ta73ccc00-0b1a-11e7-8a9f-02420131050e> a xl:Label ;
     dct:created "2017-03-17T15:04:36+01:00"^^xsd:dateTime ;
@@ -8503,6 +8859,24 @@
     user:proofreader <http://soksed.biblionaut.net/users/cc9f2adc-7bcf-11e5-8420-f23c91890d47> ;
     xl:literalForm "Aristocracy"@en .
 
+<http://data.ub.uio.no/realfagstermer/tb3230b04-3f0b-11e7-959a-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T18:28:34+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T18:28:34+02:00"^^xsd:dateTime ;
+    xl:literalForm "Acoustic signals"@en .
+
+<http://data.ub.uio.no/realfagstermer/tb32a09b8-3f0b-11e7-bc39-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T18:28:34+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T18:28:34+02:00"^^xsd:dateTime ;
+    xl:literalForm "Acoustic wave"@en .
+
+<http://data.ub.uio.no/realfagstermer/tb33cc442-3eff-11e7-96fb-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:02:40+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:02:40+02:00"^^xsd:dateTime ;
+    xl:literalForm "Adjuvant"@en .
+
 <http://data.ub.uio.no/realfagstermer/tb34cfb9c-fead-11e6-b04e-02420131050e> a xl:Label ;
     dct:created "2017-03-01T19:34:27+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/5ef6f3fe-fe8f-11e6-912a-02420131050e> ;
@@ -8653,6 +9027,12 @@
     dct:modified "2017-03-17T17:35:22+01:00"^^xsd:dateTime ;
     xl:literalForm "Fisheries science"@en .
 
+<http://data.ub.uio.no/realfagstermer/tb78cd16a-3f02-11e7-ab7f-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:24:15+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:24:15+02:00"^^xsd:dateTime ;
+    xl:literalForm "Absorptions"@en .
+
 <http://data.ub.uio.no/realfagstermer/tb7d51b80-0985-11e7-b49a-02420131050e> a xl:Label ;
     dct:created "2017-03-15T14:45:57+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/d12937cc-030b-11e7-af12-02420131050e> ;
@@ -8690,6 +9070,12 @@
     user:proofread "2017-03-07T22:04:08.224000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Gnuplot"@en .
+
+<http://data.ub.uio.no/realfagstermer/tbb384ef4-3ef6-11e7-9966-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T15:58:28+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T15:58:28+02:00"^^xsd:dateTime ;
+    xl:literalForm "Activation"@en .
 
 <http://data.ub.uio.no/realfagstermer/tbbd67c9e-341c-11e7-ac4e-0242583ea775> a xl:Label ;
     dct:created "2017-05-08T20:32:47+02:00"^^xsd:dateTime ;
@@ -8969,6 +9355,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Aquatic microbiology"@en .
 
+<http://data.ub.uio.no/realfagstermer/tc5e5fb32-3f03-11e7-8664-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:31:49+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:31:49+02:00"^^xsd:dateTime ;
+    xl:literalForm "Agroecology"@en .
+
 <http://data.ub.uio.no/realfagstermer/tc7e09aba-f85d-11e6-8716-02420131050e> a xl:Label ;
     dct:created "2017-02-21T18:47:15+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
@@ -9087,6 +9479,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Seafloor spreading centers"@en .
 
+<http://data.ub.uio.no/realfagstermer/tcd5f2b0a-3f02-11e7-afee-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:24:52+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:24:52+02:00"^^xsd:dateTime ;
+    xl:literalForm "Herbig Ae/Be star"@en .
+
 <http://data.ub.uio.no/realfagstermer/tcdcbfe18-f783-11e6-990d-02420131050e> a xl:Label ;
     dct:created "2017-02-20T16:46:54+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/c267d370-f77f-11e6-9fd6-02420131050e> ;
@@ -9124,6 +9522,12 @@
     user:proofread "2017-03-07T17:26:25.635000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Antibiotics"@en .
+
+<http://data.ub.uio.no/realfagstermer/tcf7029e2-3ef5-11e7-ae06-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T15:51:52+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T15:51:52+02:00"^^xsd:dateTime ;
+    xl:literalForm "Advanced Boolean Expression Language"@en .
 
 <http://data.ub.uio.no/realfagstermer/tcfa989e2-febf-11e6-a030-02420131050e> a xl:Label ;
     dct:created "2017-03-01T21:44:05+01:00"^^xsd:dateTime ;
@@ -9292,6 +9696,12 @@
     user:proofread "2017-02-20T19:40:54.230000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Biological transport"@en .
+
+<http://data.ub.uio.no/realfagstermer/td7c9502a-3f02-11e7-a6b7-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:25:10+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:25:10+02:00"^^xsd:dateTime ;
+    xl:literalForm "Afghanistan"@en .
 
 <http://data.ub.uio.no/realfagstermer/td881e592-157a-11e7-ac91-02420131050e> a xl:Label ;
     dct:created "2017-03-30T20:58:22+02:00"^^xsd:dateTime ;
@@ -9929,6 +10339,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Ethology"@en .
 
+<http://data.ub.uio.no/realfagstermer/tecc00c62-3f02-11e7-9ede-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:25:45+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:25:45+02:00"^^xsd:dateTime ;
+    xl:literalForm "Aflatoxin"@en .
+
 <http://data.ub.uio.no/realfagstermer/ted532e4c-0376-11e7-8c3c-02420131050e> a xl:Label ;
     dct:created "2017-03-07T21:44:58+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
@@ -10048,6 +10464,12 @@
     user:proofread "2017-03-07T22:03:25.424000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Electric discharges in gases"@en .
+
+<http://data.ub.uio.no/realfagstermer/tf0613eec-3ef6-11e7-8746-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T15:59:57+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T15:59:57+02:00"^^xsd:dateTime ;
+    xl:literalForm "Aquarium"@en .
 
 <http://data.ub.uio.no/realfagstermer/tf11c3058-0d82-11e7-a39b-02420131050e> a xl:Label ;
     dct:created "2017-03-20T16:36:10+01:00"^^xsd:dateTime ;
@@ -10191,6 +10613,12 @@
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Terrestrial physics"@en .
 
+<http://data.ub.uio.no/realfagstermer/tf6c3e154-3ef6-11e7-94a6-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T16:00:08+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T16:00:08+02:00"^^xsd:dateTime ;
+    xl:literalForm "Albatross"@en .
+
 <http://data.ub.uio.no/realfagstermer/tf6f4b37c-f78b-11e6-9f09-02420131050e> a xl:Label ;
     dct:created "2017-02-20T17:45:19+01:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
@@ -10294,6 +10722,18 @@
     user:proofread "2017-03-07T22:04:14.495000+00:00"^^xsd:dateTime ;
     user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Golgi apparatus"@en .
+
+<http://data.ub.uio.no/realfagstermer/tf9c36852-3f0a-11e7-a7cc-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T18:23:23+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T18:23:23+02:00"^^xsd:dateTime ;
+    xl:literalForm "Data acquisition"@en .
+
+<http://data.ub.uio.no/realfagstermer/tf9ea329a-3f03-11e7-9dbe-0242583ea775> a xl:Label ;
+    dct:created "2017-05-22T17:33:16+02:00"^^xsd:dateTime ;
+    dct:creator <http://soksed.biblionaut.net/users/3b0f2eba-f77e-11e6-accf-02420131050e> ;
+    dct:modified "2017-05-22T17:33:16+02:00"^^xsd:dateTime ;
+    xl:literalForm "Airy function"@en .
 
 <http://data.ub.uio.no/realfagstermer/tfa09f1fe-09b9-11e7-b124-02420131050e> a xl:Label ;
     dct:created "2017-03-15T21:00:02+01:00"^^xsd:dateTime ;
@@ -10440,11 +10880,11 @@
 <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> a uoc:Category ;
     rdfs:label "Generelt"@nb .
 
-<http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> a uoc:Category ;
-    rdfs:label "Kjemi"@nb .
-
 <http://data.ub.uio.no/entity/c331c5e9-726c-4c55-9341-72d3e7874d6b> a uoc:Category ;
     rdfs:label "Fysikk"@nb .
+
+<http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107> a uoc:Category ;
+    rdfs:label "Kjemi"@nb .
 
 <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> a uoc:Category ;
     rdfs:label "Geo"@nb .
