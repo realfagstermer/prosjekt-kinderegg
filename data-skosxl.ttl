@@ -7963,6 +7963,8 @@
     dct:created "2017-05-29T20:11:17+02:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/c267d370-f77f-11e6-9fd6-02420131050e> ;
     dct:modified "2017-05-29T20:11:17+02:00"^^xsd:dateTime ;
+    user:proofread "2017-06-06T11:42:53.265000+00:00"^^xsd:dateTime ;
+    user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Fish physiology"@en .
 
 <http://data.ub.uio.no/realfagstermer/t35d696d0-f85b-11e6-9ee2-02420131050e> a xl:Label ;
