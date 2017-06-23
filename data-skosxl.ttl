@@ -1266,6 +1266,11 @@
         <http://trans.biblionaut.net/terms/t002979-1>,
         <http://trans.biblionaut.net/terms/t002979-2> .
 
+<http://data.ub.uio.no/realfagstermer/c002996> a skos:Concept ;
+    ubo:wikidataItem <http://www.wikidata.org/entity/Q124900> ;
+    dct:modified "2017-06-22T12:12:18.373000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3> .
+
 <http://data.ub.uio.no/realfagstermer/c003033> a skos:Concept ;
     dct:modified "2017-03-22T12:18:16.693000+00:00"^^xsd:dateTime ;
     skos:member <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd> ;
