@@ -7,3 +7,6 @@ samt statistikk.
 I prosjektet blir [Realfagstermer](https://github.com/realfagstermer/realfagstermer)
 kategorisert, omsett til engelsk og mappa til Wikdiata. Arbeidet byrja 20. februar 2017
 og vert gjort i samband med studentar.
+
+[![Translation progress: total terms](total_terms.png)](https://plot.ly/~danmichaelo/380/)
+
