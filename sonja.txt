@@ -881,6 +881,8 @@ REAL012733	prefLabel	Leaf beetles
 REAL012734	prefLabel	Branchiopods
 REAL012750	prefLabel	Brominated flame retardants
 REAL012753	prefLabel	Behavior
+REAL012755	altLabel	Business culture
+REAL012755	prefLabel	Organizational culture
 REAL012768	prefLabel	Palaeography
 REAL012776	prefLabel	Applied palaeontology
 REAL012789	altLabel	Renewable resources
