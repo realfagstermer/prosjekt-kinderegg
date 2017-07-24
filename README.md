@@ -8,5 +8,7 @@ I prosjektet blir [Realfagstermer](https://github.com/realfagstermer/realfagster
 kategorisert, omsett til engelsk og mappa til Wikdiata. Arbeidet byrja 20. februar 2017
 og vert gjort i samband med studentar.
 
-[![Translation progress: total terms](total_terms.png)](https://plot.ly/~danmichaelo/380/)
+[![Translation progress: terms](terms.png)](https://plot.ly/~danmichaelo/417/)
+
+[![Translation progress: concept status](concepts.png)](https://plot.ly/~danmichaelo/419/)
 
