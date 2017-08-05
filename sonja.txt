@@ -2683,6 +2683,7 @@ REAL030652	prefLabel	Brighton
 REAL030653	prefLabel	Bremen
 REAL030654	prefLabel	Bremanger
 REAL030655	prefLabel	Boston
+REAL030657	prefLabel	Blankvann
 REAL030658	prefLabel	Birkenes
 REAL030662	prefLabel	Benelux
 REAL030663	prefLabel	Beijing
@@ -2824,6 +2825,7 @@ REAL030919	prefLabel	Brussels
 REAL030923	prefLabel	Breheimen
 REAL030925	prefLabel	Botswana
 REAL030927	prefLabel	Bonn
+REAL030929	prefLabel	Blekinge
 REAL030930	prefLabel	Bay of Biscay
 REAL030931	prefLabel	Bindalen
 REAL030934	prefLabel	Besseggen
