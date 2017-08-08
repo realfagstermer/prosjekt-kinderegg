@@ -215,6 +215,8 @@ REAL001151	altLabel	Biological activity
 REAL001151	prefLabel	Bioactivity
 REAL001159	prefLabel	Cray
 REAL001174	prefLabel	Hunting weapons
+REAL001184	altLabel	Conflagrations
+REAL001184	prefLabel	Fires
 REAL001196	prefLabel	Groundwater models
 REAL001210	prefLabel	Kindergartens
 REAL001220	altLabel	Biodrugs
@@ -441,6 +443,7 @@ REAL002468	prefLabel	Soil biology
 REAL002474	altLabel	Hansen's disease
 REAL002474	prefLabel	Leprosy
 REAL002476	prefLabel	Antibodies
+REAL002483	prefLabel	Coherence
 REAL002503	prefLabel	Plant biochemistry
 REAL002506	altLabel	Electron pair model
 REAL002506	altLabel	VSEPR
@@ -454,6 +457,7 @@ REAL002535	prefLabel	Ion physics
 REAL002540	prefLabel	Anisotropy
 REAL002542	altLabel	DOS
 REAL002542	prefLabel	Disc Operating System
+REAL002550	prefLabel	Ballistics
 REAL002563	prefLabel	Geoconservation
 REAL002564	prefLabel	Galactic halos
 REAL002565	prefLabel	D-modules
@@ -833,6 +837,7 @@ REAL004931	altLabel	Surveying
 REAL004931	altLabel	Topographic surveys
 REAL004931	prefLabel	Geographic surveys
 REAL004941	prefLabel	Buddhism
+REAL004948	prefLabel	Bremsstrahlung
 REAL004950	altLabel	Paths
 REAL004950	altLabel	Tracks
 REAL004950	prefLabel	Trails
@@ -927,6 +932,7 @@ REAL005536	prefLabel	Trolling
 REAL005548	prefLabel	Baboons
 REAL005550	prefLabel	Detection
 REAL005557	prefLabel	Marine biologists
+REAL005565	prefLabel	Doppler effect
 REAL005574	prefLabel	Dissociation
 REAL005595	prefLabel	Wave analysis
 REAL005610	altLabel	19-norandrostenolone
@@ -959,6 +965,7 @@ REAL005770	prefLabel	Quantum biology
 REAL005773	prefLabel	Experimental physics
 REAL005778	prefLabel	Autumn
 REAL005782	prefLabel	Biocides
+REAL005784	prefLabel	Firefighting
 REAL005800	prefLabel	Bureaucracy
 REAL005816	altLabel	Etz Hayim
 REAL005816	prefLabel	Tree of Life
@@ -998,6 +1005,7 @@ REAL006062	prefLabel	Industrial biology
 REAL006068	prefLabel	Fossil fuels
 REAL006071	prefLabel	Space physics
 REAL006073	prefLabel	Oil wells
+REAL006074	prefLabel	Flux
 REAL006084	altLabel	COSPAR
 REAL006084	prefLabel	Committee on Space Research
 REAL006088	prefLabel	Biosphere
@@ -1031,6 +1039,7 @@ REAL006319	prefLabel	Graphite
 REAL006325	altLabel	Business administration
 REAL006325	prefLabel	Business management
 REAL006328	prefLabel	Structural geology
+REAL006334	prefLabel	Adjuvant
 REAL006354	prefLabel	Fluvial processes
 REAL006359	altLabel	Climate gases
 REAL006359	prefLabel	Greenhouse gases
@@ -1346,6 +1355,7 @@ REAL008182	prefLabel	Atomic masses
 REAL008185	altLabel	Animal psychology
 REAL008185	altLabel	Ethology
 REAL008185	prefLabel	Behavioral biology
+REAL008196	prefLabel	Refraction
 REAL008213	prefLabel	Crystallographic groups
 REAL008215	prefLabel	Publisher
 REAL008216	prefLabel	Emulsions
@@ -1622,6 +1632,7 @@ REAL009924	prefLabel	Terrorism
 REAL009941	prefLabel	Algebras
 REAL009950	altLabel	Skatteetaten
 REAL009950	prefLabel	Norwegian Tax Administration
+REAL009952	prefLabel	ADP-ribosyltransferases
 REAL009955	prefLabel	Active galaxies
 REAL009958	prefLabel	Acrylates
 REAL009960	prefLabel	Golf
@@ -1786,6 +1797,7 @@ REAL010945	prefLabel	Accretion
 REAL010968	prefLabel	Gneiss
 REAL010969	altLabel	Igneous petrology
 REAL010969	prefLabel	Magmatic petrology
+REAL010983	prefLabel	Torque
 REAL010984	prefLabel	Human evolution
 REAL010987	prefLabel	Physics exercises
 REAL010992	prefLabel	Applied geology
@@ -1812,6 +1824,7 @@ REAL011086	prefLabel	Aquatic plants
 REAL011111	prefLabel	Medical biology
 REAL011115	prefLabel	Financial crises
 REAL011158	prefLabel	Accelerating universe
+REAL011186	prefLabel	Dynamics
 REAL011189	prefLabel	Freshwater fish
 REAL011200	prefLabel	Cannabis
 REAL011216	altLabel	K stars
@@ -2403,6 +2416,7 @@ REAL013847	altLabel	Humans
 REAL013847	prefLabel	Human biology
 REAL013851	altLabel	Lawns
 REAL013851	prefLabel	Grass lawns
+REAL013854	prefLabel	Fresnel lenses
 REAL013860	prefLabel	Antidepressants
 REAL013871	altLabel	Herpetofauna
 REAL013871	altLabel	Herptiles
@@ -2893,6 +2907,7 @@ REAL031051	altLabel	Kampuchea
 REAL031051	prefLabel	Kingdom of Cambodia
 REAL031052	prefLabel	Narvik
 REAL031057	prefLabel	Reykjavík
+REAL031090	prefLabel	Ionizing radiation
 REAL031222	prefLabel	Lyngen alps
 REAL031275	prefLabel	Agricultural policy
 REAL031278	prefLabel	Ciphers
