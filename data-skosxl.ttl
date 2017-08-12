@@ -18802,7 +18802,8 @@
 
 <http://data.ub.uio.no/realfagstermer/c030358> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q6535> ;
-    dct:modified "2017-03-30T18:58:01.052000+00:00"^^xsd:dateTime ;
+    dct:modified "2017-08-11T13:53:18.162000+00:00"^^xsd:dateTime ;
+    skos:member <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/tcbe748c2-157a-11e7-b137-02420131050e> .
 
 <http://data.ub.uio.no/realfagstermer/c030361> a skos:Concept ;
@@ -46732,6 +46733,8 @@
     dct:created "2017-03-30T20:58:00+02:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/07e75fa8-f9db-11e6-9cfd-02420131050e> ;
     dct:modified "2017-03-30T20:58:00+02:00"^^xsd:dateTime ;
+    user:proofread "2017-08-11T13:53:22.398000+00:00"^^xsd:dateTime ;
+    user:proofreader <http://soksed.biblionaut.net/users/ed8973c8-c393-11e4-933b-f23c91890d47> ;
     xl:literalForm "Alta"@en .
 
 <http://data.ub.uio.no/realfagstermer/tcbe98c98-66df-11e7-b08e-02429857180e> a xl:Label ;
@@ -48733,8 +48736,8 @@
     xl:literalForm "Extreme value theory"@en .
 
 <http://data.ub.uio.no/realfagstermer/tdccbe5a4-609c-11e7-86a0-02429857180e> a xl:Label ;
-    dct:created "2017-07-04T09:40:49+00:00"^^xsd:dateTime,
-        "2017-07-04T11:40:49+02:00"^^xsd:dateTime ;
+    dct:created "2017-07-04T11:40:49+02:00"^^xsd:dateTime,
+        "2017-07-04T09:40:49+00:00"^^xsd:dateTime ;
     dct:creator <http://soksed.biblionaut.net/users/945abb06-5fd9-11e7-99e3-02429857180e> ;
     dct:modified "2017-07-04T11:40:49+02:00"^^xsd:dateTime,
         "2017-08-08T13:14:14+02:00"^^xsd:dateTime ;

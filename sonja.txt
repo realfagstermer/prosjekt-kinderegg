@@ -2611,6 +2611,7 @@ REAL030348	prefLabel	Syria
 REAL030354	prefLabel	Helgeland
 REAL030356	prefLabel	Bulgaria
 REAL030357	prefLabel	Amsterdam
+REAL030358	prefLabel	Alta
 REAL030361	prefLabel	West Africa
 REAL030371	prefLabel	Lebanon
 REAL030374	prefLabel	Gotland
