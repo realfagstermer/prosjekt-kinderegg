@@ -1,1 +1,89 @@
-{}
+{
+  "REAL007267": {
+    "altLabel": [
+      "Ptarmigan"
+    ], 
+    "prefLabel": "Rock ptarmigan"
+  }, 
+  "REAL006401": {
+    "altLabel": [
+      "Autophagocytosis"
+    ], 
+    "prefLabel": "Autophagy"
+  }, 
+  "REAL011595": {
+    "altLabel": [
+      "B cells"
+    ], 
+    "prefLabel": "B lymphocytes"
+  }, 
+  "REAL009425": {
+    "altLabel": [], 
+    "prefLabel": "Bamboos"
+  }, 
+  "REAL000937": {
+    "altLabel": [
+      "English yew"
+    ], 
+    "prefLabel": "European yew"
+  }, 
+  "REAL003195": {
+    "altLabel": [], 
+    "prefLabel": "Medical ethics"
+  }, 
+  "REAL002839": {
+    "altLabel": [], 
+    "prefLabel": "Cosmetics"
+  }, 
+  "REAL010265": {
+    "altLabel": [], 
+    "prefLabel": "Baobabs"
+  }, 
+  "REAL003790": {
+    "altLabel": [], 
+    "prefLabel": "Assimilation"
+  }, 
+  "REAL009218": {
+    "altLabel": [], 
+    "prefLabel": "Professional ethics"
+  }, 
+  "REAL004802": {
+    "altLabel": [], 
+    "prefLabel": "Autonomy"
+  }, 
+  "REAL007974": {
+    "altLabel": [], 
+    "prefLabel": "Environmental ethics"
+  }, 
+  "REAL005435": {
+    "altLabel": [], 
+    "prefLabel": "Aster"
+  }, 
+  "REAL014050": {
+    "altLabel": [
+      "Behavioural genetics", 
+      "Behavior genetics", 
+      "Behavioral genetics", 
+      "Behaviour genetics"
+    ], 
+    "prefLabel": "Behavioural genetics"
+  }, 
+  "REAL005181": {
+    "altLabel": [], 
+    "prefLabel": "Bark"
+  }, 
+  "REAL009843": {
+    "altLabel": [], 
+    "prefLabel": "Baleen whales"
+  }, 
+  "REAL002623": {
+    "altLabel": [
+      "Bacterial infections"
+    ], 
+    "prefLabel": "Bacterial diseases"
+  }, 
+  "REAL003584": {
+    "altLabel": [], 
+    "prefLabel": "Baking"
+  }
+}
