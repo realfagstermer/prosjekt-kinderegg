@@ -5072,6 +5072,7 @@
 <http://data.ub.uio.no/realfagstermer/c002774> a skos:Concept ;
     ubo:wikidataItem <http://www.wikidata.org/entity/Q16002931> ;
     dct:modified "2017-08-15T22:25:23.305000+00:00"^^xsd:dateTime ;
+    user:locked true ;
     skos:member <http://data.ub.uio.no/entity/c331c5e9-726c-4c55-9341-72d3e7874d6b> ;
     xl:prefLabel <http://data.ub.uio.no/realfagstermer/t6e1a21bc-60a0-11e7-bdbe-02429857180e> .
 
