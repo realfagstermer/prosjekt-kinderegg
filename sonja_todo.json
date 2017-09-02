@@ -1,12 +1,12 @@
 {
-  "REAL013058": {
+  "REAL007342": {
     "altLabel": [], 
-    "prefLabel": "Magnetospheres"
+    "prefLabel": "Acoustic properties"
   }, 
-  "REAL012947": {
+  "REAL003347": {
     "altLabel": [
-      "Ionosphere"
+      "Summits"
     ], 
-    "prefLabel": "Ionospheres"
+    "prefLabel": "Mountains"
   }
 }
