@@ -1,1 +1,301 @@
-{}
+{
+  "REAL005246": {
+    "altLabel": [
+      "Regulation of rivers"
+    ], 
+    "prefLabel": "River engineering"
+  }, 
+  "REAL010923": {
+    "altLabel": [], 
+    "prefLabel": "Fish ecology"
+  }, 
+  "REAL010047": {
+    "altLabel": [
+      "Deep sea creatures"
+    ], 
+    "prefLabel": "Deep sea organisms"
+  }, 
+  "REAL003889": {
+    "altLabel": [], 
+    "prefLabel": "Electric fish"
+  }, 
+  "REAL010412": {
+    "altLabel": [
+      "Lacertas", 
+      "True lizards"
+    ], 
+    "prefLabel": "Wall lizards"
+  }, 
+  "REAL008186": {
+    "altLabel": [
+      "Pansies"
+    ], 
+    "prefLabel": "Violets"
+  }, 
+  "REAL009175": {
+    "altLabel": [], 
+    "prefLabel": "Fig wasps"
+  }, 
+  "REAL030664": {
+    "altLabel": [], 
+    "prefLabel": "Batavia"
+  }, 
+  "REAL030472": {
+    "altLabel": [], 
+    "prefLabel": "Babylon"
+  }, 
+  "REAL010794": {
+    "altLabel": [], 
+    "prefLabel": "Cell surfaces"
+  }, 
+  "REAL004050": {
+    "altLabel": [], 
+    "prefLabel": "Applied genetics"
+  }, 
+  "REAL003776": {
+    "altLabel": [], 
+    "prefLabel": "Fish parasites"
+  }, 
+  "REAL001899": {
+    "altLabel": [], 
+    "prefLabel": "Cell physiology"
+  }, 
+  "REAL011282": {
+    "altLabel": [
+      "Arboretum"
+    ], 
+    "prefLabel": "Arboreta"
+  }, 
+  "REAL001105": {
+    "altLabel": [
+      "Cell regulation"
+    ], 
+    "prefLabel": "Cellular control"
+  }, 
+  "REAL011814": {
+    "altLabel": [], 
+    "prefLabel": "Deep-water corals"
+  }, 
+  "REAL009743": {
+    "altLabel": [
+      "Deep water crabs", 
+      "Deep sea crabs", 
+      "Deep-water crabs"
+    ], 
+    "prefLabel": "Deep-sea crabs"
+  }, 
+  "REAL030947": {
+    "altLabel": [], 
+    "prefLabel": "Balestrand"
+  }, 
+  "REAL007334": {
+    "altLabel": [
+      "Biosonar"
+    ], 
+    "prefLabel": "Echolocation"
+  }, 
+  "REAL002961": {
+    "altLabel": [], 
+    "prefLabel": "Pancreas"
+  }, 
+  "REAL001555": {
+    "altLabel": [], 
+    "prefLabel": "Cytotaxonomy"
+  }, 
+  "REAL010217": {
+    "altLabel": [], 
+    "prefLabel": "Anthropozoonoses"
+  }, 
+  "REAL003505": {
+    "altLabel": [], 
+    "prefLabel": "Fish death"
+  }, 
+  "REAL009584": {
+    "altLabel": [
+      "Deep-water reefs"
+    ], 
+    "prefLabel": "Deep sea reefs"
+  }, 
+  "REAL004192": {
+    "altLabel": [
+      "Figs", 
+      "Fig trees"
+    ], 
+    "prefLabel": "Fig trees"
+  }, 
+  "REAL012705": {
+    "altLabel": [
+      "Atmospheric CO2"
+    ], 
+    "prefLabel": "Atmospheric carbon dioxide"
+  }, 
+  "REAL011541": {
+    "altLabel": [], 
+    "prefLabel": "Prey"
+  }, 
+  "REAL004733": {
+    "altLabel": [], 
+    "prefLabel": "Collision with moose"
+  }, 
+  "REAL006298": {
+    "altLabel": [], 
+    "prefLabel": "Asbestosis"
+  }, 
+  "REAL002007": {
+    "altLabel": [], 
+    "prefLabel": "Fish meal"
+  }, 
+  "REAL003664": {
+    "altLabel": [], 
+    "prefLabel": "Epithelium"
+  }, 
+  "REAL005528": {
+    "altLabel": [], 
+    "prefLabel": "Abdominal muscles"
+  }, 
+  "REAL030295": {
+    "altLabel": [], 
+    "prefLabel": "Baltic states"
+  }, 
+  "REAL030990": {
+    "altLabel": [], 
+    "prefLabel": "Bamble field"
+  }, 
+  "REAL002375": {
+    "altLabel": [
+      "Aquatic insects"
+    ], 
+    "prefLabel": "Freshwater insects"
+  }, 
+  "REAL002135": {
+    "altLabel": [], 
+    "prefLabel": "Electrocommunication"
+  }, 
+  "REAL001032": {
+    "altLabel": [
+      "Annuals"
+    ], 
+    "prefLabel": "Annual plants"
+  }, 
+  "REAL012455": {
+    "altLabel": [
+      "Cytotstatics", 
+      "Cytotoxic chemotherapy"
+    ], 
+    "prefLabel": "Cytotoxic drugs"
+  }, 
+  "REAL004996": {
+    "altLabel": [
+      "Fish eggs"
+    ], 
+    "prefLabel": "Roe"
+  }, 
+  "REAL005061": {
+    "altLabel": [], 
+    "prefLabel": "Deep sea fish"
+  }, 
+  "REAL005867": {
+    "altLabel": [], 
+    "prefLabel": "Epiphytes"
+  }, 
+  "REAL005008": {
+    "altLabel": [], 
+    "prefLabel": "Fish diseases"
+  }, 
+  "REAL006880": {
+    "altLabel": [], 
+    "prefLabel": "Juniper berries"
+  }, 
+  "REAL003944": {
+    "altLabel": [], 
+    "prefLabel": "Hermit crabs"
+  }, 
+  "REAL030429": {
+    "altLabel": [], 
+    "prefLabel": "Bamle"
+  }, 
+  "REAL012044": {
+    "altLabel": [], 
+    "prefLabel": "Dangerous animals"
+  }, 
+  "REAL007618": {
+    "altLabel": [
+      "Freshwater animals"
+    ], 
+    "prefLabel": "Freshwater fauna"
+  }, 
+  "REAL008178": {
+    "altLabel": [], 
+    "prefLabel": "Alkalosis"
+  }, 
+  "REAL013625": {
+    "altLabel": [
+      "O\u00f6genesis", 
+      "Ovogenesis"
+    ], 
+    "prefLabel": "Oogenesis"
+  }, 
+  "REAL001607": {
+    "altLabel": [], 
+    "prefLabel": "Entozoa"
+  }, 
+  "REAL009634": {
+    "altLabel": [], 
+    "prefLabel": "Animal groups"
+  }, 
+  "REAL013700": {
+    "altLabel": [
+      "Fish care"
+    ], 
+    "prefLabel": "Fish management"
+  }, 
+  "REAL002442": {
+    "altLabel": [], 
+    "prefLabel": "Fibrin"
+  }, 
+  "REAL013664": {
+    "altLabel": [], 
+    "prefLabel": "Fisheries science"
+  }, 
+  "REAL011865": {
+    "altLabel": [], 
+    "prefLabel": "Fish pathology"
+  }, 
+  "REAL012926": {
+    "altLabel": [
+      "Bogbean"
+    ], 
+    "prefLabel": "Buckbean"
+  }, 
+  "REAL012927": {
+    "altLabel": [], 
+    "prefLabel": "Buckbean family"
+  }, 
+  "REAL002549": {
+    "altLabel": [
+      "Acoustic signalling", 
+      "Acoustic communication"
+    ], 
+    "prefLabel": "Acoustic signals"
+  }, 
+  "REAL010666": {
+    "altLabel": [], 
+    "prefLabel": "Finches"
+  }, 
+  "REAL013827": {
+    "altLabel": [
+      "Ichthyology", 
+      "Fish science", 
+      "Fish"
+    ], 
+    "prefLabel": "Fishes"
+  }, 
+  "REAL006282": {
+    "altLabel": [], 
+    "prefLabel": "Fat"
+  }, 
+  "REAL005558": {
+    "altLabel": [], 
+    "prefLabel": "Adipose tissue"
+  }
+}

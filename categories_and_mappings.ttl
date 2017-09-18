@@ -15,6 +15,8 @@ real:c000716  skos:closeMatch  wd:Q2495041 .
 
 real:c005435  skos:closeMatch  wd:Q517130 .
 
+real:c007178  skos:closeMatch  wd:Q233309 .
+
 real:c001858  skos:closeMatch  wd:Q655362 .
 
 real:c008809  skos:closeMatch  wd:Q26161438 .
@@ -27,9 +29,15 @@ real:c031222  skos:closeMatch  wd:Q2080571 .
 
 real:c010952  skos:closeMatch  wd:Q21196 .
 
+real:c030621  skos:closeMatch  wd:Q23204 .
+
+real:c012695  skos:closeMatch  wd:Q39350 .
+
 real:c004749  skos:closeMatch  wd:Q494483 .
 
 real:c003750  skos:closeMatch  wd:Q11635028 .
+
+real:c000291  skos:closeMatch  wd:Q14079 .
 
 real:c031763  skos:closeMatch  wd:Q4724016 .
 
@@ -63,7 +71,11 @@ real:c008931  skos:closeMatch  wd:Q901628 .
 
 real:c007698  skos:closeMatch  wd:Q185557 .
 
+real:c013998  skos:closeMatch  wd:Q623 .
+
 real:c012191  skos:closeMatch  wd:Q708 .
+
+real:c004245  skos:closeMatch  wd:Q634314 .
 
 real:c001269  skos:closeMatch  wd:Q599967 .
 
@@ -88,6 +100,8 @@ real:c002417  skos:closeMatch  wd:Q712378 .
 real:c005387  skos:closeMatch  wd:Q833065 .
 
 real:c011511  skos:closeMatch  wd:Q2274700 .
+
+real:c007762  skos:closeMatch  wd:Q648037 .
 
 real:c009511  skos:closeMatch  wd:Q2665569 .
 
@@ -233,6 +247,8 @@ real:c008252  skos:closeMatch  wd:Q471635 .
 
 real:c013325  skos:closeMatch  wd:Q25314 .
 
+real:c030319  skos:closeMatch  wd:Q211 .
+
 real:c004675  skos:closeMatch  wd:Q309200 .
 
 real:c010167  skos:closeMatch  wd:Q159675 .
@@ -307,7 +323,11 @@ real:c030903  skos:closeMatch  wd:Q189262 .
 
 real:c001174  skos:closeMatch  wd:Q1678432 .
 
+real:c002799  skos:closeMatch  wd:Q93201 .
+
 real:c004548  skos:closeMatch  wd:Q166564 .
+
+real:c005292  skos:closeMatch  wd:Q25339171 .
 
 real:c001089  skos:closeMatch  wd:Q1065 .
 
@@ -363,6 +383,8 @@ real:c030229  skos:closeMatch  wd:Q27 .
 
 real:c006334  skos:closeMatch  wd:Q357896 .
 
+real:c030855  skos:closeMatch  wd:Q118841 .
+
 real:c012935  skos:closeMatch  wd:Q25424200 .
 
 real:c005107  skos:closeMatch  wd:Q203547 .
@@ -370,6 +392,8 @@ real:c005107  skos:closeMatch  wd:Q203547 .
 real:c007959  skos:closeMatch  wd:Q46360 .
 
 real:c003984  skos:closeMatch  wd:Q25615 .
+
+real:c030372  skos:closeMatch  wd:Q810 .
 
 real:c002274  skos:closeMatch  wd:Q726474 .
 
@@ -395,7 +419,11 @@ real:c000987  skos:closeMatch  wd:Q423744 .
 
 real:c012431  skos:closeMatch  wd:Q150971 .
 
+real:c007455  skos:closeMatch  wd:Q180951 .
+
 real:c011830  skos:closeMatch  wd:Q5422399 .
+
+real:c030749  skos:closeMatch  wd:Q206469 .
 
 real:c003878  skos:closeMatch  wd:Q208554 .
 
@@ -417,10 +445,12 @@ real:c005770  skos:closeMatch  wd:Q1429339 .
 
 real:c009262  skos:closeMatch  wd:Q210861 .
 
+real:c030813  skos:closeMatch  wd:Q487529 .
+
 <http://data.ub.uio.no/entity/4d8d7781-2753-4d38-9ef9-de6c8cea4107>
         a            uoc:Category ;
         rdfs:label   "Kjemi"@nb ;
-        skos:member  real:c009299 , real:c004749 , real:c007798 , real:c004174 , real:c012343 , real:c010075 , real:c009665 , real:c012197 , real:c000033 , real:c012640 , real:c007354 , real:c005574 , real:c009373 , real:c001114 , real:c004679 , real:c009478 , real:c005782 , real:c013316 , real:c011823 , real:c012203 , real:c002843 , real:c000770 , real:c011532 , real:c012338 , real:c012171 , real:c013786 , real:c012570 , real:c010672 , real:c003099 , real:c004308 , real:c003375 , real:c011055 , real:c011691 , real:c008771 , real:c012368 , real:c004130 , real:c006319 , real:c002707 , real:c009726 , real:c011528 , real:c004937 , real:c000277 , real:c013782 , real:c004819 , real:c012188 , real:c006315 , real:c012329 , real:c005184 , real:c006231 , real:c008535 , real:c000958 , real:c007140 , real:c002934 , real:c001057 , real:c002263 , real:c013629 , real:c009730 , real:c009527 , real:c001017 , real:c005747 , real:c004531 , real:c012081 , real:c012192 , real:c011677 , real:c002317 , real:c013389 , real:c011076 , real:c009304 , real:c010377 , real:c001328 , real:c011370 , real:c000533 , real:c001166 , real:c012063 , real:c003194 , real:c012179 , real:c000193 , real:c012355 , real:c009088 , real:c004438 , real:c002702 , real:c000380 , real:c000345 , real:c013393 , real:c011883 , real:c010719 , real:c001437 , real:c003104 , real:c010762 , real:c008351 , real:c005970 , real:c005368 , real:c006282 , real:c004455 , real:c006027 , real:c012183 , real:c010544 , real:c001022 , real:c010897 , real:c012324 , real:c006563 , real:c004147 , real:c003791 , real:c002249 , real:c004547 , real:c009681 , real:c004177 , real:c007745 , real:c002352 , real:c008068 , real:c005359 , real:c012320 , real:c005324 , real:c004103 , real:c008976 , real:c005551 , real:c012730 , real:c010788 , real:c004656 , real:c009258 , real:c003726 , real:c002275 , real:c006800 , real:c012371 , real:c012174 , real:c008329 , real:c010473 , real:c000207 , real:c012315 , real:c009316 , real:c007701 , real:c012350 , real:c008359 , real:c012169 , real:c005052 , real:c009759 , real:c012345 , real:c005082 , real:c001475 , real:c002131 , real:c004865 , real:c008468 , real:c003080 , real:c000603 , real:c005043 , real:c004172 , real:c002867 , real:c011642 , real:c005690 , real:c003644 , real:c000935 , real:c004388 , real:c011798 , real:c012195 , real:c005022 , real:c000284 , real:c009763 , real:c006491 , real:c004743 , real:c012336 , real:c002094 , real:c005419 , real:c009821 , real:c006501 , real:c000353 , real:c003522 , real:c004497 , real:c000742 , real:c005131 , real:c002257 , real:c007652 , real:c000580 , real:c005236 , real:c002394 , real:c002543 , real:c013402 , real:c011768 , real:c002640 , real:c004817 , real:c012332 , real:c004471 , real:c012186 , real:c000219 , real:c012826 , real:c008918 , real:c012327 , real:c006666 , real:c001737 , real:c004115 , real:c003759 , real:c007308 , real:c012362 , real:c011464 , real:c013727 , real:c007020 , real:c002814 , real:c010380 , real:c004318 , real:c010598 , real:c012265 , real:c008310 , real:c003733 , real:c006998 , real:c002744 , real:c003712 , real:c012357 , real:c004154 , real:c000838 , real:c013034 , real:c003127 , real:c010055 , real:c001728 , real:c008445 , real:c005711 , real:c006522 , real:c010508 , real:c003044 , real:c008621 , real:c003192 , real:c009056 , real:c000266 , real:c012374 , real:c000812 , real:c012177 , real:c012650 , real:c012318 , real:c012868 , real:c012353 , real:c007111 , real:c006601 , real:c003821 , real:c006884 , real:c000780 , real:c009030 , real:c003538 , real:c004773 , real:c009411 , real:c008700 , real:c012348 , real:c000696 , real:c007987 , real:c001883 , real:c000038 , real:c008257 , real:c006661 , real:c012181 , real:c012168 , real:c006173 , real:c004868 , real:c012703 , real:c006710 , real:c000859 , real:c010677 , real:c007207 , real:c009631 , real:c012260 , real:c001852 , real:c007501 , real:c012606 , real:c010120 , real:c009323 , real:c012204 , real:c003065 , real:c004611 , real:c003346 , real:c007137 , real:c011420 , real:c001987 , real:c004511 , real:c006376 , real:c011533 , real:c004624 , real:c012339 , real:c002485 , real:c002380 , real:c013787 , real:c011218 , real:c006182 , real:c006967 , real:c000469 , real:c004236 , real:c012137 , real:c000618 , real:c012750 , real:c012313 , real:c000583 , real:c012200 , real:c002503 , real:c001400 , real:c011485 , real:c007211 , real:c006046 , real:c007685 , real:c005801 , real:c007049 , real:c009217 , real:c008654 , real:c011327 , real:c007734 , real:c010111 , real:c001843 , real:c012365 , real:c008252 , real:c003833 , real:c008830 , real:c008649 , real:c010847 , real:c009617 , real:c000622 , real:c000117 , real:c011292 , real:c011397 , real:c000757 , real:c000321 , real:c010071 , real:c013704 , real:c002318 , real:c012198 , real:c009129 , real:c003594 , real:c001329 , real:c009958 , real:c005352 , real:c001561 , real:c003109 , real:c012377 , real:c000815 , real:c012334 , real:c001969 , real:c005204 , real:c007385 , real:c003371 , real:c003476 , real:c007232 , real:c011318 , real:c008422 , real:c012553 , real:c009033 , real:c008619 , real:c002603 , real:c010410 , real:c000530 , real:c008956 , real:c007249 , real:c012648 , real:c005369 , real:c012330 , real:c012325 , real:c000252 , real:c005966 , real:c012360 , real:c010842 , real:c009242 , real:c007908 , real:c010009 , real:c001552 , real:c012263 , real:c000906 , real:c001909 , real:c007994 , real:c010926 , real:c003068 , real:c012757 , real:c009861 , real:c005522 , real:c000634 , real:c003710 , real:c006137 , real:c004152 , real:c007776 , real:c005438 , real:c012321 , real:c003753 , real:c010501 , real:c002383 , real:c003497 , real:c007332 , real:c011072 , real:c012569 , real:c008578 , real:c011639 , real:c002562 , real:c000103 , real:c013969 , real:c012316 , real:c002506 , real:c001227 , real:c012351 , real:c012346 , real:c005083 , real:c007632 , real:c003550 , real:c013241 , real:c009914 , real:c013320 , real:c000289 , real:c002733 , real:c006214 , real:c005599 , real:c012166 , real:c002374 , real:c008182 , real:c006794 , real:c012342 , real:c002065 , real:c010246 , real:c006694 , real:c010074 , real:c012196 , real:c008216 , real:c007077 , real:c006646 , real:c013315 , real:c011822 , real:c012202 , real:c003168 , real:c000432 , real:c007679 , real:c009500 , real:c012337 , real:c009646 , real:c012170 , real:c003492 , real:c007836 , real:c006620 , real:c006353 , real:c005102 , real:c013262 , real:c003883 , real:c000354 , real:c012367 , real:c004757 , real:c007314 , real:c007950 , real:c007030 , real:c006402 , real:c007017 , real:c000996 , real:c011887 , real:c013297 , real:c002118 , real:c012333 , real:c012187 , real:c012328 , real:c001797 , real:c004354 , real:c012560 , real:c012363 , real:c000463 , real:c000053 , real:c000018 , real:c010443 , real:c008963 , real:c031817 , real:c011395 , real:c004097 , real:c004349 , real:c012191 , real:c005420 , real:c006423 , real:c008564 , real:c012358 , real:c004120 , real:c011625 , real:c010056 , real:c003268 , real:c005005 , real:c010263 , real:c006083 , real:c000961 , real:c006290 , real:c008958 , real:c008791 , real:c004822 , real:c007130 , real:c009641 , real:c003927 , real:c012101 , real:c012818 , real:c013732 , real:c012319 , real:c003093 , real:c008954 , real:c009973 , real:c013811 , real:c002139 , real:c012354 , real:c013614 , real:c001378 , real:c000894 , real:c011543 , real:c012097 , real:c007217 , real:c006483 , real:c003704 , real:c003377 , real:c010718 , real:c007506 , real:c007147 , real:c008258 , real:c005411 , real:c010154 , real:c013323 , real:c012182 , real:c010896 , real:c007848 , real:c012323 , real:c000340 , real:c007558 , real:c005659 , real:c011342 , real:c004686 , real:c002451 , real:c013318 , real:c010924 , real:c012607 , real:c003325 , real:c002669 , real:c005846 , real:c010806 , real:c002845 , real:c006671 , real:c002190 , real:c000688 , real:c012173 , real:c000611 , real:c013832 , real:c011564 , real:c008041 , real:c002204 , real:c002446 , real:c004690 , real:c011351 , real:c006030 , real:c011154 , real:c003321 , real:c009433 , real:c012314 , real:c012201 , real:c002504 , real:c007953 , real:c003904 , real:c009671 , real:c006583 , real:c001844 , real:c006233 , real:c006095 , real:c007983 , real:c004197 , real:c010699 , real:c012366 , real:c010467 , real:c006762 , real:c012423 , real:c010643 , real:c000496 , real:c000653 , real:c002012 , real:c004023 , real:c002866 , real:c000440 , real:c004646 , real:c010037 , real:c011797 , real:c012194 , real:c002319 , real:c012199 , real:c000788 , real:c003312 , real:c009614 , real:c011078 , real:c007621 , real:c013600 , real:c002546 , real:c004790 , real:c007721 , real:c008197 , real:c012335 , real:c002121 , real:c005100 , real:c007430 , real:c010033 , real:c000095 , real:c008738 , real:c001557 , real:c001495 , real:c001390 , real:c007460 , real:c008171 , real:c009387 , real:c005532 , real:c007913 , real:c005265 , real:c005972 , real:c012331 , real:c007193 , real:c006029 , real:c011210 , real:c012185 , real:c012361 , real:c008931 , real:c010231 , real:c013726 , real:c009243 , real:c000051 , real:c013874 , real:c004781 , real:c000955 , real:c006595 , real:c005714 , real:c007477 , real:c010760 , real:c012264 , real:c007642 , real:c010520 , real:c008188 , real:c008083 , real:c010927 , real:c012758 , real:c011828 , real:c031464 , real:c012356 , real:c000837 , real:c012322 , real:c008562 , real:c001762 , real:c001727 , real:c001522 , real:c000614 , real:c009997 , real:c006359 , real:c004890 , real:c006971 , real:c005823 , real:c000911 , real:c011017 , real:c000265 , real:c006068 , real:c006853 , real:c012373 , real:c009744 , real:c010396 , real:c010191 , real:c006950 , real:c009487 , real:c010982 , real:c005483 , real:c003091 , real:c011788 , real:c012317 , real:c003178 , real:c001298 , real:c009920 , real:c009739 , real:c012352 , real:c006600 , real:c004872 , real:c005770 , real:c003616 , real:c001595 , real:c007010 , real:c010370 , real:c003807 , real:c010252 , real:c002834 , real:c031884 , real:c011266 , real:c001687 , real:c012526 , real:c013321 , real:c012180 , real:c004951 .
+        skos:member  real:c004867 , real:c009299 , real:c002651 , real:c004749 , real:c007798 , real:c004174 , real:c012343 , real:c010075 , real:c009665 , real:c012197 , real:c000033 , real:c012640 , real:c007354 , real:c005574 , real:c009373 , real:c001114 , real:c004679 , real:c009478 , real:c005782 , real:c013316 , real:c011823 , real:c012203 , real:c002843 , real:c000770 , real:c011532 , real:c012338 , real:c012171 , real:c013786 , real:c012570 , real:c010672 , real:c003099 , real:c004308 , real:c003375 , real:c011055 , real:c011691 , real:c008771 , real:c012368 , real:c004130 , real:c006319 , real:c002707 , real:c009726 , real:c011528 , real:c004937 , real:c000277 , real:c013782 , real:c004819 , real:c012188 , real:c006315 , real:c012329 , real:c005184 , real:c006231 , real:c008535 , real:c000958 , real:c007140 , real:c013729 , real:c002934 , real:c001057 , real:c002263 , real:c013629 , real:c009730 , real:c009527 , real:c001017 , real:c005747 , real:c004531 , real:c012081 , real:c012192 , real:c011677 , real:c002317 , real:c013389 , real:c011076 , real:c009304 , real:c010377 , real:c001328 , real:c011370 , real:c000533 , real:c001166 , real:c012063 , real:c003194 , real:c012179 , real:c000193 , real:c012355 , real:c009088 , real:c004438 , real:c002702 , real:c000380 , real:c000345 , real:c013393 , real:c011883 , real:c010719 , real:c001437 , real:c003104 , real:c010762 , real:c008351 , real:c005970 , real:c005368 , real:c006282 , real:c004455 , real:c006027 , real:c012183 , real:c010544 , real:c001022 , real:c010897 , real:c012324 , real:c006563 , real:c004147 , real:c003791 , real:c002249 , real:c004547 , real:c009681 , real:c004177 , real:c007745 , real:c002352 , real:c013759 , real:c008068 , real:c005359 , real:c012320 , real:c005324 , real:c004103 , real:c000371 , real:c008976 , real:c005551 , real:c012730 , real:c010788 , real:c004656 , real:c009258 , real:c003726 , real:c012371 , real:c002275 , real:c006800 , real:c012174 , real:c000179 , real:c008329 , real:c010473 , real:c000207 , real:c012315 , real:c009316 , real:c007701 , real:c012350 , real:c008359 , real:c012169 , real:c005052 , real:c012345 , real:c009759 , real:c001593 , real:c005082 , real:c001475 , real:c013998 , real:c002131 , real:c004358 , real:c004865 , real:c008468 , real:c003080 , real:c000603 , real:c005043 , real:c004172 , real:c002867 , real:c011642 , real:c005690 , real:c003644 , real:c000935 , real:c004388 , real:c011798 , real:c012195 , real:c005022 , real:c000284 , real:c009763 , real:c006491 , real:c012420 , real:c012336 , real:c004743 , real:c002094 , real:c005419 , real:c009821 , real:c006501 , real:c000353 , real:c003522 , real:c004497 , real:c000742 , real:c009135 , real:c005131 , real:c002257 , real:c007652 , real:c000580 , real:c005236 , real:c002394 , real:c002543 , real:c013402 , real:c011768 , real:c002640 , real:c004817 , real:c012332 , real:c004471 , real:c012186 , real:c000219 , real:c004302 , real:c012826 , real:c008918 , real:c012327 , real:c006666 , real:c001737 , real:c004115 , real:c003759 , real:c007308 , real:c012362 , real:c011464 , real:c013727 , real:c007020 , real:c002814 , real:c010380 , real:c004318 , real:c010598 , real:c012265 , real:c011877 , real:c008310 , real:c003733 , real:c006998 , real:c002744 , real:c003712 , real:c012357 , real:c004154 , real:c000838 , real:c013034 , real:c003127 , real:c010055 , real:c001728 , real:c008445 , real:c005711 , real:c006522 , real:c010508 , real:c003044 , real:c008621 , real:c001663 , real:c003192 , real:c009056 , real:c000266 , real:c012374 , real:c000812 , real:c012177 , real:c012650 , real:c012318 , real:c012868 , real:c012353 , real:c007111 , real:c006601 , real:c003821 , real:c006884 , real:c000780 , real:c009030 , real:c012348 , real:c004773 , real:c003538 , real:c008700 , real:c009411 , real:c000696 , real:c007987 , real:c001883 , real:c000038 , real:c008257 , real:c006661 , real:c004245 , real:c012181 , real:c002673 , real:c011898 , real:c012168 , real:c006173 , real:c004868 , real:c012703 , real:c006710 , real:c000859 , real:c010677 , real:c007207 , real:c009631 , real:c012260 , real:c001852 , real:c007501 , real:c012606 , real:c010120 , real:c009323 , real:c012204 , real:c003065 , real:c004611 , real:c007531 , real:c003346 , real:c007137 , real:c011420 , real:c001987 , real:c004511 , real:c006376 , real:c011533 , real:c004624 , real:c012339 , real:c002485 , real:c002380 , real:c013787 , real:c011218 , real:c006182 , real:c006967 , real:c005457 , real:c011118 , real:c000469 , real:c004236 , real:c012137 , real:c000618 , real:c012750 , real:c012313 , real:c000583 , real:c012200 , real:c002503 , real:c001400 , real:c011485 , real:c007211 , real:c006046 , real:c007685 , real:c005801 , real:c007049 , real:c012189 , real:c009217 , real:c008654 , real:c011327 , real:c007734 , real:c010111 , real:c000678 , real:c001843 , real:c012365 , real:c008252 , real:c003833 , real:c008830 , real:c008649 , real:c010847 , real:c009617 , real:c000622 , real:c000117 , real:c011292 , real:c008584 , real:c011397 , real:c000757 , real:c000321 , real:c010071 , real:c013704 , real:c002318 , real:c012198 , real:c009129 , real:c003594 , real:c001329 , real:c009958 , real:c005352 , real:c001561 , real:c003109 , real:c012377 , real:c012334 , real:c000815 , real:c001969 , real:c005204 , real:c007385 , real:c003371 , real:c003476 , real:c007232 , real:c011318 , real:c008422 , real:c012553 , real:c002079 , real:c009033 , real:c008619 , real:c002603 , real:c010410 , real:c000530 , real:c008956 , real:c007249 , real:c012648 , real:c005369 , real:c012330 , real:c009444 , real:c009857 , real:c012325 , real:c000252 , real:c005966 , real:c012360 , real:c010842 , real:c009242 , real:c007908 , real:c010009 , real:c001552 , real:c012263 , real:c000906 , real:c001909 , real:c007994 , real:c010926 , real:c003068 , real:c012757 , real:c009861 , real:c005522 , real:c000634 , real:c003710 , real:c006137 , real:c004152 , real:c007776 , real:c005438 , real:c012321 , real:c003753 , real:c005079 , real:c010501 , real:c002383 , real:c003497 , real:c007332 , real:c011072 , real:c012569 , real:c008578 , real:c011639 , real:c002562 , real:c000103 , real:c013969 , real:c012316 , real:c002506 , real:c001227 , real:c012351 , real:c003689 , real:c012346 , real:c005083 , real:c007632 , real:c003550 , real:c013241 , real:c009914 , real:c013320 , real:c000289 , real:c002733 , real:c006214 , real:c005599 , real:c012166 , real:c002374 , real:c008182 , real:c006794 , real:c012342 , real:c002065 , real:c010246 , real:c005691 , real:c006694 , real:c010074 , real:c012196 , real:c008216 , real:c007077 , real:c006646 , real:c013315 , real:c011822 , real:c012202 , real:c003168 , real:c000432 , real:c012337 , real:c007679 , real:c009500 , real:c009646 , real:c012170 , real:c010601 , real:c002527 , real:c003492 , real:c010706 , real:c007836 , real:c006620 , real:c006353 , real:c005102 , real:c013262 , real:c003883 , real:c000354 , real:c012367 , real:c004757 , real:c007314 , real:c007950 , real:c007030 , real:c006402 , real:c007017 , real:c000996 , real:c011887 , real:c013297 , real:c005534 , real:c012333 , real:c002118 , real:c012187 , real:c012328 , real:c001797 , real:c004354 , real:c012560 , real:c012363 , real:c000463 , real:c000053 , real:c000018 , real:c007762 , real:c010443 , real:c006977 , real:c008963 , real:c031817 , real:c011395 , real:c004097 , real:c004349 , real:c010163 , real:c012191 , real:c005420 , real:c006423 , real:c012358 , real:c008564 , real:c004120 , real:c011625 , real:c010056 , real:c003268 , real:c005005 , real:c010263 , real:c006083 , real:c000961 , real:c006290 , real:c008958 , real:c008791 , real:c004822 , real:c007130 , real:c009641 , real:c003927 , real:c012101 , real:c012818 , real:c013732 , real:c012319 , real:c003093 , real:c008954 , real:c009973 , real:c013811 , real:c012354 , real:c002139 , real:c013614 , real:c001378 , real:c000549 , real:c000894 , real:c011543 , real:c012097 , real:c007217 , real:c006483 , real:c011839 , real:c003704 , real:c003377 , real:c010718 , real:c003809 , real:c007506 , real:c007147 , real:c011869 , real:c008258 , real:c005411 , real:c010154 , real:c013323 , real:c012182 , real:c010896 , real:c007848 , real:c012323 , real:c004630 , real:c000340 , real:c007558 , real:c005659 , real:c011342 , real:c004686 , real:c002451 , real:c001200 , real:c013318 , real:c010924 , real:c012607 , real:c003325 , real:c002669 , real:c005846 , real:c010806 , real:c002845 , real:c006671 , real:c002190 , real:c000688 , real:c012173 , real:c000611 , real:c013832 , real:c012014 , real:c011564 , real:c008041 , real:c002204 , real:c002446 , real:c004690 , real:c011351 , real:c006030 , real:c011154 , real:c003321 , real:c009433 , real:c012314 , real:c012201 , real:c002504 , real:c007953 , real:c003904 , real:c009671 , real:c006583 , real:c000860 , real:c001844 , real:c012366 , real:c006233 , real:c007347 , real:c006095 , real:c007983 , real:c004197 , real:c010699 , real:c006648 , real:c010467 , real:c006762 , real:c012423 , real:c010643 , real:c000496 , real:c000653 , real:c002012 , real:c004023 , real:c007277 , real:c002866 , real:c000440 , real:c004646 , real:c010037 , real:c011797 , real:c012194 , real:c002319 , real:c012199 , real:c000788 , real:c003312 , real:c009614 , real:c011078 , real:c007621 , real:c013600 , real:c002546 , real:c004790 , real:c001770 , real:c007721 , real:c008197 , real:c012335 , real:c002121 , real:c005100 , real:c007430 , real:c010033 , real:c000095 , real:c008738 , real:c001557 , real:c001495 , real:c001390 , real:c007460 , real:c008171 , real:c009387 , real:c005532 , real:c007913 , real:c005265 , real:c005972 , real:c012331 , real:c007193 , real:c006029 , real:c011210 , real:c012185 , real:c012361 , real:c008931 , real:c010231 , real:c013726 , real:c009243 , real:c000051 , real:c013874 , real:c004781 , real:c000955 , real:c006595 , real:c005714 , real:c007477 , real:c012264 , real:c010760 , real:c007642 , real:c010520 , real:c008188 , real:c008083 , real:c010927 , real:c012758 , real:c011828 , real:c031464 , real:c012356 , real:c000837 , real:c012322 , real:c008562 , real:c001762 , real:c001727 , real:c001522 , real:c000614 , real:c009997 , real:c006359 , real:c001163 , real:c004890 , real:c006971 , real:c005823 , real:c000911 , real:c011017 , real:c000265 , real:c007586 , real:c006068 , real:c006853 , real:c012373 , real:c009744 , real:c000811 , real:c010396 , real:c010191 , real:c006950 , real:c009487 , real:c010982 , real:c005483 , real:c012317 , real:c011788 , real:c003091 , real:c003178 , real:c001298 , real:c009920 , real:c012352 , real:c009739 , real:c006600 , real:c004872 , real:c005770 , real:c003616 , real:c001595 , real:c007010 , real:c010370 , real:c003807 , real:c010252 , real:c004767 , real:c002834 , real:c031884 , real:c011266 , real:c001687 , real:c012526 , real:c013321 , real:c012180 , real:c004951 .
 
 real:c030330  skos:closeMatch  wd:Q50623 .
 
@@ -449,7 +479,7 @@ real:c000462  skos:closeMatch  wd:Q186474 .
 <http://data.ub.uio.no/entity/37f033b8-c77e-4fef-bdef-273f9065265d>
         a            uoc:Category ;
         rdfs:label   "Farmasi"@nb ;
-        skos:member  real:c007608 , real:c010689 , real:c004327 , real:c004387 , real:c004348 , real:c000981 , real:c012730 , real:c010849 , real:c003668 , real:c003769 , real:c013316 , real:c008365 , real:c004168 , real:c004394 , real:c000154 , real:c005100 , real:c003327 , real:c006723 , real:c008293 , real:c009795 , real:c005610 , real:c003080 , real:c004859 , real:c011200 , real:c007661 , real:c000580 , real:c006046 , real:c000331 , real:c006334 , real:c001852 , real:c000258 , real:c004691 , real:c010252 , real:c007010 , real:c012769 , real:c002643 , real:c007732 , real:c002476 , real:c001151 , real:c005863 , real:c003526 , real:c002422 , real:c004308 , real:c003496 , real:c001532 , real:c002923 , real:c009059 , real:c002357 , real:c008621 , real:c009568 , real:c000467 , real:c010162 , real:c002894 , real:c004679 , real:c011434 , real:c013321 , real:c004085 , real:c004625 , real:c009480 , real:c008290 , real:c012686 , real:c009602 , real:c003282 , real:c008506 , real:c008150 , real:c004041 , real:c012873 , real:c004853 , real:c000803 , real:c005222 , real:c009715 , real:c000321 , real:c000837 , real:c001659 , real:c008657 , real:c002049 , real:c010578 , real:c011890 , real:c008622 , real:c000462 , real:c010598 , real:c005251 , real:c011826 , real:c011691 , real:c012786 , real:c002116 , real:c012555 , real:c002298 , real:c010389 , real:c000653 , real:c003200 , real:c002607 , real:c013322 , real:c006600 , real:c008701 , real:c011879 , real:c005849 , real:c007340 , real:c003220 , real:c010056 , real:c007787 , real:c006494 , real:c009840 , real:c002581 , real:c000354 , real:c008740 , real:c003359 , real:c008858 , real:c008319 , real:c003403 , real:c008531 , real:c008463 , real:c011111 , real:c000265 , real:c005088 , real:c000843 , real:c012759 , real:c004777 , real:c002271 , real:c010842 , real:c002427 , real:c000496 , real:c011553 , real:c007761 , real:c011667 , real:c009911 , real:c001378 , real:c010544 , real:c013924 , real:c010582 , real:c004531 , real:c010384 , real:c003150 , real:c011746 , real:c007760 , real:c003285 , real:c013782 , real:c002839 , real:c006943 , real:c000738 , real:c003649 , real:c013318 , real:c004221 , real:c013724 , real:c005225 , real:c002845 , real:c007881 , real:c009429 , real:c012454 , real:c013315 , real:c004713 , real:c008525 , real:c012116 , real:c001220 , real:c004423 , real:c005131 , real:c013411 , real:c007216 , real:c011562 , real:c010066 , real:c001327 , real:c008659 , real:c010492 , real:c002038 , real:c005680 , real:c007736 , real:c013860 , real:c009502 , real:c010562 , real:c000656 , real:c008222 , real:c014045 , real:c004781 , real:c010271 , real:c001475 , real:c004952 , real:c011312 .
+        skos:member  real:c007608 , real:c010689 , real:c004327 , real:c004387 , real:c004348 , real:c003832 , real:c000981 , real:c004666 , real:c012730 , real:c010849 , real:c003668 , real:c003769 , real:c013316 , real:c008365 , real:c011568 , real:c004168 , real:c004394 , real:c000154 , real:c005100 , real:c003327 , real:c006723 , real:c008293 , real:c009795 , real:c005610 , real:c003080 , real:c012455 , real:c004859 , real:c011200 , real:c007661 , real:c000580 , real:c006046 , real:c000331 , real:c007178 , real:c006334 , real:c001852 , real:c000258 , real:c004691 , real:c010252 , real:c007010 , real:c012769 , real:c002643 , real:c007732 , real:c002476 , real:c001151 , real:c005863 , real:c006527 , real:c003526 , real:c002422 , real:c004308 , real:c003496 , real:c001532 , real:c002923 , real:c009059 , real:c004947 , real:c002357 , real:c008621 , real:c009568 , real:c000467 , real:c010162 , real:c002894 , real:c004679 , real:c011434 , real:c004021 , real:c013321 , real:c004085 , real:c004625 , real:c009480 , real:c008290 , real:c012686 , real:c005767 , real:c007435 , real:c000146 , real:c009602 , real:c003282 , real:c008506 , real:c008150 , real:c004041 , real:c012873 , real:c005289 , real:c004853 , real:c000803 , real:c005222 , real:c009715 , real:c004767 , real:c000321 , real:c000837 , real:c001659 , real:c008657 , real:c002049 , real:c010578 , real:c011890 , real:c008622 , real:c005284 , real:c000462 , real:c010598 , real:c005251 , real:c011826 , real:c011691 , real:c011661 , real:c012786 , real:c002116 , real:c012555 , real:c010389 , real:c002298 , real:c000653 , real:c009034 , real:c003200 , real:c002607 , real:c001738 , real:c013322 , real:c006600 , real:c008701 , real:c011879 , real:c005849 , real:c007340 , real:c003220 , real:c010056 , real:c007787 , real:c006494 , real:c009840 , real:c002581 , real:c000354 , real:c008740 , real:c003359 , real:c008858 , real:c008319 , real:c003403 , real:c008531 , real:c008463 , real:c011111 , real:c000265 , real:c005088 , real:c000843 , real:c012759 , real:c004777 , real:c002271 , real:c009716 , real:c010842 , real:c002427 , real:c000496 , real:c011553 , real:c007761 , real:c011667 , real:c009911 , real:c001378 , real:c010544 , real:c013924 , real:c010582 , real:c004531 , real:c010384 , real:c003150 , real:c011746 , real:c007760 , real:c003285 , real:c013782 , real:c002839 , real:c006943 , real:c000738 , real:c008516 , real:c010149 , real:c003649 , real:c013318 , real:c004221 , real:c006298 , real:c013724 , real:c005225 , real:c002845 , real:c007881 , real:c009429 , real:c012454 , real:c013315 , real:c004713 , real:c008525 , real:c012116 , real:c001220 , real:c011145 , real:c004423 , real:c005131 , real:c013411 , real:c007216 , real:c011562 , real:c010066 , real:c001327 , real:c008659 , real:c010492 , real:c002038 , real:c005680 , real:c005389 , real:c007736 , real:c013860 , real:c009502 , real:c010562 , real:c000656 , real:c008222 , real:c014045 , real:c010271 , real:c004781 , real:c001475 , real:c004952 , real:c011312 , real:c006404 .
 
 real:c005181  skos:closeMatch  wd:Q184453 .
 
@@ -607,6 +637,8 @@ real:c002015  skos:closeMatch  wd:Q785426 .
 
 real:c013517  skos:closeMatch  wd:Q201486 .
 
+real:c004867  skos:closeMatch  wd:Q1640124 .
+
 real:c006616  skos:closeMatch  wd:Q1052 .
 
 real:c001414  skos:closeMatch  wd:Q49445 .
@@ -620,6 +652,8 @@ real:c030654  skos:closeMatch  wd:Q499455 .
 real:c012734  skos:closeMatch  wd:Q188360 .
 
 real:c008985  skos:closeMatch  wd:Q149757 .
+
+real:c000813  skos:closeMatch  wd:Q15645384 .
 
 real:c007758  skos:closeMatch  wd:Q877517 .
 
@@ -639,6 +673,8 @@ real:c010423  skos:closeMatch  wd:Q275472 .
 
 real:c012166  skos:closeMatch  wd:Q696 .
 
+real:c007822  skos:closeMatch  wd:Q25365 .
+
 real:c000871  skos:closeMatch  wd:Q38344 .
 
 real:c012713  skos:closeMatch  wd:Q43338 .
@@ -648,7 +684,7 @@ real:c000786  skos:closeMatch  wd:Q419763 .
 <http://data.ub.uio.no/entity/4d8d8554-b5f9-43be-a21e-46d058a3ee1c>
         a            uoc:Category ;
         rdfs:label   "Generelt"@nb ;
-        skos:member  real:c030505 , real:c030336 , real:c014051 , real:c031275 , real:c030375 , real:c030250 , real:c013539 , real:c013423 , real:c030925 , real:c030494 , real:c030957 , real:c030366 , real:c030704 , real:c030201 , real:c005312 , real:c031041 , real:c003546 , real:c030547 , real:c012164 , real:c009894 , real:c030896 , real:c002098 , real:c012232 , real:c030268 , real:c005921 , real:c009950 , real:c007044 , real:c030561 , real:c004557 , real:c011691 , real:c030867 , real:c011426 , real:c010345 , real:c001679 , real:c009938 , real:c030842 , real:c006022 , real:c008647 , real:c009025 , real:c030537 , real:c030549 , real:c030424 , real:c030709 , real:c030629 , real:c030355 , real:c009306 , real:c003772 , real:c030203 , real:c002526 , real:c012419 , real:c000033 , real:c009960 , real:c007758 , real:c005550 , real:c031781 , real:c030242 , real:c004889 , real:c030881 , real:c001966 , real:c014058 , real:c030997 , real:c030744 , real:c006398 , real:c030454 , real:c030486 , real:c009437 , real:c031029 , real:c030960 , real:c030916 , real:c001560 , real:c030948 , real:c030856 , real:c008283 , real:c007913 , real:c013610 , real:c030635 , real:c030510 , real:c006767 , real:c006607 , real:c013878 , real:c030847 , real:c030208 , real:c013416 , real:c010952 , real:c030734 , real:c007859 , real:c001546 , real:c009338 , real:c030930 , real:c030962 , real:c001602 , real:c006106 , real:c000872 , real:c030528 , real:c013318 , real:c000980 , real:c030346 , real:c007749 , real:c012068 , real:c002457 , real:c006503 , real:c007161 , real:c013534 , real:c030461 , real:c030908 , real:c030248 , real:c010350 , real:c030292 , real:c030301 , real:c030360 , real:c030887 , real:c007313 , real:c007457 , real:c009845 , real:c030179 , real:c003540 , real:c030967 , real:c002587 , real:c030714 , real:c010418 , real:c008037 , real:c030348 , real:c013536 , real:c030387 , real:c002498 , real:c030262 , real:c030294 , real:c008265 , real:c002643 , real:c030190 , real:c030937 , real:c030861 , real:c030362 , real:c007093 , real:c003952 , real:c030893 , real:c030969 , real:c030640 , real:c010777 , real:c004159 , real:c030466 , real:c008766 , real:c030213 , real:c001673 , real:c000341 , real:c030306 , real:c030655 , real:c030338 , real:c009834 , real:c030402 , real:c007712 , real:c002400 , real:c004883 , real:c009613 , real:c030891 , real:c001089 , real:c003838 , real:c010655 , real:c030674 , real:c030421 , real:c030320 , real:c030610 , real:c030879 , real:c005350 , real:c003584 , real:c031039 , real:c007095 , real:c030814 , real:c030436 , real:c030468 , real:c030308 , real:c004311 , real:c006537 , real:c003784 , real:c030942 , real:c003258 , real:c030451 , real:c009498 , real:c005778 , real:c006206 , real:c030327 , real:c013266 , real:c030981 , real:c030378 , real:c031013 , real:c030929 , real:c030760 , real:c004200 , real:c006985 , real:c012570 , real:c030972 , real:c030679 , real:c030868 , real:c030426 , real:c000272 , real:c011656 , real:c013887 , real:c006414 , real:c007269 , real:c007984 , real:c008532 , real:c030647 , real:c030522 , real:c001933 , real:c030392 , real:c013541 , real:c009632 , real:c003223 , real:c030999 , real:c004088 , real:c030746 , real:c030186 , real:c030902 , real:c010561 , real:c030428 , real:c030974 , real:c030234 , real:c000511 , real:c005136 , real:c011376 , real:c001707 , real:c030949 , real:c030358 , real:c001577 , real:c013032 , real:c007230 , real:c012249 , real:c030245 , real:c012816 , real:c013530 , real:c006670 , real:c005050 , real:c004186 , real:c030932 , real:c030735 , real:c030514 , real:c006449 , real:c000513 , real:c010141 , real:c004061 , real:c006212 , real:c005174 , real:c030859 , real:c006955 , real:c004456 , real:c007541 , real:c030529 , real:c030580 , real:c008945 , real:c030934 , real:c008237 , real:c005068 , real:c030274 , real:c000717 , real:c030431 , real:c030463 , real:c030780 , real:c030873 , real:c003964 , real:c030620 , real:c030652 , real:c006350 , real:c030909 , real:c030419 , real:c003900 , real:c012755 , real:c010130 , real:c011520 , real:c010737 , real:c030667 , real:c006325 , real:c008544 , real:c010101 , real:c030770 , real:c030726 , real:c008675 , real:c030826 , real:c007951 , real:c001056 , real:c030227 , real:c030657 , real:c009667 , real:c003470 , real:c000230 , real:c030571 , real:c030339 , real:c002522 , real:c008437 , real:c002156 , real:c013447 , real:c010974 , real:c031057 , real:c030993 , real:c030728 , real:c002195 , real:c003751 , real:c030740 , real:c030772 , real:c030671 , real:c006997 , real:c000582 , real:c008003 , real:c001103 , real:c001174 , real:c011359 , real:c007080 , real:c014002 , real:c030944 , real:c030659 , real:c030627 , real:c030534 , real:c006856 , real:c030217 , real:c007028 , real:c030546 , real:c010374 , real:c008073 , real:c030325 , real:c013521 , real:c008463 , real:c008817 , real:c000078 , real:c030484 , real:c030231 , real:c001905 , real:c030758 , real:c030560 , real:c030677 , real:c030592 , real:c010268 , real:c030914 , real:c010292 , real:c030379 , real:c030946 , real:c004595 , real:c006395 , real:c004217 , real:c003503 , real:c001719 , real:c013985 , real:c007367 , real:c030632 , real:c001216 , real:c030206 , real:c030257 , real:c003028 , real:c000112 , real:c008903 , real:c013542 , real:c030550 , real:c030984 , real:c001652 , real:c001061 , real:c010635 , real:c030578 , real:c030526 , real:c030413 , real:c030634 , real:c030344 , real:c009869 , real:c001021 , real:c030271 , real:c000275 , real:c002608 , real:c004560 , real:c003448 , real:c002423 , real:c007087 , real:c004729 , real:c013528 , real:c001277 , real:c030870 , real:c011518 , real:c004548 , real:c010786 , real:c030986 , real:c030443 , real:c030733 , real:c005410 , real:c030664 , real:c013599 , real:c005015 , real:c030965 , real:c011066 , real:c000104 , real:c004458 , real:c003662 , real:c012674 , real:c001311 , real:c000493 , real:c030639 , real:c011926 , real:c005308 , real:c006264 , real:c011001 , real:c013489 , real:c002038 , real:c030951 , real:c030464 , real:c012769 , real:c030501 , real:c030211 , real:c006436 , real:c008655 , real:c031051 , real:c007593 , real:c000174 , real:c012833 , real:c001329 , real:c031405 , real:c030990 , real:c030669 , real:c013616 , real:c013712 , real:c030374 , real:c009823 , real:c030877 , real:c001869 , real:c030624 , real:c031037 , real:c030531 , real:c012634 , real:c030812 , real:c011058 , real:c008460 , real:c002994 , real:c003903 , real:c000429 , real:c010616 , real:c030229 , real:c003472 , real:c030506 , real:c002323 , real:c030337 , real:c013264 , real:c030911 , real:c030890 , real:c030376 , real:c030283 , real:c030251 , real:c010341 , real:c004121 , real:c006803 , real:c000773 , real:c005113 , real:c003861 , real:c030850 , real:c030926 , real:c006580 , real:c030958 , real:c030970 , real:c030705 , real:c005566 , real:c030182 , real:c030194 , real:c030548 , real:c030390 , real:c012901 , real:c004523 , real:c030218 , real:c030269 , real:c013554 , real:c030562 , real:c030184 , real:c030852 , real:c030341 , real:c031410 , real:c002536 , real:c031044 , real:c030288 , real:c030678 , real:c030538 , real:c013525 , real:c030425 , real:c030356 , real:c013802 , real:c000947 , real:c030693 , real:c008720 , real:c012793 , real:c030243 , real:c001446 , real:c013544 , real:c031742 , real:c030918 , real:c030487 , real:c007680 , real:c011790 , real:c001517 , real:c030189 , real:c002187 , real:c030857 , real:c031049 , real:c030977 , real:c030636 , real:c030511 , real:c030381 , real:c007813 , real:c003686 , real:c009874 , real:c011331 , real:c007402 , real:c002119 , real:c009621 , real:c000055 , real:c009391 , real:c030988 , real:c011013 , real:c030794 , real:c007590 , real:c030606 , real:c001394 , real:c030650 , real:c030931 , real:c030710 , real:c030223 , real:c030316 , real:c013584 , real:c013958 , real:c007943 , real:c002860 , real:c004757 , real:c030822 , real:c002426 , real:c005734 , real:c001986 , real:c030386 , real:c030249 , real:c013406 , real:c008894 , real:c004007 , real:c012899 , real:c031749 , real:c010383 , real:c031009 , real:c030302 , real:c030361 , real:c030824 , real:c006728 , real:c031302 , real:c003529 , real:c000971 , real:c008741 , real:c000175 , real:c008359 , real:c013505 , real:c000561 , real:c013537 , real:c005816 , real:c002499 , real:c030263 , real:c030295 , real:c012706 , real:c030191 , real:c030862 , real:c030938 , real:c030894 , real:c030641 , real:c030717 , real:c004941 , real:c001148 , real:c030404 , real:c011762 , real:c007500 , real:c003808 , real:c030656 , real:c030403 , real:c004884 , real:c030253 , real:c008585 , real:c030756 , real:c030675 , real:c030864 , real:c030481 , real:c001701 , real:c002998 , real:c007631 , real:c030321 , real:c030670 , real:c010857 , real:c011439 , real:c003585 , real:c030469 , real:c007112 , real:c030899 , real:c030216 , real:c030255 , real:c002398 , real:c030328 , real:c007702 , real:c030982 , real:c006680 , real:c002184 , real:c030198 , real:c030230 , real:c030499 , real:c030660 , real:c031046 , real:c013411 , real:c012611 , real:c000180 , real:c030869 , real:c003683 , real:c000627 , real:c002199 , real:c030427 , real:c006314 , real:c012245 , real:c030648 , real:c004832 , real:c000855 , real:c013305 , real:c014045 , real:c008452 , real:c007414 , real:c030694 , real:c030441 , real:c010691 , real:c030731 , real:c030473 , real:c030790 , real:c030220 , real:c030618 , real:c030903 , real:c030662 , real:c030975 , real:c030429 , real:c030488 , real:c006722 , real:c006384 , real:c013919 , real:c005358 , real:c009965 , real:c030680 , real:c002422 , real:c030834 , real:c008064 , real:c001846 , real:c013403 , real:c013531 , real:c007174 , real:c030905 , real:c030989 , real:c030836 , real:c005678 , real:c030515 , real:c006466 , real:c030314 , real:c013502 , real:c005784 , real:c013944 , real:c013851 , real:c011367 , real:c003919 , real:c009677 , real:c030260 , real:c030711 , real:c007076 , real:c013517 , real:c007068 , real:c011080 , real:c003383 , real:c030935 , real:c005800 , real:c012718 , real:c002037 , real:c030541 , real:c001184 , real:c001474 , real:c030874 , real:c030609 , real:c030653 , real:c013588 , real:c030479 , real:c001646 , real:c002771 , real:c030954 , real:c007275 , real:c030701 , real:c003607 , real:c030335 , real:c011819 , real:c009176 , real:c030265 , real:c031222 , real:c003205 , real:c030876 , real:c030586 , real:c011676 , real:c030434 , real:c030493 , real:c001371 , real:c030940 , real:c030200 , real:c005142 , real:c003874 , real:c000344 , real:c000400 , real:c030642 , real:c007264 , real:c030267 , real:c009218 , real:c009230 , real:c007043 , real:c008177 , real:c030741 , real:c006471 , real:c030613 , real:c030672 , real:c005196 , real:c012655 , real:c008112 , real:c011641 , real:c002746 , real:c030439 , real:c030202 , real:c030788 , real:c030628 , real:c010605 , real:c007029 , real:c030407 , real:c030816 , real:c011022 , real:c008380 , real:c012417 , real:c014057 , real:c030900 , real:c004329 , real:c030240 , real:c004110 , real:c030743 , real:c030232 , real:c011973 , real:c000653 , real:c003150 , real:c030340 , real:c013413 , real:c011667 , real:c030915 , real:c010028 , real:c030947 , real:c007437 , real:c030602 , real:c001378 , real:c006987 , real:c011917 , real:c008832 , real:c005117 , real:c001807 , real:c013415 , real:c009687 , real:c006938 , real:c030394 , real:c013543 , real:c005510 , real:c030917 , real:c001818 , real:c030330 , real:c030961 , real:c006446 , real:c030848 , real:c000526 , real:c004481 , real:c030527 , real:c007876 , real:c013514 , real:c030414 , real:c010242 , real:c030345 , real:c030272 , real:c006068 , real:c000798 , real:c011475 , real:c007748 , real:c013975 , real:c013529 , real:c009223 , real:c030681 , real:c030871 , real:c005222 , real:c030697 , real:c013533 , real:c010787 , real:c001879 , real:c030247 , real:c004950 , real:c010381 , real:c030300 , real:c002009 , real:c013781 , real:c003977 , real:c030665 , real:c006082 , real:c004117 , real:c006532 , real:c030178 , real:c012768 , real:c030966 , real:c030500 , real:c007777 , real:c011727 , real:c008594 , real:c013535 , real:c002839 , real:c002349 , real:c030821 , real:c000925 , real:c030921 , real:c030261 , real:c030293 , real:c030277 , real:c030860 , real:c004130 , real:c030892 , real:c030446 , real:c030920 , real:c030715 , real:c030952 , real:c030465 , real:c010555 , real:c030212 , real:c003569 , real:c031052 , real:c030305 , real:c013445 , real:c013786 , real:c030654 , real:c030811 , real:c030401 , real:c000496 , real:c012789 , real:c002169 , real:c013420 , real:c005193 , real:c005531 , real:c030878 , real:c030753 , real:c030239 , real:c030625 , real:c030532 , real:c012060 , real:c030307 , real:c006073 , real:c030214 , real:c007423 , real:c008011 , real:c006616 , real:c030828 , real:c030507 , real:c001243 , real:c002143 , real:c002159 , real:c030912 , real:c030377 , real:c030252 , real:c030284 , real:c030851 , real:c030927 , real:c030959 , real:c005536 , real:c004137 , real:c030971 , real:c030646 , real:c030614 , real:c010514 , real:c030183 , real:c030195 , real:c007730 , real:c000331 , real:c005133 , real:c031782 , real:c031492 , real:c030645 , real:c002635 , real:c003169 , real:c013540 , real:c030219 , real:c008088 , real:c030408 , real:c030998 , real:c030745 , real:c031379 , real:c030853 , real:c011360 , real:c030563 , real:c030185 , real:c030411 , real:c030470 , real:c030310 , real:c030973 , real:c009924 , real:c030289 , real:c007085 , real:c003023 , real:c000036 , real:c030458 , real:c006768 , real:c030357 , real:c003340 , real:c008215 , real:c002749 , real:c001203 , real:c030205 , real:c007153 , real:c004610 , real:c030244 , real:c002286 , real:c030883 , real:c005234 , real:c006782 , real:c030472 , real:c013545 , real:c010799 , real:c030919 , real:c030259 , real:c030565 , real:c013400 , real:c030312 , real:c000688 , real:c030331 , real:c002723 , real:c013270 , real:c030858 , real:c030765 , real:c007974 , real:c001112 , real:c010115 , real:c030359 , real:c010492 , real:c030933 , real:c002517 , real:c030720 , real:c030462 , real:c004868 , real:c010174 , real:c003380 , real:c030607 , real:c030651 , real:c030964 , real:c030477 , real:c003802 , real:c013585 , real:c012661 , real:c030666 , real:c006811 , real:c030750 , real:c013653 , real:c003849 , real:c030371 , real:c030491 , real:c008895 , real:c030725 , real:c030556 , real:c012503 , real:c030504 , real:c001409 , real:c001730 , real:c030953 , real:c006612 , real:c008710 , real:c013896 , real:c000176 , real:c013506 , real:c013538 , real:c030924 , real:c030389 , real:c030727 , real:c004134 , real:c005641 , real:c001949 , real:c030863 , real:c001210 , real:c030895 , real:c010527 , real:c030626 , real:c007995 , real:c030658 , real:c030533 , real:c030943 , real:c030405 , real:c030324 , real:c000668 , real:c013520 , real:c004873 , real:c009402 , real:c030945 , real:c030913 , real:c030865 , real:c030676 , real:c030612 , real:c000161 , real:c002983 , real:c030575 , real:c004427 , real:c010207 , real:c030482 , real:c030423 , real:c030322 , real:c030285 , real:c011412 , real:c030354 , real:c002268 , real:c010106 , real:c002015 , real:c000522 , real:c011893 , real:c012791 , real:c003195 , real:c002802 , real:c013815 , real:c030844 , real:c012473 , real:c004875 , real:c008166 , real:c030329 , real:c030983 , real:c004165 , real:c030187 , real:c030199 , real:c010333 , real:c004261 , real:c031015 , real:c030577 , real:c012122 , real:c030525 , real:c003185 , real:c030649 , real:c002160 , real:c013282 , real:c006568 , real:c002767 , real:c014031 , real:c030270 , real:c030617 , real:c002956 , real:c030524 , real:c007086 , real:c010127 , real:c013527 , real:c007842 , real:c030442 , real:c030732 , real:c030474 , real:c013498 , real:c006860 , real:c030884 , real:c000674 , real:c030619 , real:c003915 , real:c030904 , real:c030663 , real:c001335 , real:c006976 , real:c030236 , real:c006465 , real:c000023 , real:c012577 , real:c005290 , real:c030275 , real:c008868 , real:c005968 , real:c008615 , real:c005715 , real:c030383 , real:c013532 , real:c030906 , real:c030950 , real:c030737 , real:c030568 , real:c010626 , real:c030210 , real:c000768 , real:c009454 , real:c000780 , real:c006467 , real:c030805 , real:c001742 , real:c013519 , real:c009071 , real:c030668 , real:c000534 , real:c000028 , real:c001267 , real:c008858 , real:c010985 , real:c004759 , real:c030751 , real:c010776 , real:c009396 , real:c008893 , real:c030783 , real:c030530 , real:c030875 , real:c013770 , real:c001941 , real:c009833 , real:c030955 , real:c030228 , real:c012520 , real:c002772 , real:c030557 , real:c030702 , real:c002559 .
+        skos:member  real:c030505 , real:c030336 , real:c014051 , real:c031275 , real:c030910 , real:c030375 , real:c030250 , real:c013539 , real:c013423 , real:c030957 , real:c030925 , real:c030494 , real:c030238 , real:c030366 , real:c030704 , real:c030201 , real:c005312 , real:c031041 , real:c003546 , real:c030547 , real:c012164 , real:c009894 , real:c030896 , real:c002098 , real:c008408 , real:c012453 , real:c012232 , real:c030268 , real:c005921 , real:c009950 , real:c007044 , real:c030561 , real:c004557 , real:c011691 , real:c030867 , real:c011426 , real:c010345 , real:c001679 , real:c009938 , real:c030842 , real:c006022 , real:c008647 , real:c009025 , real:c030537 , real:c030549 , real:c030424 , real:c030709 , real:c030629 , real:c030355 , real:c009306 , real:c003772 , real:c030203 , real:c002526 , real:c012419 , real:c000033 , real:c009960 , real:c007758 , real:c005550 , real:c031781 , real:c030242 , real:c004889 , real:c030881 , real:c001966 , real:c014058 , real:c030997 , real:c030744 , real:c006398 , real:c030454 , real:c030486 , real:c009437 , real:c031029 , real:c004263 , real:c030960 , real:c030916 , real:c001560 , real:c030948 , real:c030856 , real:c008283 , real:c007913 , real:c030603 , real:c013610 , real:c030635 , real:c030510 , real:c006767 , real:c006607 , real:c013878 , real:c030847 , real:c030208 , real:c013416 , real:c010952 , real:c030734 , real:c030395 , real:c007859 , real:c001546 , real:c009338 , real:c030930 , real:c030416 , real:c030962 , real:c001602 , real:c030749 , real:c006106 , real:c000872 , real:c030528 , real:c004997 , real:c013318 , real:c000980 , real:c030346 , real:c007749 , real:c012068 , real:c002457 , real:c011757 , real:c006503 , real:c007161 , real:c013534 , real:c030461 , real:c030795 , real:c030908 , real:c030248 , real:c010350 , real:c030292 , real:c030301 , real:c030360 , real:c030887 , real:c007313 , real:c007457 , real:c030179 , real:c009845 , real:c003540 , real:c030967 , real:c002587 , real:c030714 , real:c010418 , real:c008037 , real:c030348 , real:c013536 , real:c030387 , real:c002498 , real:c030262 , real:c030294 , real:c008265 , real:c002643 , real:c030190 , real:c030937 , real:c030861 , real:c030362 , real:c007093 , real:c003952 , real:c030893 , real:c030969 , real:c030640 , real:c010777 , real:c004159 , real:c030466 , real:c008766 , real:c030213 , real:c001673 , real:c000341 , real:c031053 , real:c030306 , real:c030655 , real:c030338 , real:c009834 , real:c030402 , real:c007712 , real:c002400 , real:c004883 , real:c009613 , real:c030891 , real:c001089 , real:c003838 , real:c010655 , real:c030674 , real:c030421 , real:c030320 , real:c030610 , real:c030879 , real:c005350 , real:c030299 , real:c003584 , real:c031039 , real:c007095 , real:c030814 , real:c030436 , real:c030468 , real:c030308 , real:c004311 , real:c006537 , real:c003784 , real:c030942 , real:c003258 , real:c030451 , real:c009498 , real:c005778 , real:c006206 , real:c030327 , real:c013266 , real:c030981 , real:c030378 , real:c031013 , real:c030929 , real:c030760 , real:c004200 , real:c006985 , real:c012570 , real:c030972 , real:c030679 , real:c030868 , real:c030426 , real:c013887 , real:c011656 , real:c000272 , real:c006414 , real:c007269 , real:c007984 , real:c008532 , real:c030647 , real:c030522 , real:c001933 , real:c030392 , real:c013541 , real:c009632 , real:c003223 , real:c009343 , real:c030999 , real:c004088 , real:c030746 , real:c030186 , real:c030902 , real:c010561 , real:c030428 , real:c030974 , real:c030234 , real:c000511 , real:c005136 , real:c006162 , real:c011376 , real:c001707 , real:c030949 , real:c030358 , real:c001577 , real:c013032 , real:c007230 , real:c012249 , real:c030245 , real:c012816 , real:c013530 , real:c030397 , real:c006670 , real:c005050 , real:c004186 , real:c030932 , real:c030735 , real:c030514 , real:c006449 , real:c000513 , real:c010141 , real:c004061 , real:c006212 , real:c005174 , real:c030859 , real:c006955 , real:c004456 , real:c007541 , real:c030529 , real:c030580 , real:c008945 , real:c030934 , real:c008237 , real:c005068 , real:c030274 , real:c004156 , real:c000717 , real:c030431 , real:c030463 , real:c030780 , real:c031050 , real:c030873 , real:c003964 , real:c030909 , real:c030620 , real:c030652 , real:c006350 , real:c030419 , real:c003900 , real:c000952 , real:c012755 , real:c010130 , real:c011520 , real:c010737 , real:c030667 , real:c006325 , real:c008544 , real:c030264 , real:c010101 , real:c030770 , real:c030372 , real:c030798 , real:c030726 , real:c008675 , real:c030826 , real:c007951 , real:c001056 , real:c030227 , real:c030657 , real:c009667 , real:c003470 , real:c000230 , real:c030571 , real:c030339 , real:c002522 , real:c008437 , real:c002156 , real:c013447 , real:c010974 , real:c031057 , real:c030993 , real:c030728 , real:c002195 , real:c003751 , real:c030740 , real:c030772 , real:c030671 , real:c006997 , real:c000582 , real:c008003 , real:c001103 , real:c001174 , real:c011359 , real:c007080 , real:c014002 , real:c011548 , real:c030840 , real:c030944 , real:c030659 , real:c030627 , real:c030534 , real:c030217 , real:c006856 , real:c012850 , real:c007028 , real:c030546 , real:c010374 , real:c008073 , real:c030325 , real:c013521 , real:c008463 , real:c008817 , real:c000078 , real:c030484 , real:c030231 , real:c002001 , real:c001905 , real:c030758 , real:c030560 , real:c030677 , real:c030592 , real:c010268 , real:c030914 , real:c010292 , real:c030379 , real:c030946 , real:c004595 , real:c006395 , real:c004217 , real:c003503 , real:c006605 , real:c013985 , real:c001719 , real:c007367 , real:c030632 , real:c001216 , real:c030206 , real:c030257 , real:c009686 , real:c003028 , real:c000112 , real:c008903 , real:c013542 , real:c030550 , real:c030984 , real:c001652 , real:c001061 , real:c010635 , real:c030578 , real:c030526 , real:c030831 , real:c030413 , real:c030634 , real:c030344 , real:c009869 , real:c001021 , real:c030271 , real:c000275 , real:c002608 , real:c004560 , real:c003448 , real:c002423 , real:c007087 , real:c004729 , real:c013528 , real:c001277 , real:c007669 , real:c030870 , real:c011518 , real:c004548 , real:c010786 , real:c030986 , real:c030443 , real:c030733 , real:c005410 , real:c030664 , real:c013599 , real:c005015 , real:c030965 , real:c011066 , real:c000104 , real:c004458 , real:c003662 , real:c012674 , real:c030820 , real:c001311 , real:c000493 , real:c030639 , real:c011926 , real:c005308 , real:c006264 , real:c030782 , real:c030698 , real:c011001 , real:c013489 , real:c002038 , real:c005053 , real:c030951 , real:c030464 , real:c031051 , real:c012769 , real:c030501 , real:c030211 , real:c006436 , real:c008655 , real:c030806 , real:c007593 , real:c000174 , real:c012833 , real:c004487 , real:c001329 , real:c031405 , real:c030669 , real:c013616 , real:c013712 , real:c030374 , real:c009823 , real:c030877 , real:c001869 , real:c030624 , real:c031037 , real:c030531 , real:c012634 , real:c030812 , real:c011058 , real:c008460 , real:c002994 , real:c003903 , real:c000429 , real:c010616 , real:c030229 , real:c003472 , real:c030506 , real:c002323 , real:c030337 , real:c013264 , real:c010233 , real:c030911 , real:c030890 , real:c030376 , real:c030283 , real:c030251 , real:c010341 , real:c004121 , real:c006803 , real:c000773 , real:c005767 , real:c005113 , real:c003861 , real:c030850 , real:c030926 , real:c006580 , real:c030958 , real:c030970 , real:c030705 , real:c030182 , real:c005566 , real:c030194 , real:c030548 , real:c030390 , real:c012901 , real:c004523 , real:c030450 , real:c030218 , real:c030269 , real:c013554 , real:c030562 , real:c030184 , real:c030852 , real:c030341 , real:c031410 , real:c002536 , real:c031044 , real:c030288 , real:c030678 , real:c030538 , real:c013525 , real:c030425 , real:c030356 , real:c013802 , real:c000947 , real:c030693 , real:c008720 , real:c012793 , real:c030243 , real:c001446 , real:c013544 , real:c031742 , real:c030918 , real:c030487 , real:c007680 , real:c011790 , real:c001517 , real:c030189 , real:c002187 , real:c030857 , real:c030764 , real:c031049 , real:c030977 , real:c030636 , real:c030511 , real:c030381 , real:c007813 , real:c003686 , real:c030832 , real:c009874 , real:c011331 , real:c007402 , real:c002119 , real:c009621 , real:c000055 , real:c009391 , real:c030988 , real:c011013 , real:c030794 , real:c007590 , real:c030606 , real:c001394 , real:c030650 , real:c030931 , real:c030417 , real:c030710 , real:c030223 , real:c030316 , real:c013958 , real:c013584 , real:c007943 , real:c002860 , real:c004757 , real:c030822 , real:c002426 , real:c005734 , real:c001986 , real:c030386 , real:c030249 , real:c013406 , real:c008894 , real:c004007 , real:c012899 , real:c031749 , real:c031009 , real:c010383 , real:c030824 , real:c030302 , real:c030361 , real:c030503 , real:c006728 , real:c031302 , real:c003529 , real:c000971 , real:c008741 , real:c000175 , real:c008359 , real:c013505 , real:c000561 , real:c013537 , real:c005816 , real:c002499 , real:c030263 , real:c030295 , real:c012706 , real:c030191 , real:c030862 , real:c030938 , real:c030894 , real:c030641 , real:c030717 , real:c004941 , real:c001148 , real:c030404 , real:c011762 , real:c007500 , real:c003808 , real:c030656 , real:c030403 , real:c004884 , real:c030253 , real:c008585 , real:c030756 , real:c030864 , real:c030675 , real:c030481 , real:c030422 , real:c001701 , real:c002998 , real:c007631 , real:c030321 , real:c030670 , real:c010857 , real:c011439 , real:c003585 , real:c030469 , real:c007112 , real:c030899 , real:c030216 , real:c030255 , real:c002398 , real:c030328 , real:c007702 , real:c030982 , real:c006680 , real:c002184 , real:c030198 , real:c030230 , real:c030499 , real:c030660 , real:c031046 , real:c013411 , real:c012611 , real:c000180 , real:c030869 , real:c003683 , real:c000627 , real:c002199 , real:c030427 , real:c030776 , real:c030459 , real:c030616 , real:c006314 , real:c012245 , real:c030648 , real:c004832 , real:c000855 , real:c013305 , real:c014045 , real:c008452 , real:c007414 , real:c030694 , real:c030441 , real:c010691 , real:c030731 , real:c030473 , real:c030790 , real:c030220 , real:c030618 , real:c030903 , real:c030662 , real:c030975 , real:c030429 , real:c030488 , real:c006722 , real:c006384 , real:c013919 , real:c005358 , real:c009965 , real:c030680 , real:c002422 , real:c030834 , real:c008064 , real:c001846 , real:c013403 , real:c013531 , real:c030398 , real:c003466 , real:c007174 , real:c030905 , real:c030989 , real:c030836 , real:c030804 , real:c005678 , real:c030515 , real:c006466 , real:c030314 , real:c013944 , real:c013502 , real:c005784 , real:c013851 , real:c011367 , real:c030333 , real:c003919 , real:c009677 , real:c030260 , real:c030711 , real:c007076 , real:c013517 , real:c030581 , real:c007068 , real:c011080 , real:c003383 , real:c030935 , real:c005800 , real:c012718 , real:c031007 , real:c002037 , real:c030541 , real:c001184 , real:c001474 , real:c030874 , real:c030609 , real:c030621 , real:c030653 , real:c013588 , real:c030479 , real:c001646 , real:c002771 , real:c030954 , real:c007275 , real:c000013 , real:c030701 , real:c030335 , real:c003607 , real:c013443 , real:c011819 , real:c013563 , real:c009176 , real:c030265 , real:c031222 , real:c003205 , real:c030876 , real:c030586 , real:c011676 , real:c030434 , real:c030493 , real:c001371 , real:c030940 , real:c030200 , real:c005142 , real:c003874 , real:c000344 , real:c000400 , real:c030642 , real:c007264 , real:c030267 , real:c009218 , real:c009230 , real:c007043 , real:c008177 , real:c030741 , real:c006471 , real:c030613 , real:c030672 , real:c005196 , real:c012655 , real:c008112 , real:c030841 , real:c011641 , real:c002746 , real:c030439 , real:c030202 , real:c030788 , real:c030628 , real:c010605 , real:c030535 , real:c007029 , real:c030407 , real:c030816 , real:c011022 , real:c008380 , real:c012417 , real:c030880 , real:c014057 , real:c030900 , real:c004329 , real:c030240 , real:c004110 , real:c030743 , real:c030232 , real:c011973 , real:c000653 , real:c003150 , real:c030340 , real:c013413 , real:c011667 , real:c030915 , real:c010028 , real:c030947 , real:c007437 , real:c030602 , real:c001378 , real:c006987 , real:c011917 , real:c008832 , real:c005117 , real:c001807 , real:c030846 , real:c013415 , real:c009687 , real:c006938 , real:c030394 , real:c013543 , real:c005510 , real:c030917 , real:c001818 , real:c030330 , real:c030961 , real:c006446 , real:c030848 , real:c000526 , real:c004481 , real:c030527 , real:c007876 , real:c013514 , real:c030414 , real:c010242 , real:c030345 , real:c010061 , real:c030272 , real:c006068 , real:c000798 , real:c011475 , real:c007748 , real:c013975 , real:c013529 , real:c009223 , real:c030681 , real:c030871 , real:c005222 , real:c030697 , real:c013533 , real:c010787 , real:c001879 , real:c030247 , real:c004950 , real:c010381 , real:c030300 , real:c013781 , real:c002009 , real:c003977 , real:c030665 , real:c006082 , real:c004117 , real:c030178 , real:c006532 , real:c012768 , real:c000813 , real:c030966 , real:c030500 , real:c007777 , real:c011727 , real:c030315 , real:c008594 , real:c013535 , real:c002839 , real:c002349 , real:c030821 , real:c000925 , real:c030921 , real:c030261 , real:c030293 , real:c030277 , real:c030860 , real:c004130 , real:c030892 , real:c030446 , real:c030808 , real:c030920 , real:c030715 , real:c030952 , real:c030465 , real:c010555 , real:c030212 , real:c030502 , real:c003569 , real:c031052 , real:c030305 , real:c013445 , real:c013786 , real:c030654 , real:c030811 , real:c030401 , real:c000496 , real:c012789 , real:c002169 , real:c013420 , real:c005193 , real:c005531 , real:c030878 , real:c030753 , real:c030239 , real:c030298 , real:c030625 , real:c030532 , real:c012060 , real:c030813 , real:c030307 , real:c006073 , real:c030214 , real:c007423 , real:c008011 , real:c006616 , real:c030828 , real:c030507 , real:c001243 , real:c002143 , real:c002159 , real:c030912 , real:c030377 , real:c030252 , real:c030284 , real:c030851 , real:c030927 , real:c030959 , real:c005536 , real:c004137 , real:c030971 , real:c030646 , real:c030614 , real:c010514 , real:c030183 , real:c030195 , real:c030521 , real:c007730 , real:c000331 , real:c005133 , real:c031782 , real:c031492 , real:c030645 , real:c002635 , real:c003169 , real:c013540 , real:c030219 , real:c008088 , real:c030408 , real:c030998 , real:c030745 , real:c031379 , real:c030853 , real:c011360 , real:c030563 , real:c030185 , real:c030411 , real:c030470 , real:c030310 , real:c030973 , real:c009924 , real:c030289 , real:c007085 , real:c003023 , real:c000036 , real:c030458 , real:c006768 , real:c030357 , real:c003340 , real:c008215 , real:c002749 , real:c001203 , real:c030205 , real:c007153 , real:c004610 , real:c030244 , real:c002286 , real:c030883 , real:c005234 , real:c006782 , real:c030472 , real:c013545 , real:c010799 , real:c030919 , real:c030259 , real:c010349 , real:c031003 , real:c030565 , real:c013400 , real:c030312 , real:c000688 , real:c030331 , real:c002723 , real:c013270 , real:c030858 , real:c030765 , real:c007974 , real:c001112 , real:c010115 , real:c030359 , real:c010492 , real:c030933 , real:c002517 , real:c030720 , real:c030462 , real:c004868 , real:c010174 , real:c003380 , real:c030607 , real:c030651 , real:c030964 , real:c030418 , real:c030477 , real:c003802 , real:c013585 , real:c012661 , real:c030666 , real:c006811 , real:c030750 , real:c013653 , real:c003849 , real:c030371 , real:c030491 , real:c008895 , real:c030725 , real:c030556 , real:c012503 , real:c030825 , real:c030504 , real:c001409 , real:c001730 , real:c030319 , real:c030953 , real:c006612 , real:c008710 , real:c013896 , real:c011299 , real:c000176 , real:c030519 , real:c013506 , real:c013538 , real:c030924 , real:c030389 , real:c030727 , real:c030296 , real:c004134 , real:c030771 , real:c005641 , real:c001949 , real:c030863 , real:c001210 , real:c030895 , real:c010527 , real:c030626 , real:c007995 , real:c030658 , real:c030533 , real:c030943 , real:c030405 , real:c030324 , real:c000668 , real:c013520 , real:c004873 , real:c009402 , real:c030945 , real:c030913 , real:c030865 , real:c030676 , real:c030612 , real:c000161 , real:c002983 , real:c030575 , real:c004427 , real:c010207 , real:c030482 , real:c030423 , real:c030322 , real:c030285 , real:c011412 , real:c030354 , real:c002268 , real:c010106 , real:c002015 , real:c000522 , real:c011834 , real:c011893 , real:c012791 , real:c003195 , real:c002802 , real:c030369 , real:c013815 , real:c030844 , real:c012473 , real:c004875 , real:c008166 , real:c030329 , real:c030983 , real:c004165 , real:c030855 , real:c030187 , real:c030199 , real:c010333 , real:c004261 , real:c031015 , real:c030577 , real:c012122 , real:c030525 , real:c030830 , real:c030649 , real:c003185 , real:c030617 , real:c002160 , real:c013282 , real:c006568 , real:c002767 , real:c014031 , real:c030270 , real:c006846 , real:c002956 , real:c030524 , real:c007086 , real:c010127 , real:c013527 , real:c007842 , real:c030442 , real:c030732 , real:c030474 , real:c013498 , real:c006860 , real:c030884 , real:c000674 , real:c030619 , real:c003915 , real:c030904 , real:c030663 , real:c001335 , real:c006976 , real:c030236 , real:c006465 , real:c000023 , real:c012577 , real:c005290 , real:c030275 , real:c008868 , real:c005968 , real:c008615 , real:c005715 , real:c030383 , real:c013532 , real:c030906 , real:c030950 , real:c030737 , real:c030568 , real:c010626 , real:c030210 , real:c000768 , real:c009454 , real:c000780 , real:c006467 , real:c030805 , real:c002823 , real:c030837 , real:c001742 , real:c030334 , real:c013519 , real:c009071 , real:c030668 , real:c000534 , real:c000028 , real:c001267 , real:c008858 , real:c010985 , real:c004759 , real:c030751 , real:c010776 , real:c009396 , real:c008893 , real:c030783 , real:c030530 , real:c030875 , real:c013770 , real:c001941 , real:c030449 , real:c009833 , real:c030955 , real:c030228 , real:c012520 , real:c002772 , real:c030557 , real:c030702 , real:c002559 .
 
 real:c007254  skos:closeMatch  wd:Q173113 .
 
@@ -683,6 +719,8 @@ real:c030612  skos:closeMatch  wd:Q796 .
 real:c011459  skos:closeMatch  wd:Q7982 .
 
 real:c008460  skos:closeMatch  wd:Q4830453 .
+
+real:c001913  skos:closeMatch  wd:Q4130 .
 
 real:c030527  skos:closeMatch  wd:Q23408 .
 
@@ -806,7 +844,11 @@ real:c010370  skos:closeMatch  wd:Q186693 .
 
 real:c014044  skos:closeMatch  wd:Q3526722 .
 
+real:c013443  skos:closeMatch  wd:Q467 .
+
 real:c030580  skos:closeMatch  wd:Q49233 .
+
+real:c001738  skos:closeMatch  wd:Q43656 .
 
 real:c009433  skos:closeMatch  wd:Q719461 .
 
@@ -821,6 +863,8 @@ real:c000171  skos:closeMatch  wd:Q582477 .
 real:c009974  skos:closeMatch  wd:Q1448518 .
 
 real:c006998  skos:closeMatch  wd:Q911331 .
+
+real:c030416  skos:closeMatch  wd:Q1748 .
 
 real:c002318  skos:closeMatch  wd:Q11173 .
 
@@ -848,6 +892,8 @@ real:c013878  skos:closeMatch  wd:Q36192 .
 
 real:c005352  skos:closeMatch  wd:Q192900 .
 
+real:c006977  skos:closeMatch  wd:Q106844 .
+
 real:c013401  skos:closeMatch  wd:Q477690 .
 
 real:c013395  skos:closeMatch  wd:Q47041 .
@@ -865,6 +911,8 @@ real:c005267  skos:closeMatch  wd:Q1321695 .
 real:c000065  skos:closeMatch  wd:Q1578310 .
 
 real:c002923  skos:closeMatch  wd:Q38859 .
+
+real:c004666  skos:closeMatch  wd:Q41576 .
 
 real:c007642  skos:closeMatch  wd:Q1786125 .
 
@@ -924,6 +972,8 @@ real:c004624  skos:closeMatch  wd:Q26100 .
 
 real:c011343  skos:closeMatch  wd:Q25691279 .
 
+real:c009343  skos:closeMatch  wd:Q3123740 .
+
 real:c013900  skos:closeMatch  wd:Q715789 .
 
 real:c006367  skos:closeMatch  wd:Q186608 .
@@ -956,6 +1006,8 @@ real:c012947  skos:closeMatch  wd:Q36956983 .
 
 real:c004120  skos:closeMatch  wd:Q170749 .
 
+real:c001770  skos:closeMatch  wd:Q11993729 .
+
 real:c006972  skos:closeMatch  wd:Q21659 .
 
 real:c013390  skos:closeMatch  wd:Q22651 .
@@ -978,6 +1030,8 @@ real:c030305  skos:closeMatch  wd:Q50615 .
 
 real:c004661  skos:closeMatch  wd:Q89 .
 
+real:c030299  skos:closeMatch  wd:Q647927 .
+
 real:c013226  skos:closeMatch  wd:Q899266 .
 
 real:c010068  skos:closeMatch  wd:Q2396858 .
@@ -991,6 +1045,8 @@ real:c006325  skos:closeMatch  wd:Q2043282 .
 real:c002350  skos:closeMatch  wd:Q11990 .
 
 real:c012926  skos:closeMatch  wd:Q156153 .
+
+real:c030846  skos:closeMatch  wd:Q1715 .
 
 real:c008068  skos:closeMatch  wd:Q11165 .
 
@@ -1016,6 +1072,10 @@ real:c010132  skos:closeMatch  wd:Q269856 .
 
 real:c006383  skos:closeMatch  wd:Q1126045 .
 
+real:c030910  skos:closeMatch  wd:Q148 .
+
+real:c011757  skos:closeMatch  wd:Q12831143 .
+
 real:c000580  skos:closeMatch  wd:Q899224 .
 
 real:c010047  skos:closeMatch  wd:Q2618835 .
@@ -1025,6 +1085,8 @@ real:c003328  skos:closeMatch  wd:Q80091 .
 real:c006298  skos:closeMatch  wd:Q664174 .
 
 real:c012905  skos:closeMatch  wd:Q27046 .
+
+real:c030825  skos:closeMatch  wd:Q1825 .
 
 real:c004072  skos:closeMatch  wd:Q5406088 .
 
@@ -1061,6 +1123,10 @@ real:c003307  skos:closeMatch  wd:Q659503 .
 real:c013810  skos:closeMatch  wd:Q190553 .
 
 real:c009253  skos:closeMatch  wd:Q185969 .
+
+real:c030798  skos:closeMatch  wd:Q1210 .
+
+real:c030804  skos:closeMatch  wd:Q43631 .
 
 real:c004051  skos:closeMatch  wd:Q332211 .
 
@@ -1106,6 +1172,8 @@ real:c001595  skos:closeMatch  wd:Q37756 .
 
 real:c010063  skos:closeMatch  wd:Q520549 .
 
+real:c030841  skos:closeMatch  wd:Q1420136 .
+
 real:c012921  skos:closeMatch  wd:Q11788 .
 
 real:c002117  skos:closeMatch  wd:Q3039055 .
@@ -1135,6 +1203,8 @@ real:c031421  skos:closeMatch  wd:Q45767 .
 real:c008525  skos:closeMatch  wd:Q12187 .
 
 real:c003323  skos:closeMatch  wd:Q677014 .
+
+real:c030820  skos:closeMatch  wd:Q83232 .
 
 real:c012894  skos:closeMatch  wd:Q427087 .
 
@@ -1166,7 +1236,11 @@ real:c012873  skos:closeMatch  wd:Q12135 .
 
 real:c002069  skos:closeMatch  wd:Q940955 .
 
+real:c000952  skos:closeMatch  wd:Q11369 .
+
 real:c011646  skos:closeMatch  wd:Q205768 .
+
+real:c005671  skos:closeMatch  wd:Q117483 .
 
 real:c012390  skos:closeMatch  wd:Q79064 .
 
@@ -1282,6 +1356,8 @@ real:c009015  skos:closeMatch  wd:Q33196 .
 
 real:c011641  skos:closeMatch  wd:Q14373 .
 
+real:c003689  skos:closeMatch  wd:Q146339 .
+
 real:c000719  skos:closeMatch  wd:Q7874246 .
 
 real:c009641  skos:closeMatch  wd:Q180254 .
@@ -1326,6 +1402,10 @@ real:c003185  skos:closeMatch  wd:Q49958 .
 
 real:c008308  skos:closeMatch  wd:Q131567 .
 
+real:c030603  skos:closeMatch  wd:Q1603 .
+
+real:c008451  skos:closeMatch  wd:Q34384 .
+
 real:c010451  skos:closeMatch  wd:Q208478 .
 
 real:c012200  skos:closeMatch  wd:Q1096 .
@@ -1363,6 +1443,8 @@ real:c012173  skos:closeMatch  wd:Q706 .
 real:c009429  skos:closeMatch  wd:Q1371415 .
 
 real:c000252  skos:closeMatch  wd:Q179924 .
+
+real:c002001  skos:closeMatch  wd:Q492 .
 
 real:c001877  skos:closeMatch  wd:Q178546 .
 
@@ -1410,6 +1492,8 @@ real:c006575  skos:closeMatch  wd:Q35758 .
 
 real:c003599  skos:closeMatch  wd:Q83353 .
 
+real:c000146  skos:closeMatch  wd:Q11364 .
+
 real:c003122  skos:closeMatch  wd:Q8815 .
 
 real:c002998  skos:closeMatch  wd:Q188 .
@@ -1427,6 +1511,8 @@ real:c002436  skos:closeMatch  wd:Q82580 .
 real:c013938  skos:closeMatch  wd:Q7432 .
 
 real:c008382  skos:closeMatch  wd:Q33539 .
+
+real:c030449  skos:closeMatch  wd:Q229 .
 
 real:c012529  skos:closeMatch  wd:Q2225 .
 
@@ -1590,6 +1676,8 @@ real:c000640  skos:closeMatch  wd:Q9366 .
 
 real:c004615  skos:closeMatch  wd:Q46729 .
 
+real:c031003  skos:closeMatch  wd:Q184975 .
+
 real:c030879  skos:closeMatch  wd:Q48696 .
 
 real:c009960  skos:closeMatch  wd:Q5377 .
@@ -1666,6 +1754,8 @@ real:c006316  skos:closeMatch  wd:Q8928 .
 
 real:c012917  skos:closeMatch  wd:Q157624 .
 
+real:c030837  skos:closeMatch  wd:Q1442928 .
+
 real:c008059  skos:closeMatch  wd:Q904159 .
 
 real:c010685  skos:closeMatch  wd:Q428914 .
@@ -1702,9 +1792,13 @@ real:c010664  skos:closeMatch  wd:Q163578 .
 
 real:c003945  skos:closeMatch  wd:Q185925 .
 
+real:c030333  skos:closeMatch  wd:Q837 .
+
 real:c007437  skos:closeMatch  wd:Q6534 .
 
 real:c011812  skos:closeMatch  wd:Q573661 .
+
+real:c013254  skos:closeMatch  wd:Q82480 .
 
 real:c012328  skos:closeMatch  wd:Q1849 .
 
@@ -1754,6 +1848,8 @@ real:c011706  skos:closeMatch  wd:Q21736 .
 
 real:c009223  skos:closeMatch  wd:Q181043 .
 
+real:c004021  skos:closeMatch  wd:Q60168 .
+
 real:c003903  skos:closeMatch  wd:Q937228 .
 
 real:c013291  skos:closeMatch  wd:Q8332 .
@@ -1778,13 +1874,19 @@ real:c030206  skos:closeMatch  wd:Q1555938 .
 
 real:c012912  skos:closeMatch  wd:Q1386379 .
 
+real:c030832  skos:closeMatch  wd:Q1221 .
+
 real:c004477  skos:closeMatch  wd:Q11663 .
 
 real:c030747  skos:closeMatch  wd:Q733 .
 
+real:c010601  skos:closeMatch  wd:Q587553 .
+
 real:c000906  skos:closeMatch  wd:Q41581 .
 
 real:c013270  skos:closeMatch  wd:Q1321 .
+
+real:c030264  skos:closeMatch  wd:Q252 .
 
 real:c000423  skos:closeMatch  wd:Q668677 .
 
@@ -1795,6 +1897,8 @@ real:c031889  skos:closeMatch  wd:Q1401936 .
 real:c030890  skos:closeMatch  wd:Q23883 .
 
 real:c007994  skos:closeMatch  wd:Q178026 .
+
+real:c008516  skos:closeMatch  wd:Q163767 .
 
 real:c012259  skos:closeMatch  wd:Q1664027 .
 
@@ -1826,9 +1930,13 @@ real:c012323  skos:closeMatch  wd:Q1876 .
 
 real:c030243  skos:closeMatch  wd:Q115 .
 
+real:c007347  skos:closeMatch  wd:Q190444 .
+
 real:c000396  skos:closeMatch  wd:Q131681 .
 
 real:c002145  skos:closeMatch  wd:Q1341190 .
+
+real:c004997  skos:closeMatch  wd:Q8492 .
 
 real:c002771  skos:closeMatch  wd:Q1248784 .
 
@@ -1837,6 +1945,8 @@ real:c004520  skos:closeMatch  wd:Q300159 .
 real:c001061  skos:closeMatch  wd:Q4929239 .
 
 real:c009637  skos:closeMatch  wd:Q489328 .
+
+real:c001459  skos:closeMatch  wd:Q6764278 .
 
 real:c011154  skos:closeMatch  wd:Q640068 .
 
@@ -1920,6 +2030,10 @@ real:c006200  skos:closeMatch  wd:Q37868 .
 
 real:c006194  skos:closeMatch  wd:Q18537 .
 
+real:c004849  skos:closeMatch  wd:Q191086 .
+
+real:c011568  skos:closeMatch  wd:Q1053470 .
+
 real:c007825  skos:closeMatch  wd:Q28313734 .
 
 real:c009568  skos:closeMatch  wd:Q192360 .
@@ -1953,6 +2067,8 @@ real:c001369  skos:closeMatch  wd:Q12623 .
 real:c009064  skos:closeMatch  wd:Q193343 .
 
 real:c006088  skos:closeMatch  wd:Q42762 .
+
+real:c012689  skos:closeMatch  wd:Q28960 .
 
 real:c000768  skos:closeMatch  wd:Q9828451 .
 
@@ -2000,7 +2116,11 @@ real:c006614  skos:closeMatch  wd:Q28745 .
 
 real:c010983  skos:closeMatch  wd:Q48103 .
 
+real:c000179  skos:closeMatch  wd:Q214514 .
+
 real:c030652  skos:closeMatch  wd:Q131491 .
+
+real:c000811  skos:closeMatch  wd:Q1372384 .
 
 real:c011499  skos:closeMatch  wd:Q3937 .
 
@@ -2038,6 +2158,8 @@ real:c005907  skos:closeMatch  wd:Q177220 .
 
 real:c030546  skos:closeMatch  wd:Q54062 .
 
+real:c003675  skos:closeMatch  wd:Q478759 .
+
 real:c005424  skos:closeMatch  wd:Q726 .
 
 real:c003192  skos:closeMatch  wd:Q373406 .
@@ -2053,6 +2175,8 @@ real:c012684  skos:closeMatch  wd:Q304484 .
 real:c030610  skos:closeMatch  wd:Q766 .
 
 real:c004738  skos:closeMatch  wd:Q9458574 .
+
+real:c004255  skos:closeMatch  wd:Q2453249 .
 
 real:c007231  skos:closeMatch  wd:Q496 .
 
@@ -2173,7 +2297,7 @@ real:c005817  skos:closeMatch  wd:Q336358 .
 <http://data.ub.uio.no/entity/c0f08a3c-12ed-410a-b810-d8be5c48571b>
         a            uoc:Category ;
         rdfs:label   "Informatikk"@nb ;
-        skos:member  real:c006265 , real:c011459 , real:c013410 , real:c010691 , real:c012072 , real:c005764 , real:c031569 , real:c001363 , real:c001461 , real:c031581 , real:c005392 , real:c005660 , real:c001604 , real:c008985 , real:c006889 , real:c000754 , real:c005283 , real:c007668 , real:c012162 , real:c009682 , real:c007617 , real:c012039 , real:c003879 , real:c013314 , real:c005737 , real:c004230 , real:c012543 , real:c009388 , real:c003959 , real:c007168 , real:c008829 , real:c000409 , real:c000088 , real:c004410 , real:c000492 , real:c007551 , real:c005569 , real:c008307 , real:c011229 , real:c000513 , real:c013340 , real:c005896 , real:c003945 , real:c004004 , real:c001246 , real:c031218 , real:c003125 , real:c010423 , real:c031691 , real:c012054 , real:c002279 , real:c005021 , real:c031751 , real:c000488 , real:c001566 , real:c012979 , real:c000823 , real:c009162 , real:c012095 , real:c001537 , real:c031278 , real:c012934 , real:c014029 , real:c001618 , real:c011753 , real:c007399 , real:c008917 , real:c004895 , real:c013401 , real:c002302 , real:c004072 , real:c012161 , real:c004801 , real:c005300 , real:c013723 , real:c031300 , real:c013399 , real:c001828 , real:c003122 , real:c013240 , real:c004048 , real:c006659 , real:c006036 , real:c003217 , real:c009501 , real:c007403 , real:c003154 , real:c011611 , real:c003713 , real:c006569 , real:c003283 , real:c009303 , real:c011333 , real:c005722 , real:c002542 , real:c031702 , real:c000640 , real:c013334 , real:c004342 , real:c008385 , real:c010317 , real:c012594 , real:c000707 , real:c004292 , real:c031336 , real:c005613 , real:c010049 , real:c008090 , real:c010011 , real:c008559 , real:c004435 , real:c010488 , real:c005851 , real:c007170 , real:c004109 , real:c001451 , real:c007469 , real:c006817 , real:c002416 , real:c009360 , real:c010459 , real:c000057 , real:c009783 , real:c006655 , real:c002958 , real:c003144 , real:c004619 , real:c001534 , real:c002828 , real:c007781 , real:c010535 , real:c007700 , real:c011769 , real:c000375 , real:c010741 , real:c003696 , real:c001159 , real:c006308 , real:c011964 , real:c004520 , real:c007021 , real:c010094 , real:c031753 , real:c031485 , real:c005313 , real:c011575 , real:c004885 , real:c001196 , real:c003013 , real:c008708 , real:c009154 , real:c010533 , real:c008818 , real:c003788 , real:c012064 , real:c014041 , real:c001205 , real:c007691 , real:c009065 , real:c005031 , real:c012431 , real:c009921 .
+        skos:member  real:c006265 , real:c011459 , real:c013410 , real:c010691 , real:c012072 , real:c005764 , real:c031569 , real:c001363 , real:c001461 , real:c031581 , real:c005392 , real:c005660 , real:c001604 , real:c008985 , real:c006889 , real:c000754 , real:c005283 , real:c007668 , real:c012162 , real:c009682 , real:c007617 , real:c012039 , real:c003879 , real:c013314 , real:c005737 , real:c004230 , real:c012543 , real:c009388 , real:c003959 , real:c007168 , real:c008829 , real:c000409 , real:c000088 , real:c004410 , real:c000492 , real:c007551 , real:c005569 , real:c008307 , real:c011229 , real:c000513 , real:c013340 , real:c005896 , real:c003945 , real:c004004 , real:c001246 , real:c031218 , real:c003125 , real:c010423 , real:c031691 , real:c012054 , real:c002279 , real:c005021 , real:c031751 , real:c000488 , real:c001566 , real:c012979 , real:c000823 , real:c009162 , real:c012095 , real:c001537 , real:c031278 , real:c012934 , real:c014029 , real:c001618 , real:c011753 , real:c007399 , real:c008917 , real:c004895 , real:c013401 , real:c002302 , real:c004072 , real:c012161 , real:c004801 , real:c005300 , real:c013723 , real:c031300 , real:c013399 , real:c001828 , real:c003122 , real:c013240 , real:c004048 , real:c006659 , real:c006036 , real:c003217 , real:c009501 , real:c007403 , real:c003154 , real:c011611 , real:c003713 , real:c006569 , real:c003283 , real:c009303 , real:c011333 , real:c005722 , real:c002542 , real:c031702 , real:c000640 , real:c013334 , real:c004342 , real:c008385 , real:c010317 , real:c012160 , real:c012594 , real:c000707 , real:c004292 , real:c031336 , real:c005613 , real:c010049 , real:c008090 , real:c010011 , real:c008559 , real:c004435 , real:c010488 , real:c005851 , real:c007170 , real:c004109 , real:c001451 , real:c007469 , real:c006817 , real:c002416 , real:c009360 , real:c010459 , real:c000057 , real:c009783 , real:c006655 , real:c002958 , real:c003144 , real:c004619 , real:c001534 , real:c002828 , real:c007781 , real:c010535 , real:c007700 , real:c011769 , real:c000375 , real:c010741 , real:c003696 , real:c001159 , real:c006308 , real:c011964 , real:c004520 , real:c007021 , real:c010094 , real:c031753 , real:c031485 , real:c005313 , real:c011575 , real:c004885 , real:c001196 , real:c003013 , real:c008708 , real:c005616 , real:c009154 , real:c010533 , real:c008818 , real:c003788 , real:c012064 , real:c014041 , real:c001205 , real:c007691 , real:c009065 , real:c005031 , real:c012431 , real:c009921 .
 
 real:c003585  skos:closeMatch  wd:Q1071389 .
 
@@ -2234,6 +2358,8 @@ real:c007597  skos:closeMatch  wd:Q28404 .
 real:c031015  skos:closeMatch  wd:Q308 .
 
 real:c012090  skos:closeMatch  wd:Q2199 .
+
+real:c004770  skos:closeMatch  wd:Q10987 .
 
 real:c001800  skos:closeMatch  wd:Q12004 .
 
@@ -2340,6 +2466,8 @@ real:c012908  skos:closeMatch  wd:Q720458 .
 real:c030828  skos:closeMatch  wd:Q1713627 .
 
 real:c007051  skos:closeMatch  wd:Q4500803 .
+
+real:c006933  skos:closeMatch  wd:Q107027 .
 
 real:c001731  skos:closeMatch  wd:Q4723996 .
 
@@ -2469,7 +2597,11 @@ real:c005069  skos:closeMatch  wd:Q3031 .
 
 real:c008045  skos:closeMatch  wd:Q42045 .
 
+real:c007927  skos:closeMatch  wd:Q83330 .
+
 real:c003952  skos:closeMatch  wd:Q7257 .
+
+real:c012420  skos:closeMatch  wd:Q753 .
 
 real:c030340  skos:closeMatch  wd:Q57076 .
 
@@ -2482,6 +2614,8 @@ real:c006217  skos:closeMatch  wd:Q25332 .
 real:c012818  skos:closeMatch  wd:Q10861356 .
 
 real:c003867  skos:closeMatch  wd:Q26308 .
+
+real:c005616  skos:closeMatch  wd:Q732089 .
 
 real:c012335  skos:closeMatch  wd:Q1252 .
 
@@ -2537,6 +2671,8 @@ real:c005653  skos:closeMatch  wd:Q7566 .
 
 real:c030292  skos:closeMatch  wd:Q14056 .
 
+real:c011145  skos:closeMatch  wd:Q190564 .
+
 real:c007402  skos:closeMatch  wd:Q484105 .
 
 real:c011771  skos:closeMatch  wd:Q34007 .
@@ -2545,7 +2681,11 @@ real:c010544  skos:closeMatch  wd:Q864212 .
 
 real:c006795  skos:closeMatch  wd:Q2497922 .
 
+real:c001593  skos:closeMatch  wd:Q408365 .
+
 real:c030213  skos:closeMatch  wd:Q828 .
+
+real:c010061  skos:closeMatch  wd:Q7867 .
 
 real:c013617  skos:closeMatch  wd:Q11408 .
 
@@ -2554,6 +2694,8 @@ real:c005085  skos:closeMatch  wd:Q690068 .
 real:c007943  skos:closeMatch  wd:Q52 .
 
 real:c010459  skos:closeMatch  wd:Q1486554 .
+
+real:c009686  skos:closeMatch  wd:Q127900 .
 
 real:c003883  skos:closeMatch  wd:Q764285 .
 
@@ -2637,6 +2779,8 @@ real:c003273  skos:closeMatch  wd:Q5642657 .
 
 real:c007248  skos:closeMatch  wd:Q2374149 .
 
+real:c012850  skos:closeMatch  wd:Q221681 .
+
 real:c002046  skos:closeMatch  wd:Q40763 .
 
 real:c004819  skos:closeMatch  wd:Q7575249 .
@@ -2667,6 +2811,8 @@ real:c013527  skos:closeMatch  wd:Q9303 .
 
 real:c007853  skos:closeMatch  wd:Q190334 .
 
+real:c002651  skos:closeMatch  wd:Q216828 .
+
 real:c009602  skos:closeMatch  wd:Q105186 .
 
 real:c007370  skos:closeMatch  wd:Q1079070 .
@@ -2684,6 +2830,8 @@ real:c013585  skos:closeMatch  wd:Q43006 .
 real:c004941  skos:closeMatch  wd:Q748 .
 
 real:c000738  skos:closeMatch  wd:Q421930 .
+
+real:c005457  skos:closeMatch  wd:Q193430 .
 
 real:c007206  skos:closeMatch  wd:Q21834 .
 
@@ -2712,6 +2860,8 @@ real:c010412  skos:closeMatch  wd:Q27532 .
 real:c001461  skos:closeMatch  wd:Q165372 .
 
 real:c007179  skos:closeMatch  wd:Q44619 .
+
+real:c000860  skos:closeMatch  wd:Q61231 .
 
 real:c011071  skos:closeMatch  wd:Q12542 .
 
@@ -2750,6 +2900,8 @@ real:c030680  skos:closeMatch  wd:Q58705 .
 real:c001838  skos:closeMatch  wd:Q184207 .
 
 real:c004814  skos:closeMatch  wd:Q429979 .
+
+real:c000128  skos:closeMatch  wd:Q332788 .
 
 real:c003098  skos:closeMatch  wd:Q30535 .
 
@@ -2897,6 +3049,8 @@ real:c005383  skos:closeMatch  wd:Q27137 .
 
 real:c030909  skos:closeMatch  wd:Q31547742 .
 
+real:c004156  skos:closeMatch  wd:Q11436 .
+
 real:c030426  skos:closeMatch  wd:Q1261 .
 
 real:c001727  skos:closeMatch  wd:Q898774 .
@@ -2973,6 +3127,8 @@ real:c030378  skos:closeMatch  wd:Q800 .
 
 real:c003030  skos:closeMatch  wd:Q170177 .
 
+real:c009857  skos:closeMatch  wd:Q106520 .
+
 real:c013305  skos:closeMatch  wd:Q2043282 .
 
 real:c013299  skos:closeMatch  wd:Q169444 .
@@ -2980,6 +3136,8 @@ real:c013299  skos:closeMatch  wd:Q169444 .
 real:c001679  skos:closeMatch  wd:Q331432 .
 
 real:c007631  skos:closeMatch  wd:Q16491 .
+
+real:c006404  skos:closeMatch  wd:Q7208 .
 
 real:c006398  skos:closeMatch  wd:Q179742 .
 
@@ -3035,6 +3193,8 @@ real:c030962  skos:closeMatch  wd:Q71617 .
 
 real:c002238  skos:closeMatch  wd:Q169219 .
 
+real:c008184  skos:closeMatch  wd:Q865807 .
+
 real:c010105  skos:closeMatch  wd:Q729429 .
 
 real:c008105  skos:closeMatch  wd:Q2455463 .
@@ -3061,6 +3221,8 @@ real:c000070  skos:closeMatch  wd:Q173432 .
 
 real:c007021  skos:closeMatch  wd:Q2068215 .
 
+real:c030315  skos:closeMatch  wd:Q1757 .
+
 real:c003927  skos:closeMatch  wd:Q81197 .
 
 real:c013321  skos:closeMatch  wd:Q2996394 .
@@ -3082,6 +3244,8 @@ real:c003359  skos:closeMatch  wd:Q2375831 .
 real:c030856  skos:closeMatch  wd:Q42070 .
 
 real:c006961  skos:closeMatch  wd:Q7703544 .
+
+real:c012453  skos:closeMatch  wd:Q189975 .
 
 real:c005734  skos:closeMatch  wd:Q42962 .
 
@@ -3150,6 +3314,8 @@ real:c004061  skos:closeMatch  wd:Q178224 .
 real:c030331  skos:closeMatch  wd:Q10656738 .
 
 real:c005686  skos:closeMatch  wd:Q1149626 .
+
+real:c007435  skos:closeMatch  wd:Q421978 .
 
 real:c013735  skos:closeMatch  wd:Q12187 .
 
@@ -3253,6 +3419,8 @@ real:c010052  skos:closeMatch  wd:Q20113712 .
 
 real:c007308  skos:closeMatch  wd:Q127950 .
 
+real:c030830  skos:closeMatch  wd:Q43467 .
+
 real:c012910  skos:closeMatch  wd:Q7415384 .
 
 real:c002106  skos:closeMatch  wd:Q188524 .
@@ -3297,6 +3465,8 @@ real:c003312  skos:closeMatch  wd:Q176140 .
 
 real:c006282  skos:closeMatch  wd:Q127980 .
 
+real:c002079  skos:closeMatch  wd:Q409787 .
+
 real:c011656  skos:closeMatch  wd:Q47912 .
 
 real:c007913  skos:closeMatch  wd:Q42501 .
@@ -3329,13 +3499,19 @@ real:c005517  skos:closeMatch  wd:Q1931388 .
 
 real:c003285  skos:closeMatch  wd:Q73984 .
 
+real:c030782  skos:closeMatch  wd:Q1763 .
+
 real:c005660  skos:closeMatch  wd:Q749647 .
 
 real:c006659  skos:closeMatch  wd:Q388 .
 
 real:c031298  skos:closeMatch  wd:Q660158 .
 
+real:c008408  skos:closeMatch  wd:Q1468920 .
+
 real:c030697  skos:closeMatch  wd:Q3757 .
+
+real:c003832  skos:closeMatch  wd:Q12144 .
 
 real:c010551  skos:closeMatch  wd:Q59166 .
 
@@ -3491,6 +3667,8 @@ real:c012730  skos:closeMatch  wd:Q1587185 .
 
 real:c030650  skos:closeMatch  wd:Q88806 .
 
+real:c006527  skos:closeMatch  wd:Q12198 .
+
 real:c007271  skos:closeMatch  wd:Q26388 .
 
 real:c010902  skos:closeMatch  wd:Q182468 .
@@ -3505,6 +3683,8 @@ real:c001951  skos:closeMatch  wd:Q216507 .
 
 real:c030565  skos:closeMatch  wd:Q1754 .
 
+real:c007669  skos:closeMatch  wd:Q45914 .
+
 real:c006670  skos:closeMatch  wd:Q179217 .
 
 real:c013969  skos:closeMatch  wd:Q132814 .
@@ -3516,6 +3696,10 @@ real:c005443  skos:closeMatch  wd:Q3736439 .
 real:c013486  skos:closeMatch  wd:Q318751 .
 
 real:c008817  skos:closeMatch  wd:Q5369 .
+
+real:c010334  skos:closeMatch  wd:Q211050 .
+
+real:c001383  skos:closeMatch  wd:Q534112 .
 
 real:c010960  skos:closeMatch  wd:Q7258877 .
 
@@ -3540,6 +3724,8 @@ real:c001219  skos:closeMatch  wd:Q207745 .
 real:c001845  skos:closeMatch  wd:Q3821040 .
 
 real:c004821  skos:closeMatch  wd:Q410221 .
+
+real:c030459  skos:closeMatch  wd:Q488435 .
 
 real:c000618  skos:closeMatch  wd:Q427492 .
 
@@ -3589,6 +3775,8 @@ real:c007059  skos:closeMatch  wd:Q1358009 .
 
 real:c012661  skos:closeMatch  wd:Q7860 .
 
+real:c030581  skos:closeMatch  wd:Q691 .
+
 real:c011434  skos:closeMatch  wd:Q45959 .
 
 real:c007685  skos:closeMatch  wd:Q909501 .
@@ -3603,6 +3791,8 @@ real:c001256  skos:closeMatch  wd:Q3239189 .
 
 real:c010833  skos:closeMatch  wd:Q10862670 .
 
+real:c030502  skos:closeMatch  wd:Q811 .
+
 real:c005857  skos:closeMatch  wd:Q1198376 .
 
 real:c010350  skos:closeMatch  wd:Q11962946 .
@@ -3611,7 +3801,11 @@ real:c005374  skos:closeMatch  wd:Q7942 .
 
 real:c002398  skos:closeMatch  wd:Q389735 .
 
+real:c030417  skos:closeMatch  wd:Q2415 .
+
 real:c013423  skos:closeMatch  wd:Q171141 .
+
+real:c012014  skos:closeMatch  wd:Q898579 .
 
 real:c011492  skos:closeMatch  wd:Q5608096 .
 
@@ -3622,6 +3816,8 @@ real:c003546  skos:closeMatch  wd:Q1196129 .
 real:c010265  skos:closeMatch  wd:Q157991 .
 
 real:c006522  skos:closeMatch  wd:Q183410 .
+
+real:c005289  skos:closeMatch  wd:Q6005582 .
 
 real:c002319  skos:closeMatch  wd:Q906226 .
 
@@ -3651,9 +3847,13 @@ real:c012072  skos:closeMatch  wd:Q629206 .
 
 real:c013402  skos:closeMatch  wd:Q39689 .
 
+real:c004752  skos:closeMatch  wd:Q1408937 .
+
 real:c011471  skos:closeMatch  wd:Q7363 .
 
 real:c006501  skos:closeMatch  wd:Q898797 .
+
+real:c011869  skos:closeMatch  wd:Q389137 .
 
 real:c007017  skos:closeMatch  wd:Q171407 .
 
@@ -3662,6 +3862,8 @@ real:c005900  skos:closeMatch  wd:Q1387972 .
 real:c002924  skos:closeMatch  wd:Q5445 .
 
 real:c008870  skos:closeMatch  wd:Q745328 .
+
+real:c004667  skos:closeMatch  wd:Q18237 .
 
 real:c013135  skos:closeMatch  wd:Q1137226 .
 
@@ -3679,9 +3881,13 @@ real:c005332  skos:closeMatch  wd:Q1056113 .
 
 real:c004105  skos:closeMatch  wd:Q1000370 .
 
+real:c010706  skos:closeMatch  wd:Q43101 .
+
 real:c006957  skos:closeMatch  wd:Q824237 .
 
 real:c004731  skos:closeMatch  wd:Q738011 .
+
+real:c030369  skos:closeMatch  wd:Q1030 .
 
 real:c008223  skos:closeMatch  wd:Q250388 .
 
@@ -3690,6 +3896,8 @@ real:c030995  skos:closeMatch  wd:Q1323379 .
 real:c013922  skos:closeMatch  wd:Q2836947 .
 
 real:c030916  skos:closeMatch  wd:Q105206 .
+
+real:c010764  skos:closeMatch  wd:Q43010 .
 
 real:c013029  skos:closeMatch  wd:Q11452 .
 
@@ -3731,6 +3939,8 @@ real:c003541  skos:closeMatch  wd:Q182978 .
 
 real:c000565  skos:closeMatch  wd:Q10950298 .
 
+real:c005284  skos:closeMatch  wd:Q81058 .
+
 real:c000082  skos:closeMatch  wd:Q16487229 .
 
 real:c003939  skos:closeMatch  wd:Q193442 .
@@ -3758,6 +3968,8 @@ real:c013789  skos:closeMatch  wd:Q3079208 .
 real:c013312  skos:closeMatch  wd:Q183147 .
 
 real:c030306  skos:closeMatch  wd:Q25 .
+
+real:c031050  skos:closeMatch  wd:Q34664 .
 
 real:c006411  skos:closeMatch  wd:Q41631 .
 
@@ -3803,6 +4015,8 @@ real:c030911  skos:closeMatch  wd:Q2795 .
 
 real:c009758  skos:closeMatch  wd:Q5886 .
 
+real:c003329  skos:closeMatch  wd:Q19413 .
+
 real:c009275  skos:closeMatch  wd:Q194397 .
 
 real:c004073  skos:closeMatch  wd:Q103517 .
@@ -3830,6 +4044,8 @@ real:c000502  skos:closeMatch  wd:Q35255 .
 real:c000496  skos:closeMatch  wd:Q1328805 .
 
 real:c011822  skos:closeMatch  wd:Q170050 .
+
+real:c006846  skos:closeMatch  wd:Q28165 .
 
 real:c031485  skos:closeMatch  wd:Q189177 .
 
@@ -3882,11 +4098,13 @@ real:c010085  skos:closeMatch  wd:Q815818 .
 <http://data.ub.uio.no/entity/e31b973e-b1b4-4768-9d47-4151aa54fefd>
         a            uoc:Category ;
         rdfs:label   "Geo"@nb ;
-        skos:member  real:c009473 , real:c006354 , real:c006359 , real:c012947 , real:c005928 , real:c003821 , real:c008973 , real:c005649 , real:c002147 , real:c007473 , real:c003326 , real:c009920 , real:c000954 , real:c011783 , real:c012622 , real:c004256 , real:c009242 , real:c000065 , real:c010471 , real:c007341 , real:c006273 , real:c009873 , real:c001940 , real:c007385 , real:c001772 , real:c012692 , real:c001844 , real:c001984 , real:c008626 , real:c007472 , real:c000032 , real:c007731 , real:c010798 , real:c001278 , real:c030607 , real:c012681 , real:c031731 , real:c006068 , real:c008279 , real:c006493 , real:c006451 , real:c000696 , real:c011891 , real:c010052 , real:c008561 , real:c008315 , real:c007207 , real:c007708 , real:c005869 , real:c003033 , real:c006817 , real:c008473 , real:c010902 , real:c007496 , real:c012935 , real:c009963 , real:c010698 , real:c003240 , real:c003503 , real:c012391 , real:c008933 , real:c000621 , real:c009151 , real:c007366 , real:c000197 , real:c011775 , real:c009191 , real:c006459 , real:c001451 , real:c012074 , real:c000420 , real:c011664 , real:c009560 , real:c009314 , real:c004502 , real:c004440 , real:c031405 , real:c008954 , real:c001440 , real:c001227 , real:c004882 , real:c004370 , real:c002652 , real:c005295 , real:c008758 , real:c005756 , real:c007358 , real:c011953 , real:c007442 , real:c006317 , real:c009347 , real:c011510 , real:c012776 , real:c008564 , real:c012609 , real:c001014 , real:c003511 , real:c001346 , real:c007275 , real:c012530 , real:c012060 , real:c009344 , real:c008272 , real:c014046 , real:c013808 , real:c005234 , real:c008978 , real:c003402 , real:c013317 , real:c000615 , real:c003167 , real:c011900 , real:c002563 , real:c005098 , real:c001316 , real:c011671 , real:c010546 , real:c000038 , real:c009551 , real:c008377 , real:c011341 , real:c004937 , real:c011678 , real:c009677 , real:c003899 , real:c009299 , real:c012691 , real:c006761 , real:c012575 , real:c005915 , real:c005226 , real:c005023 , real:c012255 , real:c008571 , real:c012389 , real:c009985 , real:c031817 , real:c001804 , real:c002104 , real:c011511 , real:c007923 , real:c009106 , real:c012048 , real:c012637 , real:c000723 , real:c007606 , real:c012705 , real:c012235 , real:c001889 , real:c004362 , real:c031753 , real:c009487 , real:c003623 , real:c012237 , real:c009720 , real:c009336 , real:c001408 , real:c030876 , real:c001421 , real:c012390 , real:c004542 , real:c003469 , real:c008458 , real:c008835 , real:c010417 , real:c011536 , real:c009597 , real:c000745 , real:c007407 , real:c010261 , real:c010992 , real:c000031 , real:c003658 , real:c006088 , real:c003765 , real:c002742 , real:c011850 , real:c008660 , real:c010969 , real:c005135 , real:c012404 , real:c003365 , real:c001196 , real:c006510 , real:c007165 , real:c010405 , real:c006652 , real:c002536 , real:c002855 , real:c007107 , real:c001447 , real:c009064 , real:c012394 , real:c010776 , real:c008045 , real:c005149 , real:c000164 , real:c003585 , real:c013398 , real:c004641 , real:c010615 , real:c011065 , real:c008044 , real:c030923 , real:c002683 , real:c012652 , real:c007168 , real:c003017 , real:c000186 , real:c001897 , real:c005916 , real:c011560 , real:c003249 , real:c002107 , real:c013623 , real:c006938 , real:c009033 , real:c013900 , real:c010041 , real:c006319 , real:c004628 , real:c002219 , real:c003640 , real:c002764 , real:c011830 , real:c007019 , real:c007566 , real:c010033 , real:c005085 , real:c010167 , real:c001118 , real:c004031 , real:c010226 , real:c003497 , real:c010092 , real:c012259 , real:c004887 , real:c003161 , real:c005266 , real:c011505 , real:c010793 , real:c007479 , real:c004686 , real:c008507 , real:c006596 , real:c006096 , real:c003083 , real:c004951 , real:c012713 , real:c011646 , real:c008105 , real:c009058 , real:c008730 , real:c007795 , real:c013425 , real:c005668 , real:c006285 , real:c007441 , real:c006231 , real:c000632 , real:c001563 , real:c000411 , real:c006772 , real:c013631 , real:c004088 , real:c006694 , real:c003347 , real:c000948 , real:c001793 , real:c000418 , real:c005374 , real:c009931 , real:c008086 , real:c012615 , real:c002577 , real:c030928 , real:c008674 , real:c010063 , real:c013611 , real:c007679 , real:c001580 , real:c008452 , real:c014047 , real:c010968 , real:c002692 , real:c006505 , real:c010590 , real:c010088 , real:c002384 , real:c006677 , real:c008462 , real:c008955 , real:c030241 , real:c011798 , real:c002663 , real:c013134 , real:c005398 , real:c012616 , real:c011863 , real:c001054 , real:c012393 , real:c011451 , real:c011515 , real:c002288 , real:c001968 , real:c008992 , real:c006109 , real:c006469 , real:c008033 , real:c031045 , real:c004023 , real:c010464 , real:c001675 , real:c004635 , real:c002662 , real:c001633 , real:c002620 , real:c004814 , real:c007840 , real:c006193 , real:c012385 , real:c008647 , real:c004477 , real:c030922 , real:c010587 , real:c007591 , real:c006980 , real:c002619 , real:c006328 , real:c001762 , real:c007377 , real:c004388 , real:c001769 , real:c003622 , real:c012306 , real:c013886 , real:c011698 , real:c011411 , real:c001837 , real:c011043 , real:c008345 , real:c003753 , real:c012595 , real:c007547 , real:c002790 , real:c002352 , real:c003599 , real:c002310 , real:c000399 , real:c000770 , real:c012562 , real:c003540 , real:c004931 , real:c001115 , real:c006071 , real:c009595 , real:c000396 , real:c010500 , real:c002093 , real:c004735 , real:c009253 , real:c006884 , real:c012522 , real:c005507 , real:c012400 , real:c030995 , real:c012205 , real:c013612 , real:c006795 , real:c002284 , real:c001097 , real:c006478 , real:c011691 .
+        skos:member  real:c009473 , real:c006354 , real:c006359 , real:c012947 , real:c005928 , real:c003821 , real:c008973 , real:c005649 , real:c002147 , real:c007473 , real:c030990 , real:c003326 , real:c009920 , real:c000954 , real:c011783 , real:c012622 , real:c004256 , real:c009242 , real:c000065 , real:c010471 , real:c007341 , real:c006273 , real:c009873 , real:c001940 , real:c007385 , real:c001772 , real:c012692 , real:c001844 , real:c001984 , real:c008626 , real:c007472 , real:c000032 , real:c007731 , real:c010798 , real:c001278 , real:c030607 , real:c012681 , real:c031731 , real:c006068 , real:c008279 , real:c006493 , real:c006451 , real:c000696 , real:c011891 , real:c010052 , real:c008561 , real:c008315 , real:c007207 , real:c007708 , real:c005869 , real:c003033 , real:c006817 , real:c008473 , real:c010902 , real:c007496 , real:c012935 , real:c009963 , real:c010698 , real:c003240 , real:c003503 , real:c012391 , real:c000811 , real:c008933 , real:c000621 , real:c009151 , real:c007366 , real:c000197 , real:c011775 , real:c009191 , real:c006459 , real:c001451 , real:c012074 , real:c000420 , real:c011664 , real:c009560 , real:c009314 , real:c004502 , real:c003263 , real:c004440 , real:c031405 , real:c008954 , real:c001440 , real:c001227 , real:c004882 , real:c004370 , real:c002652 , real:c005295 , real:c008758 , real:c005756 , real:c007358 , real:c011953 , real:c007442 , real:c006317 , real:c009347 , real:c011510 , real:c012776 , real:c008564 , real:c012609 , real:c001014 , real:c007347 , real:c003511 , real:c001346 , real:c007275 , real:c012530 , real:c012060 , real:c009344 , real:c008272 , real:c014046 , real:c013808 , real:c005234 , real:c008978 , real:c003402 , real:c013317 , real:c000615 , real:c003167 , real:c011900 , real:c002563 , real:c005098 , real:c001316 , real:c011671 , real:c010546 , real:c000038 , real:c009551 , real:c008377 , real:c011341 , real:c004937 , real:c011678 , real:c009677 , real:c003899 , real:c009299 , real:c012691 , real:c006761 , real:c012575 , real:c005915 , real:c005226 , real:c005023 , real:c012255 , real:c008571 , real:c012389 , real:c009985 , real:c031817 , real:c001804 , real:c002104 , real:c011511 , real:c007923 , real:c009106 , real:c012048 , real:c012637 , real:c000723 , real:c007606 , real:c012705 , real:c012235 , real:c001889 , real:c004362 , real:c031753 , real:c009487 , real:c003623 , real:c012237 , real:c009720 , real:c009336 , real:c001408 , real:c030876 , real:c001421 , real:c012390 , real:c004542 , real:c003469 , real:c008458 , real:c008835 , real:c010417 , real:c010621 , real:c011536 , real:c009597 , real:c000745 , real:c007407 , real:c010261 , real:c010992 , real:c000031 , real:c003658 , real:c006088 , real:c003765 , real:c002742 , real:c011850 , real:c008660 , real:c010969 , real:c005135 , real:c012404 , real:c003365 , real:c001196 , real:c006510 , real:c007165 , real:c010405 , real:c006652 , real:c002536 , real:c002855 , real:c007107 , real:c001447 , real:c009064 , real:c012394 , real:c010776 , real:c008045 , real:c005149 , real:c000164 , real:c003585 , real:c013398 , real:c004641 , real:c010615 , real:c011065 , real:c008044 , real:c030923 , real:c002683 , real:c012652 , real:c007168 , real:c003017 , real:c000186 , real:c001897 , real:c005916 , real:c011560 , real:c003249 , real:c002107 , real:c013623 , real:c006938 , real:c009033 , real:c013900 , real:c010041 , real:c006319 , real:c003121 , real:c010150 , real:c004628 , real:c002219 , real:c003640 , real:c002764 , real:c011830 , real:c007019 , real:c007566 , real:c010033 , real:c005085 , real:c010167 , real:c001118 , real:c004031 , real:c010226 , real:c003497 , real:c000549 , real:c010092 , real:c012259 , real:c004887 , real:c003161 , real:c005266 , real:c011881 , real:c011505 , real:c010793 , real:c007479 , real:c004686 , real:c010764 , real:c008507 , real:c006596 , real:c006096 , real:c003083 , real:c004951 , real:c012713 , real:c011646 , real:c007494 , real:c008105 , real:c009058 , real:c008730 , real:c007795 , real:c013425 , real:c005668 , real:c006285 , real:c007441 , real:c006231 , real:c000632 , real:c001563 , real:c000411 , real:c006772 , real:c013631 , real:c004088 , real:c006694 , real:c003347 , real:c000948 , real:c001793 , real:c000418 , real:c005374 , real:c009931 , real:c008086 , real:c012615 , real:c013254 , real:c002577 , real:c030928 , real:c008674 , real:c010063 , real:c013611 , real:c007679 , real:c001580 , real:c008452 , real:c014047 , real:c010968 , real:c002692 , real:c006505 , real:c010590 , real:c010088 , real:c002384 , real:c006677 , real:c008462 , real:c008955 , real:c030241 , real:c011798 , real:c002663 , real:c013134 , real:c005398 , real:c012616 , real:c011863 , real:c001054 , real:c012393 , real:c011451 , real:c011515 , real:c002288 , real:c001968 , real:c008992 , real:c004255 , real:c006109 , real:c006469 , real:c008033 , real:c031045 , real:c004023 , real:c010464 , real:c001675 , real:c004635 , real:c002662 , real:c001633 , real:c002620 , real:c004814 , real:c007840 , real:c006193 , real:c012385 , real:c008647 , real:c004477 , real:c030922 , real:c010587 , real:c007591 , real:c006980 , real:c002619 , real:c006328 , real:c001762 , real:c007377 , real:c004388 , real:c001769 , real:c003622 , real:c012306 , real:c013886 , real:c011698 , real:c011411 , real:c001837 , real:c011043 , real:c008345 , real:c003753 , real:c012595 , real:c007547 , real:c002790 , real:c002352 , real:c003599 , real:c002310 , real:c000399 , real:c000770 , real:c012562 , real:c003540 , real:c004931 , real:c001115 , real:c006071 , real:c009595 , real:c000396 , real:c010500 , real:c002093 , real:c004735 , real:c009253 , real:c006884 , real:c012522 , real:c005507 , real:c012400 , real:c030995 , real:c012205 , real:c013612 , real:c006795 , real:c002284 , real:c001097 , real:c006478 , real:c011691 .
 
 real:c030863  skos:closeMatch  wd:Q203942 .
 
 real:c003992  skos:closeMatch  wd:Q373065 .
+
+real:c009716  skos:closeMatch  wd:Q48143 .
 
 real:c005741  skos:closeMatch  wd:Q148993 .
 
@@ -3930,6 +4148,8 @@ real:c002744  skos:closeMatch  wd:Q735135 .
 
 real:c001517  skos:closeMatch  wd:Q1298668 .
 
+real:c004487  skos:closeMatch  wd:Q22806 .
+
 real:c003886  skos:closeMatch  wd:Q3749263 .
 
 real:c012354  skos:closeMatch  wd:Q1809 .
@@ -3960,6 +4180,8 @@ real:c012816  skos:closeMatch  wd:Q185325 .
 
 real:c010584  skos:closeMatch  wd:Q646660 .
 
+real:c008584  skos:closeMatch  wd:Q319541 .
+
 real:c012333  skos:closeMatch  wd:Q897 .
 
 real:c030253  skos:closeMatch  wd:Q667456 .
@@ -3982,6 +4204,8 @@ real:c013636  skos:closeMatch  wd:Q103169 .
 
 real:c006109  skos:closeMatch  wd:Q152827 .
 
+real:c004986  skos:closeMatch  wd:Q2111 .
+
 real:c007962  skos:closeMatch  wd:Q619452 .
 
 real:c006735  skos:closeMatch  wd:Q7756337 .
@@ -3993,6 +4217,8 @@ real:c000306  skos:closeMatch  wd:Q720858 .
 real:c003276  skos:closeMatch  wd:Q2294113 .
 
 real:c002049  skos:closeMatch  wd:Q2413990 .
+
+real:c002675  skos:closeMatch  wd:Q179289 .
 
 real:c013694  skos:closeMatch  wd:Q1090423 .
 
@@ -4084,6 +4310,8 @@ real:c030625  skos:closeMatch  wd:Q117 .
 
 real:c010473  skos:closeMatch  wd:Q188251 .
 
+real:c002527  skos:closeMatch  wd:Q967847 .
+
 real:c008473  skos:closeMatch  wd:Q46255 .
 
 real:c003271  skos:closeMatch  wd:Q471857 .
@@ -4095,6 +4323,8 @@ real:c001926  skos:closeMatch  wd:Q242857 .
 real:c004902  skos:closeMatch  wd:Q40260 .
 
 real:c009621  skos:closeMatch  wd:Q180809 .
+
+real:c006162  skos:closeMatch  wd:Q192891 .
 
 real:c012763  skos:closeMatch  wd:Q8068 .
 
@@ -4119,6 +4349,8 @@ real:c012201  skos:closeMatch  wd:Q1100 .
 real:c002506  skos:closeMatch  wd:Q719461 .
 
 real:c012195  skos:closeMatch  wd:Q737 .
+
+real:c030519  skos:closeMatch  wd:Q8646 .
 
 real:c013525  skos:closeMatch  wd:Q58680 .
 
@@ -4164,6 +4396,10 @@ real:c030641  skos:closeMatch  wd:Q48909 .
 
 real:c007745  skos:closeMatch  wd:Q6503924 .
 
+real:c000794  skos:closeMatch  wd:Q827450 .
+
+real:c006518  skos:closeMatch  wd:Q303479 .
+
 real:c001316  skos:closeMatch  wd:Q959782 .
 
 real:c030556  skos:closeMatch  wd:Q494053 .
@@ -4175,7 +4411,7 @@ real:c009409  skos:closeMatch  wd:Q1073340 .
 <http://data.ub.uio.no/entity/8dce39ea-409f-4072-b25b-377a69bca0a3>
         a            uoc:Category ;
         rdfs:label   "Biologi"@nb ;
-        skos:member  real:c013321 , real:c011071 , real:c007134 , real:c009225 , real:c012910 , real:c031880 , real:c011523 , real:c009410 , real:c006468 , real:c009797 , real:c004251 , real:c002168 , real:c013690 , real:c010743 , real:c013393 , real:c012759 , real:c011343 , real:c005328 , real:c004690 , real:c000618 , real:c013750 , real:c004866 , real:c003715 , real:c012026 , real:c011748 , real:c012722 , real:c013438 , real:c013839 , real:c006141 , real:c010551 , real:c006241 , real:c012796 , real:c007829 , real:c006411 , real:c003790 , real:c009630 , real:c012116 , real:c000562 , real:c013225 , real:c007948 , real:c010070 , real:c004244 , real:c006305 , real:c000713 , real:c012555 , real:c004111 , real:c013230 , real:c005098 , real:c006670 , real:c009587 , real:c010899 , real:c013951 , real:c000607 , real:c002073 , real:c003676 , real:c012560 , real:c012549 , real:c001853 , real:c010953 , real:c003543 , real:c009974 , real:c012649 , real:c007941 , real:c006631 , real:c003592 , real:c002377 , real:c007091 , real:c002770 , real:c005811 , real:c006150 , real:c009530 , real:c013223 , real:c012894 , real:c000937 , real:c007452 , real:c004802 , real:c004713 , real:c031875 , real:c004431 , real:c012931 , real:c010923 , real:c010590 , real:c008065 , real:c013299 , real:c005207 , real:c001365 , real:c008235 , real:c009463 , real:c001516 , real:c004656 , real:c002597 , real:c005992 , real:c010315 , real:c008221 , real:c009330 , real:c002912 , real:c007555 , real:c011471 , real:c012679 , real:c001054 , real:c005681 , real:c009175 , real:c003976 , real:c002450 , real:c012739 , real:c006567 , real:c031567 , real:c002734 , real:c008461 , real:c012665 , real:c012716 , real:c012903 , real:c002601 , real:c008525 , real:c006368 , real:c008058 , real:c010560 , real:c000869 , real:c012702 , real:c003080 , real:c013217 , real:c008898 , real:c013938 , real:c013789 , real:c005018 , real:c009876 , real:c001269 , real:c002860 , real:c003933 , real:c013675 , real:c008916 , real:c007633 , real:c009743 , real:c000656 , real:c002949 , real:c009257 , real:c008619 , real:c009843 , real:c006047 , real:c009427 , real:c005653 , real:c004754 , real:c009710 , real:c013818 , real:c009262 , real:c002468 , real:c000082 , real:c002821 , real:c013782 , real:c006773 , real:c000345 , real:c010761 , real:c005197 , real:c004027 , real:c010100 , real:c004615 , real:c006173 , real:c006476 , real:c011899 , real:c012926 , real:c010398 , real:c001532 , real:c004560 , real:c002510 , real:c010984 , real:c011766 , real:c012748 , real:c007853 , real:c002400 , real:c004944 , real:c012912 , real:c003048 , real:c010340 , real:c008301 , real:c003326 , real:c008086 , real:c001804 , real:c007009 , real:c011771 , real:c007698 , real:c008237 , real:c002750 , real:c013317 , real:c011814 , real:c001899 , real:c005290 , real:c010162 , real:c010849 , real:c013247 , real:c003288 , real:c000502 , real:c001219 , real:c013322 , real:c009500 , real:c004525 , real:c007084 , real:c002466 , real:c010794 , real:c013700 , real:c001183 , real:c008496 , real:c001315 , real:c006864 , real:c008830 , real:c012696 , real:c007254 , real:c012919 , real:c002169 , real:c012260 , real:c013691 , real:c007804 , real:c001597 , real:c006850 , real:c013398 , real:c006137 , real:c007111 , real:c007507 , real:c006530 , real:c008319 , real:c004848 , real:c002951 , real:c011451 , real:c009159 , real:c013826 , real:c010085 , real:c005194 , real:c009270 , real:c013378 , real:c005780 , real:c003102 , real:c006496 , real:c013226 , real:c001009 , real:c000525 , real:c005422 , real:c011254 , real:c002069 , real:c006592 , real:c010037 , real:c005636 , real:c000228 , real:c013212 , real:c004796 , real:c007727 , real:c012709 , real:c013933 , real:c002100 , real:c011980 , real:c000784 , real:c009947 , real:c013316 , real:c013636 , real:c009489 , real:c000509 , real:c006725 , real:c004738 , real:c001405 , real:c000492 , real:c002181 , real:c009494 , real:c005357 , real:c004817 , real:c008780 , real:c011455 , real:c002586 , real:c011506 , real:c007425 , real:c001778 , real:c011341 , real:c011067 , real:c002320 , real:c031689 , real:c003984 , real:c000805 , real:c007798 , real:c001297 , real:c013856 , real:c007231 , real:c011884 , real:c011865 , real:c011030 , real:c005501 , real:c008633 , real:c008185 , real:c001858 , real:c000693 , real:c008217 , real:c013961 , real:c012718 , real:c009279 , real:c012608 , real:c009464 , real:c005741 , real:c013664 , real:c008222 , real:c000267 , real:c003110 , real:c005563 , real:c002427 , real:c007760 , real:c000085 , real:c007238 , real:c005826 , real:c003839 , real:c010217 , real:c013807 , real:c000427 , real:c005082 , real:c005133 , real:c002268 , real:c012666 , real:c001687 , real:c007205 , real:c002810 , real:c003778 , real:c003759 , real:c013771 , real:c008581 , real:c002135 , real:c002116 , real:c006789 , real:c011788 , real:c013890 , real:c007309 , real:c005100 , real:c007597 , real:c003066 , real:c003764 , real:c005528 , real:c008622 , real:c011108 , real:c008556 , real:c013296 , real:c002078 , real:c002375 , real:c007167 , real:c012112 , real:c003334 , real:c002753 , real:c000935 , real:c001256 , real:c004800 , real:c008016 , real:c009821 , real:c013325 , real:c004547 , real:c005883 , real:c013302 , real:c007020 , real:c001227 , real:c007959 , real:c005750 , real:c012699 , real:c013311 , real:c012730 , real:c013694 , real:c002203 , real:c006853 , real:c012927 , real:c013739 , real:c012908 , real:c010584 , real:c010090 , real:c006972 , real:c008416 , real:c010499 , real:c012726 , real:c010451 , real:c012913 , real:c001582 , real:c010608 , real:c010417 , real:c011017 , real:c002581 , real:c005282 , real:c010252 , real:c010088 , real:c013829 , real:c007492 , real:c002666 , real:c013547 , real:c005558 , real:c009634 , real:c013229 , real:c000288 , real:c013414 , real:c013815 , real:c008359 , real:c005709 , real:c000666 , real:c002707 , real:c013300 , real:c009015 , real:c009318 , real:c011124 , real:c007062 , real:c013970 , real:c013709 , real:c013215 , real:c008572 , real:c001734 , real:c004327 , real:c003950 , real:c004512 , real:c013220 , real:c006961 , real:c013792 , real:c006535 , real:c008151 , real:c013625 , real:c009260 , real:c002933 , real:c002250 , real:c009544 , real:c002769 , real:c006105 , real:c009497 , real:c011099 , real:c007912 , real:c004177 , real:c011191 , real:c010231 , real:c007863 , real:c002636 , real:c013630 , real:c010067 , real:c005479 , real:c009231 , real:c005062 , real:c005346 , real:c002622 , real:c004732 , real:c005181 , real:c003640 , real:c011189 , real:c012746 , real:c031464 , real:c008268 , real:c013213 , real:c011056 , real:c007728 , real:c007970 , real:c005920 , real:c013291 , real:c010685 , real:c008655 , real:c006097 , real:c000101 , real:c010913 , real:c012435 , real:c004675 , real:c001217 , real:c005996 , real:c013320 , real:c009750 , real:c000171 , real:c005863 , real:c001733 , real:c004661 , real:c012694 , real:c007252 , real:c009453 , real:c010700 , real:c002549 , real:c000727 , real:c002620 , real:c012854 , real:c008807 , real:c009693 , real:c003499 , real:c008758 , real:c012721 , real:c005122 , real:c008648 , real:c001676 , real:c002238 , real:c011031 , real:c010664 , real:c003256 , real:c004193 , real:c007785 , real:c004902 , real:c008812 , real:c001097 , real:c010598 , real:c009624 , real:c008048 , real:c005417 , real:c004215 , real:c010531 , real:c002845 , real:c001607 , real:c001904 , real:c008167 , real:c005517 , real:c012225 , real:c007472 , real:c001083 , real:c001259 , real:c013810 , real:c006062 , real:c000680 , real:c000661 , real:c001126 , real:c009071 , real:c004758 , real:c009247 , real:c012932 , real:c010173 , real:c005776 , real:c010898 , real:c004625 , real:c007275 , real:c002350 , real:c013314 , real:c002925 , real:c005817 , real:c001385 , real:c001669 , real:c007206 , real:c013753 , real:c004829 , real:c010568 , real:c002028 , real:c003271 , real:c007579 , real:c005035 , real:c009795 , real:c010454 , real:c012916 , real:c007556 , real:c005506 , real:c001522 , real:c006282 , real:c001055 , real:c013847 , real:c010749 , real:c009929 , real:c009291 , real:c012893 , real:c007149 , real:c008678 , real:c005341 , real:c012138 , real:c000565 , real:c002175 , real:c012760 , real:c011937 , real:c004266 , real:c031874 , real:c000735 , real:c007135 , real:c005335 , real:c011804 , real:c013252 , real:c013303 , real:c007002 , real:c003556 , real:c013312 , real:c005321 , real:c006540 , real:c006493 , real:c009023 , real:c007051 , real:c010108 , real:c006964 , real:c012419 , real:c007229 , real:c010842 , real:c013795 , real:c012909 , real:c005024 , real:c000861 , real:c006831 , real:c005694 , real:c003417 , real:c009699 , real:c000980 , real:c006401 , real:c002007 , real:c013930 , real:c005397 , real:c004596 , real:c010813 , real:c007291 , real:c005680 , real:c002372 , real:c008593 , real:c005962 , real:c007355 , real:c000087 , real:c000440 , real:c006223 , real:c002491 , real:c011154 , real:c011555 , real:c003106 , real:c000563 , real:c003776 , real:c012003 , real:c012081 , real:c010056 , real:c008753 , real:c011541 , real:c007604 , real:c003781 , real:c013216 , real:c012635 , real:c010644 , real:c013294 , real:c011813 , real:c011111 , real:c012621 , real:c007030 , real:c004786 , real:c003035 , real:c012110 , real:c003332 , real:c009952 , real:c013475 , real:c008376 , real:c003173 , real:c007284 , real:c006046 , real:c003600 , real:c000755 , real:c009772 , real:c004753 , real:c011351 , real:c009479 , real:c031882 , real:c012697 , real:c005287 , real:c001344 , real:c005154 , real:c009213 , real:c003799 , real:c011464 , real:c002623 , real:c008547 , real:c000311 , real:c002046 , real:c008414 , real:c002424 , real:c012911 , real:c003836 , real:c002996 , real:c003083 , real:c012147 , real:c005902 , real:c013559 , real:c005435 , real:c007788 , real:c012733 , real:c001287 , real:c004218 , real:c007674 , real:c013827 , real:c005302 , real:c007655 , real:c009765 , real:c003822 , real:c005539 , real:c004379 , real:c013946 , real:c008504 , real:c004657 , real:c008037 , real:c006515 , real:c009751 , real:c009284 , real:c002957 , real:c013550 , real:c011096 , real:c009568 , real:c009316 , real:c011616 , real:c013232 , real:c000367 , real:c000609 , real:c009388 , real:c008740 , real:c011305 , real:c002417 , real:c005067 , real:c005420 , real:c006191 , real:c008095 , real:c003664 , real:c001120 , real:c010754 , real:c011706 , real:c004035 , real:c001440 , real:c006911 , real:c008626 , real:c013761 , real:c005770 , real:c007468 , real:c004307 , real:c004294 , real:c008007 , real:c004937 , real:c007454 , real:c006513 , real:c011764 , real:c010200 , real:c009129 , real:c002365 , real:c010036 , real:c008733 , real:c002045 , real:c011372 , real:c000479 , real:c002232 , real:c007440 , real:c031298 , real:c006886 , real:c000365 , real:c003880 , real:c004442 , real:c013315 , real:c007077 , real:c004781 , real:c000166 , real:c008186 , real:c000147 , real:c006681 , real:c003564 , real:c006967 , real:c005443 , real:c011912 , real:c005008 , real:c003683 , real:c003386 , real:c005310 , real:c005697 , real:c006724 , real:c008223 , real:c009584 , real:c012917 , real:c001220 , real:c007104 , real:c002129 , real:c005980 , real:c002566 , real:c007676 , real:c003978 , real:c013248 , real:c009619 , real:c003964 , real:c004051 , real:c008756 , real:c008646 , real:c008179 , real:c005548 , real:c004213 , real:c008742 , real:c002981 , real:c012717 , real:c004789 , real:c001724 , real:c000843 , real:c006049 , real:c001395 , real:c006614 , real:c013464 , real:c001546 , real:c000381 , real:c013445 , real:c005948 , real:c011492 , real:c011830 , real:c005246 , real:c010216 , real:c002923 , real:c006205 , real:c000070 , real:c002594 , real:c002049 , real:c012651 , real:c009509 , real:c006880 , real:c003763 , real:c013308 , real:c012914 , real:c011887 , real:c006445 , real:c007974 , real:c000516 , real:c013295 , real:c005905 , real:c012736 , real:c004274 , real:c012622 , real:c031340 , real:c012439 , real:c003452 , real:c005466 , real:c011485 , real:c007663 , real:c012594 , real:c008178 , real:c010903 , real:c000871 , real:c006429 , real:c005452 , real:c004646 , real:c009154 , real:c005288 , real:c004086 , real:c013310 , real:c010704 , real:c011738 , real:c002263 , real:c011327 , real:c006118 , real:c003262 , real:c008031 , real:c002832 , real:c012684 , real:c012907 , real:c011446 , real:c008351 , real:c007811 , real:c006971 , real:c002024 , real:c010549 , real:c002425 , real:c012725 , real:c009719 , real:c005107 , real:c003672 , real:c004855 , real:c012267 , real:c000406 , real:c005061 , real:c013828 , real:c010068 , real:c012645 , real:c005782 , real:c008312 , real:c008615 , real:c009391 , real:c004164 , real:c011691 , real:c013924 , real:c009147 , real:c004733 , real:c007642 , real:c004459 , real:c000646 , real:c009600 , real:c003596 , real:c000065 , real:c013800 , real:c004511 , real:c012752 , real:c007095 , real:c012588 , real:c002221 , real:c012922 , real:c012455 , real:c000051 , real:c007013 , real:c003567 , real:c005238 , real:c013592 , real:c005105 , real:c006214 , real:c001659 , real:c001800 , real:c010439 , real:c001242 , real:c002315 , real:c013391 , real:c001526 , real:c000594 , real:c010577 , real:c012038 , real:c006267 , real:c010558 , real:c007679 , real:c002470 , real:c006200 , real:c002773 , real:c011595 , real:c011879 , real:c011627 , real:c012906 , real:c009299 , real:c011462 , real:c002621 , real:c000580 , real:c004731 , real:c006253 , real:c010544 , real:c010739 , real:c013389 , real:c012745 , real:c007303 , real:c002916 , real:c004192 , real:c002165 , real:c005900 , real:c011284 , real:c006677 , real:c007827 , real:c000258 , real:c007713 , real:c014050 , real:c004377 , real:c000015 , real:c001979 , real:c013830 , real:c001865 , real:c012729 , real:c007592 , real:c000681 , real:c008205 , real:c009091 , real:c011966 , real:c003706 , real:c005981 , real:c004482 , real:c001832 , real:c011574 , real:c003526 , real:c013809 , real:c004185 , real:c013928 , real:c011277 , real:c001421 , real:c007345 , real:c031217 , real:c002931 , real:c012085 , real:c011655 , real:c011144 , real:c005804 , real:c011545 , real:c001675 , real:c007910 , real:c002237 , real:c014020 , real:c005649 , real:c011229 , real:c007148 , real:c010464 , real:c003752 , real:c005899 , real:c001780 , real:c005160 , real:c010869 , real:c004821 , real:c003922 , real:c009823 , real:c000496 , real:c013720 , real:c002162 , real:c005205 , real:c004253 , real:c013917 , real:c010020 , real:c013313 , real:c002924 , real:c002476 , real:c006601 , real:c008954 , real:c000164 , real:c007260 , real:c002627 , real:c005560 , real:c013135 , real:c008940 , real:c010567 , real:c003270 , real:c013309 , real:c002310 , real:c000320 , real:c001773 , real:c010973 , real:c012737 , real:c009290 , real:c006499 , real:c001926 , real:c012714 , real:c007659 , real:c003092 , real:c008523 , real:c003359 , real:c013851 , real:c009869 , real:c013384 , real:c007361 , real:c002089 , real:c002386 , real:c003116 , real:c009736 , real:c011845 , real:c005849 , real:c001318 , real:c000787 , real:c001988 , real:c009439 , real:c005665 , real:c004533 , real:c000720 , real:c005716 , real:c002357 , real:c011383 , real:c009306 , real:c012940 , real:c006666 , real:c013222 , real:c012685 , real:c002814 , real:c009425 , real:c003649 , real:c001105 , real:c010508 , real:c006652 , real:c005076 , real:c004608 , real:c000894 , real:c006469 , real:c012938 , real:c008308 , real:c008605 , real:c003160 , real:c009381 , real:c002371 , real:c002503 , real:c003219 , real:c012924 , real:c008709 , real:c007732 , real:c003338 , real:c002643 , real:c011465 , real:c007736 , real:c007687 , real:c004284 , real:c009645 , real:c008856 , real:c007370 , real:c000047 , real:c012753 , real:c007311 , real:c012734 , real:c005739 , real:c004446 , real:c011812 , real:c011110 , real:c007430 , real:c002345 , real:c002154 , real:c013018 , real:c012437 , real:c011994 , real:c006743 , real:c002212 , real:c000222 , real:c002021 , real:c012556 , real:c013952 , real:c007780 , real:c009890 , real:c010389 , real:c001586 , real:c002316 , real:c008043 , real:c009922 , real:c013277 , real:c009455 , real:c000462 , real:c005554 , real:c006116 , real:c007547 , real:c004188 , real:c012682 , real:c005970 , real:c000848 , real:c003137 , real:c000437 , real:c013062 , real:c007329 , real:c005092 , real:c010412 , real:c010799 , real:c012723 , real:c005073 , real:c010893 , real:c007467 , real:c000304 , real:c001032 , real:c003769 , real:c004872 , real:c009208 , real:c010666 , real:c009906 , real:c008769 , real:c007334 , real:c000423 , real:c001286 , real:c003377 , real:c013224 , real:c012643 , real:c011000 , real:c011401 , real:c001728 , real:c002112 , real:c008288 , real:c003176 , real:c003622 , real:c009959 , real:c013922 , real:c009448 , real:c013364 , real:c003760 , real:c003325 , real:c002188 , real:c004576 , real:c003911 , real:c002961 , real:c000485 , real:c009487 , real:c001233 , real:c001954 , real:c007327 , real:c006298 , real:c000620 , real:c005103 , real:c009057 , real:c003858 , real:c011504 , real:c012918 , real:c010689 , real:c005810 , real:c006284 , real:c003867 , real:c005627 , real:c008659 , real:c009293 , real:c001643 , real:c008956 , real:c004107 , real:c012904 , real:c008059 , real:c006302 , real:c031043 , real:c001915 , real:c002691 , real:c031421 , real:c003323 , real:c005589 , real:c004387 , real:c005867 , real:c011282 , real:c011925 , real:c012584 , real:c005668 , real:c003399 , real:c005620 , real:c006602 , real:c009277 , real:c001004 , real:c000265 , real:c012570 , real:c006788 , real:c010229 , real:c005145 , real:c003362 , real:c009583 , real:c006842 , real:c000306 , real:c007915 , real:c004906 , real:c005245 , real:c002147 , real:c004211 , real:c001566 , real:c003657 , real:c011303 , real:c005131 , real:c007618 , real:c005112 , real:c001685 , real:c000707 , real:c012715 , real:c003524 , real:c004105 , real:c004959 , real:c003505 , real:c004050 , real:c000684 , real:c009737 , real:c007179 , real:c003049 , real:c000249 , real:c012101 , real:c013218 , real:c007298 , real:c001792 , real:c013804 , real:c011246 , real:c004212 , real:c007165 , real:c013318 , real:c009307 , real:c012941 , real:c012063 , real:c013323 , real:c012742 , real:c007300 , real:c006309 , real:c009227 , real:c000494 , real:c011207 , real:c013395 , real:c008231 , real:c001456 , real:c002474 , real:c004147 , real:c003717 , real:c007366 , real:c030284 , real:c002678 , real:c013307 , real:c002144 , real:c005437 , real:c000167 , real:c007129 , real:c011891 , real:c012712 , real:c012602 , real:c003824 , real:c013227 , real:c007795 , real:c012740 , real:c013948 , real:c005726 , real:c008506 , real:c006250 , real:c013685 , real:c012557 , real:c006769 , real:c003065 , real:c012443 , real:c003184 , real:c011981 , real:c006806 , real:c004486 , real:c004531 , real:c008163 , real:c003051 , real:c010635 , real:c005852 , real:c010639 , real:c010243 , real:c004220 , real:c009376 , real:c007901 , real:c000716 , real:c005074 , real:c009718 , real:c003594 , real:c011129 , real:c003652 , real:c005225 , real:c003889 , real:c005891 , real:c007982 , real:c004318 , real:c005913 , real:c001784 , real:c000806 , real:c012044 , real:c006767 , real:c010053 , real:c001651 , real:c031744 , real:c009074 , real:c013724 , real:c003307 , real:c010726 , real:c003030 , real:c011810 , real:c013168 , real:c012921 , real:c012609 , real:c002271 , real:c012692 , real:c003859 , real:c010118 , real:c005129 , real:c011900 , real:c008760 , real:c011505 , real:c001584 , real:c002314 , real:c005458 , real:c008293 , real:c005267 , real:c013390 , real:c012548 , real:c006266 , real:c000140 , real:c004996 , real:c006133 , real:c013791 , real:c012905 , real:c007545 , real:c001555 , real:c007479 , real:c002117 , real:c006088 , real:c009165 , real:c010410 , real:c012127 , real:c011750 , real:c004348 , real:c012104 , real:c003971 , real:c007332 , real:c010047 , real:c013241 , real:c011532 , real:c009259 , real:c007451 , real:c013207 , real:c005721 , real:c006195 , real:c013411 , real:c000266 , real:c007621 , real:c011971 , real:c008730 , real:c013326 , real:c009012 , real:c009245 , real:c001845 , real:c012930 , real:c002218 , real:c012705 , real:c007021 , real:c001548 , real:c009669 , real:c002204 , real:c006156 , real:c011649 , real:c001553 , real:c013927 , real:c011768 , real:c013607 , real:c000829 , real:c010628 , real:c004923 , real:c009055 , real:c001793 , real:c000518 , real:c005758 , real:c005173 , real:c012017 , real:c005907 , real:c011228 , real:c003129 , real:c013319 , real:c002752 , real:c011816 , real:c005150 , real:c008657 , real:c011894 , real:c012876 , real:c004408 , real:c003870 , real:c013871 , real:c012743 , real:c005426 , real:c010960 , real:c005630 , real:c008929 , real:c000987 , real:c003276 , real:c006957 , real:c006866 , real:c003143 , real:c005204 , real:c013674 , real:c001171 , real:c007651 , real:c002019 , real:c013560 , real:c001740 , real:c013942 , real:c006194 , real:c005003 , real:c001324 , real:c007248 , real:c004634 , real:c010265 , real:c004074 , real:c004223 , real:c002442 , real:c006403 , real:c002370 , real:c011033 , real:c005960 , real:c002145 , real:c012543 , real:c007616 , real:c002012 , real:c003541 , real:c011086 , real:c005557 , real:c004103 , real:c013228 , real:c002532 , real:c001951 , real:c012832 , real:c005424 , real:c003944 , real:c011693 , real:c001391 , real:c011123 , real:c011793 , real:c010642 , real:c006822 , real:c000786 , real:c011660 , real:c002827 , real:c011946 , real:c000767 , real:c004290 , real:c000252 , real:c000653 , real:c009305 , real:c010180 , real:c009063 , real:c000186 , real:c012873 , real:c005463 , real:c008843 , real:c013038 , real:c007267 .
+        skos:member  real:c013321 , real:c011071 , real:c007134 , real:c009225 , real:c012910 , real:c031880 , real:c011523 , real:c009410 , real:c006468 , real:c009797 , real:c004251 , real:c002168 , real:c013690 , real:c013393 , real:c010743 , real:c012804 , real:c012759 , real:c011343 , real:c005328 , real:c004690 , real:c000618 , real:c013750 , real:c004866 , real:c003715 , real:c012026 , real:c011748 , real:c012722 , real:c013438 , real:c013839 , real:c006141 , real:c008516 , real:c010551 , real:c006241 , real:c007420 , real:c012796 , real:c007829 , real:c006411 , real:c003790 , real:c009630 , real:c012116 , real:c000562 , real:c013225 , real:c007948 , real:c010070 , real:c004244 , real:c006305 , real:c000713 , real:c012555 , real:c004111 , real:c013230 , real:c005098 , real:c006670 , real:c009587 , real:c010899 , real:c013951 , real:c000607 , real:c002073 , real:c003676 , real:c012560 , real:c012549 , real:c006070 , real:c001853 , real:c010953 , real:c003543 , real:c009974 , real:c012649 , real:c007941 , real:c006329 , real:c006631 , real:c003592 , real:c002377 , real:c007091 , real:c002770 , real:c005811 , real:c006150 , real:c009530 , real:c013223 , real:c012894 , real:c000937 , real:c007452 , real:c004802 , real:c002066 , real:c004713 , real:c031875 , real:c004431 , real:c012931 , real:c010923 , real:c010590 , real:c008065 , real:c013299 , real:c005207 , real:c001365 , real:c008235 , real:c009463 , real:c001516 , real:c004656 , real:c002597 , real:c005992 , real:c010315 , real:c008221 , real:c009330 , real:c002912 , real:c007555 , real:c011471 , real:c012679 , real:c001054 , real:c005681 , real:c009175 , real:c003976 , real:c002450 , real:c012739 , real:c006567 , real:c031567 , real:c002734 , real:c008461 , real:c012665 , real:c012716 , real:c012903 , real:c002601 , real:c008525 , real:c006368 , real:c008058 , real:c010560 , real:c000869 , real:c003782 , real:c012702 , real:c003080 , real:c013217 , real:c008898 , real:c013938 , real:c013789 , real:c005018 , real:c009876 , real:c001269 , real:c002860 , real:c003933 , real:c013675 , real:c008916 , real:c007633 , real:c009743 , real:c000656 , real:c002949 , real:c009257 , real:c008619 , real:c009843 , real:c006047 , real:c009427 , real:c005653 , real:c004754 , real:c009710 , real:c013818 , real:c009262 , real:c002468 , real:c000082 , real:c006404 , real:c002821 , real:c013782 , real:c006773 , real:c000345 , real:c010761 , real:c005197 , real:c004027 , real:c010100 , real:c004615 , real:c006173 , real:c006476 , real:c011899 , real:c012926 , real:c010398 , real:c001532 , real:c012748 , real:c004560 , real:c002510 , real:c010984 , real:c011766 , real:c008192 , real:c007853 , real:c002400 , real:c004944 , real:c012912 , real:c003048 , real:c010340 , real:c008301 , real:c003326 , real:c008086 , real:c001804 , real:c007009 , real:c011771 , real:c007698 , real:c008237 , real:c002750 , real:c013317 , real:c011814 , real:c001899 , real:c005290 , real:c010162 , real:c010849 , real:c013247 , real:c003288 , real:c000502 , real:c001219 , real:c013322 , real:c009500 , real:c004525 , real:c007084 , real:c002466 , real:c010794 , real:c013700 , real:c001183 , real:c008496 , real:c001315 , real:c006864 , real:c008830 , real:c012696 , real:c007254 , real:c012919 , real:c002169 , real:c013691 , real:c012260 , real:c011982 , real:c007804 , real:c001597 , real:c006850 , real:c013398 , real:c006137 , real:c007111 , real:c007507 , real:c006530 , real:c008319 , real:c004848 , real:c002951 , real:c011451 , real:c009159 , real:c013826 , real:c010085 , real:c005194 , real:c009270 , real:c013378 , real:c005780 , real:c003102 , real:c006496 , real:c010334 , real:c013226 , real:c007455 , real:c001009 , real:c000525 , real:c005422 , real:c011254 , real:c002069 , real:c006592 , real:c010037 , real:c005636 , real:c000228 , real:c013212 , real:c004796 , real:c007727 , real:c012709 , real:c013933 , real:c002100 , real:c011980 , real:c000784 , real:c009947 , real:c013316 , real:c013636 , real:c009489 , real:c000509 , real:c006725 , real:c004738 , real:c001405 , real:c000492 , real:c002181 , real:c009494 , real:c005357 , real:c004817 , real:c008780 , real:c011455 , real:c002586 , real:c011506 , real:c007425 , real:c001778 , real:c011341 , real:c011067 , real:c002320 , real:c031689 , real:c003984 , real:c000805 , real:c007798 , real:c001297 , real:c013856 , real:c007231 , real:c011884 , real:c011865 , real:c011030 , real:c005501 , real:c009642 , real:c008633 , real:c008185 , real:c001858 , real:c000693 , real:c008217 , real:c013961 , real:c012718 , real:c009279 , real:c012608 , real:c005789 , real:c009464 , real:c005741 , real:c013664 , real:c008222 , real:c000267 , real:c003110 , real:c005563 , real:c002427 , real:c007760 , real:c000085 , real:c007238 , real:c005826 , real:c003839 , real:c010217 , real:c013807 , real:c000427 , real:c005082 , real:c005133 , real:c012666 , real:c002268 , real:c001687 , real:c007205 , real:c002810 , real:c003778 , real:c003759 , real:c013771 , real:c008581 , real:c002135 , real:c002116 , real:c006789 , real:c011788 , real:c013890 , real:c007309 , real:c005100 , real:c007597 , real:c003066 , real:c003764 , real:c005528 , real:c004947 , real:c008622 , real:c011108 , real:c013998 , real:c008556 , real:c001540 , real:c003329 , real:c013296 , real:c002078 , real:c002375 , real:c007167 , real:c012112 , real:c003334 , real:c002753 , real:c000935 , real:c001256 , real:c004800 , real:c008016 , real:c009821 , real:c013325 , real:c004547 , real:c005883 , real:c002183 , real:c013302 , real:c007020 , real:c001227 , real:c007959 , real:c005750 , real:c012699 , real:c013311 , real:c012730 , real:c013694 , real:c002203 , real:c006853 , real:c012927 , real:c013739 , real:c012908 , real:c010584 , real:c010090 , real:c006972 , real:c008416 , real:c010499 , real:c012726 , real:c010451 , real:c012913 , real:c001582 , real:c010608 , real:c010417 , real:c011017 , real:c002581 , real:c005282 , real:c010252 , real:c002799 , real:c010088 , real:c013829 , real:c007492 , real:c002666 , real:c013547 , real:c005558 , real:c009634 , real:c013229 , real:c000288 , real:c013414 , real:c013815 , real:c008359 , real:c005709 , real:c000666 , real:c002707 , real:c013300 , real:c009015 , real:c009318 , real:c004170 , real:c011124 , real:c007062 , real:c013970 , real:c013709 , real:c013215 , real:c008572 , real:c001734 , real:c004327 , real:c003950 , real:c004512 , real:c013220 , real:c006961 , real:c005515 , real:c013792 , real:c005002 , real:c004849 , real:c006535 , real:c008151 , real:c013625 , real:c009260 , real:c002933 , real:c002250 , real:c009544 , real:c002769 , real:c006105 , real:c009497 , real:c011099 , real:c007912 , real:c004177 , real:c011191 , real:c010231 , real:c007863 , real:c002636 , real:c013630 , real:c010067 , real:c005479 , real:c009816 , real:c009231 , real:c005062 , real:c005346 , real:c002622 , real:c004732 , real:c005181 , real:c003640 , real:c011189 , real:c012746 , real:c031464 , real:c008268 , real:c013213 , real:c011056 , real:c007728 , real:c007970 , real:c005920 , real:c013291 , real:c010685 , real:c008655 , real:c006097 , real:c000101 , real:c010913 , real:c012435 , real:c004675 , real:c001217 , real:c005996 , real:c013320 , real:c009750 , real:c000171 , real:c005863 , real:c001733 , real:c004661 , real:c012694 , real:c007252 , real:c009453 , real:c010700 , real:c002549 , real:c000727 , real:c002620 , real:c012854 , real:c008807 , real:c009693 , real:c003499 , real:c008758 , real:c012721 , real:c005122 , real:c008648 , real:c008451 , real:c001676 , real:c002238 , real:c011031 , real:c010664 , real:c003256 , real:c004193 , real:c007785 , real:c004902 , real:c008812 , real:c001097 , real:c010598 , real:c009624 , real:c008048 , real:c005417 , real:c004215 , real:c010531 , real:c002845 , real:c001607 , real:c001904 , real:c008167 , real:c005517 , real:c012225 , real:c007472 , real:c001083 , real:c000794 , real:c001259 , real:c013810 , real:c006062 , real:c000680 , real:c000661 , real:c001126 , real:c009071 , real:c004758 , real:c009247 , real:c012932 , real:c010173 , real:c005776 , real:c010898 , real:c004625 , real:c007275 , real:c002350 , real:c013314 , real:c002925 , real:c005817 , real:c001385 , real:c001669 , real:c007206 , real:c013753 , real:c004829 , real:c010568 , real:c002028 , real:c003271 , real:c007579 , real:c005035 , real:c009795 , real:c010454 , real:c012916 , real:c007556 , real:c005506 , real:c001522 , real:c006282 , real:c001055 , real:c013847 , real:c010749 , real:c009929 , real:c009291 , real:c012893 , real:c007149 , real:c008678 , real:c005341 , real:c012138 , real:c000565 , real:c002175 , real:c012760 , real:c011937 , real:c004266 , real:c031874 , real:c000735 , real:c007135 , real:c005335 , real:c011804 , real:c013252 , real:c013303 , real:c007002 , real:c003556 , real:c013312 , real:c005321 , real:c006540 , real:c006493 , real:c009023 , real:c007051 , real:c010108 , real:c006964 , real:c012419 , real:c007229 , real:c010842 , real:c013795 , real:c012909 , real:c005024 , real:c000861 , real:c006831 , real:c005694 , real:c003417 , real:c009699 , real:c000980 , real:c006401 , real:c002007 , real:c013930 , real:c005397 , real:c004596 , real:c010813 , real:c007291 , real:c005680 , real:c002372 , real:c008593 , real:c005962 , real:c007355 , real:c000087 , real:c000440 , real:c006223 , real:c002491 , real:c011154 , real:c011555 , real:c003106 , real:c000563 , real:c003776 , real:c012003 , real:c006518 , real:c000128 , real:c000529 , real:c012081 , real:c010056 , real:c008753 , real:c011541 , real:c007604 , real:c003781 , real:c013216 , real:c012635 , real:c010644 , real:c013294 , real:c011813 , real:c011111 , real:c012621 , real:c007030 , real:c004786 , real:c003035 , real:c012110 , real:c003332 , real:c004767 , real:c009952 , real:c013475 , real:c008376 , real:c003173 , real:c007284 , real:c006046 , real:c003600 , real:c000755 , real:c009772 , real:c004753 , real:c011351 , real:c009479 , real:c031882 , real:c012697 , real:c005287 , real:c001344 , real:c005154 , real:c009213 , real:c003799 , real:c011464 , real:c002623 , real:c008547 , real:c000311 , real:c002046 , real:c008414 , real:c002424 , real:c012724 , real:c012911 , real:c003836 , real:c002996 , real:c003083 , real:c012147 , real:c005902 , real:c013559 , real:c005435 , real:c007788 , real:c012733 , real:c001287 , real:c004218 , real:c007674 , real:c013827 , real:c005302 , real:c007655 , real:c009765 , real:c003822 , real:c005539 , real:c004379 , real:c013946 , real:c008504 , real:c004657 , real:c008037 , real:c006515 , real:c003112 , real:c009751 , real:c009284 , real:c002957 , real:c013550 , real:c011096 , real:c009568 , real:c009316 , real:c011616 , real:c013232 , real:c012695 , real:c000367 , real:c000609 , real:c009388 , real:c007822 , real:c008740 , real:c011305 , real:c002417 , real:c005067 , real:c005420 , real:c006191 , real:c008095 , real:c003664 , real:c001120 , real:c010754 , real:c011706 , real:c004035 , real:c001440 , real:c006911 , real:c008626 , real:c013761 , real:c005770 , real:c010740 , real:c007468 , real:c004307 , real:c004294 , real:c008007 , real:c004937 , real:c007454 , real:c006513 , real:c011764 , real:c010200 , real:c009129 , real:c002365 , real:c010036 , real:c008733 , real:c002045 , real:c011372 , real:c000479 , real:c002232 , real:c007440 , real:c031298 , real:c006886 , real:c000365 , real:c003880 , real:c004442 , real:c013315 , real:c007077 , real:c004781 , real:c000166 , real:c008186 , real:c000147 , real:c006681 , real:c003564 , real:c006967 , real:c005443 , real:c011912 , real:c005008 , real:c003683 , real:c003386 , real:c005310 , real:c005697 , real:c006724 , real:c008223 , real:c009584 , real:c012917 , real:c001220 , real:c007104 , real:c002129 , real:c005980 , real:c002566 , real:c007676 , real:c003978 , real:c000392 , real:c013248 , real:c009619 , real:c003964 , real:c004051 , real:c008756 , real:c008646 , real:c008179 , real:c005548 , real:c001738 , real:c004213 , real:c008742 , real:c002981 , real:c012717 , real:c004789 , real:c001724 , real:c000843 , real:c006049 , real:c001395 , real:c006614 , real:c013464 , real:c001546 , real:c000381 , real:c013445 , real:c005948 , real:c011492 , real:c011830 , real:c005246 , real:c031228 , real:c010216 , real:c002923 , real:c006205 , real:c000070 , real:c002594 , real:c002049 , real:c012651 , real:c009509 , real:c006880 , real:c003763 , real:c013308 , real:c012914 , real:c011887 , real:c006445 , real:c007974 , real:c000516 , real:c013295 , real:c005905 , real:c012736 , real:c004274 , real:c012622 , real:c031340 , real:c010917 , real:c012439 , real:c003452 , real:c005466 , real:c011485 , real:c007663 , real:c012594 , real:c008178 , real:c010903 , real:c000871 , real:c006429 , real:c005452 , real:c004646 , real:c009154 , real:c005288 , real:c004086 , real:c013310 , real:c010704 , real:c011738 , real:c002263 , real:c011327 , real:c006118 , real:c003262 , real:c008031 , real:c002832 , real:c012684 , real:c012907 , real:c011446 , real:c008351 , real:c007811 , real:c006971 , real:c002024 , real:c010549 , real:c002425 , real:c012725 , real:c009719 , real:c005107 , real:c003672 , real:c004855 , real:c012267 , real:c000406 , real:c005061 , real:c013828 , real:c010068 , real:c012645 , real:c005782 , real:c008312 , real:c008615 , real:c009391 , real:c004164 , real:c011691 , real:c013924 , real:c009147 , real:c004733 , real:c007642 , real:c004459 , real:c000646 , real:c009600 , real:c003596 , real:c000065 , real:c013800 , real:c004511 , real:c012752 , real:c007095 , real:c012588 , real:c002221 , real:c012922 , real:c012455 , real:c000051 , real:c007013 , real:c003567 , real:c005238 , real:c013592 , real:c004770 , real:c005105 , real:c006214 , real:c001659 , real:c001800 , real:c010439 , real:c001242 , real:c002315 , real:c013391 , real:c001526 , real:c000594 , real:c010577 , real:c012038 , real:c006267 , real:c010558 , real:c007679 , real:c002470 , real:c006200 , real:c002773 , real:c011595 , real:c011879 , real:c011627 , real:c012906 , real:c009299 , real:c011462 , real:c002621 , real:c000580 , real:c004731 , real:c006253 , real:c010544 , real:c010739 , real:c013389 , real:c012745 , real:c007303 , real:c002916 , real:c004192 , real:c002165 , real:c005900 , real:c011284 , real:c006677 , real:c007827 , real:c000258 , real:c007713 , real:c001459 , real:c014050 , real:c004377 , real:c000015 , real:c001979 , real:c013830 , real:c001865 , real:c012729 , real:c007592 , real:c000681 , real:c008205 , real:c009091 , real:c011966 , real:c003706 , real:c005981 , real:c004482 , real:c001832 , real:c011574 , real:c003526 , real:c013809 , real:c004185 , real:c013928 , real:c011277 , real:c001421 , real:c007345 , real:c031217 , real:c002931 , real:c012085 , real:c011655 , real:c011144 , real:c005804 , real:c011545 , real:c001675 , real:c007910 , real:c002237 , real:c014020 , real:c005649 , real:c011229 , real:c007148 , real:c010464 , real:c003752 , real:c005899 , real:c001780 , real:c005160 , real:c010869 , real:c004821 , real:c003922 , real:c009823 , real:c000496 , real:c013720 , real:c002162 , real:c005205 , real:c004253 , real:c013917 , real:c010020 , real:c013313 , real:c002924 , real:c002476 , real:c006601 , real:c008954 , real:c000164 , real:c007260 , real:c002627 , real:c005560 , real:c013135 , real:c008940 , real:c010567 , real:c003270 , real:c013309 , real:c002310 , real:c000320 , real:c001773 , real:c003675 , real:c010973 , real:c012737 , real:c013846 , real:c009290 , real:c006499 , real:c001926 , real:c012714 , real:c007659 , real:c003092 , real:c008523 , real:c003359 , real:c013851 , real:c009869 , real:c013384 , real:c007361 , real:c002089 , real:c002386 , real:c003116 , real:c009736 , real:c011845 , real:c005849 , real:c001318 , real:c000787 , real:c001988 , real:c009439 , real:c005665 , real:c004533 , real:c000720 , real:c005716 , real:c002357 , real:c011383 , real:c009306 , real:c012940 , real:c006666 , real:c013222 , real:c012685 , real:c002814 , real:c009425 , real:c003649 , real:c001105 , real:c010508 , real:c006652 , real:c005076 , real:c004608 , real:c000894 , real:c013780 , real:c006469 , real:c012938 , real:c008308 , real:c008605 , real:c003160 , real:c009381 , real:c002371 , real:c002503 , real:c003219 , real:c012924 , real:c008709 , real:c007732 , real:c003338 , real:c002643 , real:c011465 , real:c007736 , real:c007687 , real:c004284 , real:c009645 , real:c000291 , real:c008856 , real:c007370 , real:c000047 , real:c012753 , real:c007311 , real:c012734 , real:c005739 , real:c004446 , real:c011812 , real:c011110 , real:c007430 , real:c002345 , real:c013018 , real:c002154 , real:c012689 , real:c012437 , real:c011994 , real:c006743 , real:c002212 , real:c000222 , real:c002021 , real:c012556 , real:c013952 , real:c007780 , real:c009890 , real:c010389 , real:c001586 , real:c002316 , real:c008043 , real:c009922 , real:c013277 , real:c009455 , real:c000462 , real:c005554 , real:c006116 , real:c007547 , real:c012682 , real:c004188 , real:c005970 , real:c000848 , real:c003137 , real:c000437 , real:c013062 , real:c007329 , real:c005092 , real:c010412 , real:c010799 , real:c012723 , real:c005073 , real:c010893 , real:c007467 , real:c000304 , real:c001032 , real:c003769 , real:c004872 , real:c009208 , real:c010666 , real:c009906 , real:c008769 , real:c007334 , real:c000423 , real:c001286 , real:c003377 , real:c013224 , real:c012643 , real:c011000 , real:c011401 , real:c001728 , real:c002112 , real:c008288 , real:c003176 , real:c003622 , real:c009959 , real:c013922 , real:c009448 , real:c013364 , real:c003760 , real:c003325 , real:c002188 , real:c004576 , real:c003911 , real:c002961 , real:c000485 , real:c009487 , real:c001233 , real:c001954 , real:c007327 , real:c006298 , real:c000620 , real:c005103 , real:c009057 , real:c003858 , real:c011504 , real:c012918 , real:c010689 , real:c005810 , real:c006284 , real:c003867 , real:c005627 , real:c008659 , real:c009293 , real:c001643 , real:c008956 , real:c004107 , real:c012904 , real:c008059 , real:c006302 , real:c031043 , real:c001915 , real:c002691 , real:c031421 , real:c003323 , real:c005589 , real:c004387 , real:c005867 , real:c011282 , real:c011925 , real:c012584 , real:c005668 , real:c003399 , real:c005620 , real:c006602 , real:c009277 , real:c000146 , real:c001004 , real:c000265 , real:c012570 , real:c006788 , real:c010229 , real:c005145 , real:c003362 , real:c009583 , real:c006842 , real:c000306 , real:c006933 , real:c007915 , real:c004906 , real:c005245 , real:c002147 , real:c004211 , real:c001566 , real:c003657 , real:c011303 , real:c005131 , real:c007618 , real:c005112 , real:c001685 , real:c000707 , real:c012715 , real:c003524 , real:c004105 , real:c004959 , real:c003505 , real:c004050 , real:c000684 , real:c009737 , real:c007179 , real:c003049 , real:c000249 , real:c012101 , real:c013218 , real:c007298 , real:c001792 , real:c013804 , real:c011246 , real:c004212 , real:c007165 , real:c013318 , real:c009307 , real:c012941 , real:c012063 , real:c013323 , real:c012742 , real:c007300 , real:c006309 , real:c009227 , real:c000494 , real:c011207 , real:c013395 , real:c008231 , real:c001456 , real:c002474 , real:c004147 , real:c003717 , real:c007366 , real:c030284 , real:c002678 , real:c013307 , real:c009627 , real:c002144 , real:c005437 , real:c000167 , real:c007129 , real:c011891 , real:c012712 , real:c012602 , real:c003824 , real:c013227 , real:c007795 , real:c012740 , real:c013948 , real:c005726 , real:c008506 , real:c006250 , real:c013685 , real:c012557 , real:c006769 , real:c003065 , real:c012443 , real:c003184 , real:c011981 , real:c006806 , real:c004486 , real:c004531 , real:c008163 , real:c003051 , real:c010635 , real:c005852 , real:c010639 , real:c010243 , real:c004220 , real:c009376 , real:c007901 , real:c000716 , real:c005074 , real:c009718 , real:c003594 , real:c011129 , real:c003652 , real:c005225 , real:c003889 , real:c005891 , real:c007982 , real:c004318 , real:c005913 , real:c001784 , real:c000806 , real:c012044 , real:c011957 , real:c006767 , real:c010053 , real:c001651 , real:c031744 , real:c009074 , real:c013724 , real:c003307 , real:c010726 , real:c003030 , real:c011810 , real:c013168 , real:c012921 , real:c012609 , real:c002271 , real:c012692 , real:c003859 , real:c010118 , real:c005129 , real:c011900 , real:c008760 , real:c011505 , real:c001584 , real:c002314 , real:c005458 , real:c008293 , real:c005267 , real:c013390 , real:c012548 , real:c006266 , real:c000140 , real:c004996 , real:c006133 , real:c013791 , real:c012905 , real:c007545 , real:c003077 , real:c001555 , real:c007479 , real:c002117 , real:c006088 , real:c009165 , real:c010410 , real:c012127 , real:c011750 , real:c004348 , real:c012104 , real:c003971 , real:c007332 , real:c010047 , real:c013241 , real:c011131 , real:c011532 , real:c009259 , real:c007451 , real:c013207 , real:c005721 , real:c006195 , real:c013411 , real:c000266 , real:c007621 , real:c011971 , real:c008730 , real:c013326 , real:c009012 , real:c009245 , real:c001845 , real:c012930 , real:c002218 , real:c012705 , real:c007021 , real:c001548 , real:c009669 , real:c002204 , real:c006156 , real:c011649 , real:c001553 , real:c013927 , real:c011768 , real:c013607 , real:c000829 , real:c010628 , real:c004923 , real:c009055 , real:c001793 , real:c000518 , real:c005758 , real:c005173 , real:c012017 , real:c005907 , real:c011228 , real:c003129 , real:c013319 , real:c002752 , real:c011816 , real:c005150 , real:c005292 , real:c008657 , real:c011894 , real:c012876 , real:c004408 , real:c003870 , real:c013871 , real:c012743 , real:c005426 , real:c010960 , real:c005630 , real:c013301 , real:c008929 , real:c000987 , real:c003276 , real:c006957 , real:c006866 , real:c004667 , real:c003143 , real:c005204 , real:c013674 , real:c001171 , real:c007651 , real:c002019 , real:c013560 , real:c001740 , real:c013942 , real:c006194 , real:c005003 , real:c001324 , real:c007248 , real:c004634 , real:c007927 , real:c010265 , real:c004074 , real:c004223 , real:c002442 , real:c006403 , real:c002370 , real:c011033 , real:c005960 , real:c012543 , real:c002145 , real:c007616 , real:c002012 , real:c003541 , real:c011086 , real:c005557 , real:c004103 , real:c013228 , real:c002532 , real:c001951 , real:c012832 , real:c005424 , real:c003944 , real:c011693 , real:c001391 , real:c011123 , real:c011793 , real:c010642 , real:c006822 , real:c000786 , real:c011660 , real:c002827 , real:c011946 , real:c000767 , real:c004290 , real:c000252 , real:c000653 , real:c009305 , real:c010180 , real:c009063 , real:c000186 , real:c012873 , real:c005463 , real:c008843 , real:c013038 , real:c007267 .
 
 real:c012068  skos:closeMatch  wd:Q28060611 .
 
@@ -4192,6 +4428,8 @@ real:c002522  skos:closeMatch  wd:Q47574 .
 real:c010866  skos:closeMatch  wd:Q130825 .
 
 real:c013541  skos:closeMatch  wd:Q9217 .
+
+real:c030535  skos:closeMatch  wd:Q93332 .
 
 real:c000688  skos:closeMatch  wd:Q186986 .
 
@@ -4287,6 +4525,8 @@ real:c004679  skos:closeMatch  wd:Q786278 .
 
 real:c030949  skos:closeMatch  wd:Q985 .
 
+real:c012546  skos:closeMatch  wd:Q265392 .
+
 real:c001852  skos:closeMatch  wd:Q207920 .
 
 real:c030466  skos:closeMatch  wd:Q940402 .
@@ -4335,18 +4575,22 @@ real:c030986  skos:closeMatch  wd:Q31945 .
 
 real:c001263  skos:closeMatch  wd:Q12097 .
 
+real:c011839  skos:closeMatch  wd:Q1411716 .
+
 real:c000036  skos:closeMatch  wd:Q966880 .
 
 <http://data.ub.uio.no/entity/c331c5e9-726c-4c55-9341-72d3e7874d6b>
         a            uoc:Category ;
         rdfs:label   "Fysikk"@nb ;
-        skos:member  real:c006920 , real:c010443 , real:c003992 , real:c008902 , real:c006789 , real:c005744 , real:c010758 , real:c000727 , real:c031885 , real:c005554 , real:c003836 , real:c012589 , real:c012197 , real:c004901 , real:c004641 , real:c011455 , real:c004645 , real:c003665 , real:c011186 , real:c002619 , real:c010881 , real:c005585 , real:c006484 , real:c013028 , real:c011723 , real:c009817 , real:c003156 , real:c008197 , real:c005747 , real:c005972 , real:c008891 , real:c002744 , real:c031888 , real:c011515 , real:c000413 , real:c008656 , real:c011883 , real:c010277 , real:c006055 , real:c002568 , real:c004887 , real:c006402 , real:c007899 , real:c006109 , real:c009236 , real:c010513 , real:c013787 , real:c004923 , real:c002979 , real:c006367 , real:c005352 , real:c010798 , real:c009801 , real:c009637 , real:c008975 , real:c008522 , real:c007199 , real:c005770 , real:c006928 , real:c003131 , real:c000812 , real:c003349 , real:c000996 , real:c000530 , real:c000424 , real:c012156 , real:c007856 , real:c004830 , real:c001317 , real:c005383 , real:c008771 , real:c003644 , real:c012865 , real:c004279 , real:c007836 , real:c006267 , real:c008625 , real:c003037 , real:c000960 , real:c003560 , real:c004246 , real:c002506 , real:c009898 , real:c005664 , real:c006810 , real:c011038 , real:c010788 , real:c002394 , real:c002380 , real:c006890 , real:c004226 , real:c008036 , real:c008348 , real:c007316 , real:c004559 , real:c005773 , real:c005005 , real:c003837 , real:c004775 , real:c001727 , real:c003917 , real:c000418 , real:c004565 , real:c004868 , real:c004790 , real:c012529 , real:c002867 , real:c013964 , real:c002436 , real:c002640 , real:c004516 , real:c003501 , real:c012271 , real:c012893 , real:c013915 , real:c010896 , real:c007523 , real:c003886 , real:c002277 , real:c012264 , real:c004386 , real:c009755 , real:c002483 , real:c005595 , real:c010528 , real:c003927 , real:c004094 , real:c007342 , real:c012578 , real:c007962 , real:c000095 , real:c005043 , real:c031731 , real:c001378 , real:c002106 , real:c008473 , real:c008140 , real:c006290 , real:c003222 , real:c005565 , real:c007938 , real:c000186 , real:c001447 , real:c000731 , real:c012650 , real:c006884 , real:c001757 , real:c003939 , real:c004130 , real:c013617 , real:c004267 , real:c000946 , real:c000038 , real:c006074 , real:c010866 , real:c008562 , real:c001278 , real:c004073 , real:c003354 , real:c008749 , real:c002347 , real:c000961 , real:c006596 , real:c000616 , real:c003088 , real:c001369 , real:c003312 , real:c010765 , real:c011510 , real:c010346 , real:c003102 , real:c001341 , real:c009131 , real:c007222 , real:c013250 , real:c003377 , real:c013151 , real:c003120 , real:c002706 , real:c007348 , real:c006383 , real:c007075 , real:c004082 , real:c006433 , real:c000838 , real:c006761 , real:c007613 , real:c011740 , real:c007797 , real:c010987 , real:c005502 , real:c006057 , real:c003878 , real:c008857 , real:c008738 , real:c002187 , real:c013854 , real:c006137 , real:c012293 , real:c013029 , real:c031889 , real:c003104 , real:c012568 , real:c008630 , real:c010490 , real:c002577 , real:c010983 , real:c009984 , real:c009347 , real:c000627 , real:c009641 , real:c002535 , real:c007217 , real:c003168 , real:c001585 , real:c003346 , real:c004948 , real:c007734 , real:c002550 , real:c012561 , real:c007236 , real:c008700 , real:c005756 , real:c005056 , real:c012297 , real:c001557 , real:c011017 , real:c010743 , real:c005213 , real:c008479 , real:c003091 , real:c004663 , real:c000469 , real:c008196 , real:c002254 , real:c031090 , real:c002418 , real:c004695 , real:c000956 , real:c005188 , real:c008507 , real:c004044 , real:c010268 , real:c002732 , real:c007555 , real:c001838 , real:c031790 , real:c011996 , real:c000132 , real:c004757 , real:c010598 , real:c001138 , real:c011420 , real:c010226 , real:c003115 , real:c004585 , real:c012784 , real:c002104 , real:c005551 , real:c012617 , real:c003811 , real:c004388 , real:c005226 , real:c002485 , real:c003683 , real:c004379 , real:c003550 , real:c002774 , real:c013981 , real:c009769 , real:c012648 , real:c001301 , real:c005147 , real:c002699 , real:c010996 , real:c012569 , real:c002451 , real:c004181 , real:c011469 , real:c001117 , real:c007519 , real:c010231 , real:c008963 , real:c005702 , real:c007778 .
+        skos:member  real:c006920 , real:c010443 , real:c003992 , real:c008902 , real:c006789 , real:c005744 , real:c010758 , real:c000727 , real:c031885 , real:c005554 , real:c003836 , real:c012589 , real:c012197 , real:c004901 , real:c004641 , real:c011455 , real:c004645 , real:c003665 , real:c011186 , real:c002619 , real:c010881 , real:c005585 , real:c006484 , real:c013028 , real:c011723 , real:c009817 , real:c003156 , real:c008197 , real:c005972 , real:c005747 , real:c008891 , real:c002744 , real:c031888 , real:c011515 , real:c000413 , real:c008656 , real:c011883 , real:c010277 , real:c006055 , real:c002568 , real:c004887 , real:c006402 , real:c007899 , real:c006109 , real:c009236 , real:c002527 , real:c000860 , real:c002079 , real:c010513 , real:c013787 , real:c004923 , real:c002979 , real:c006367 , real:c005352 , real:c010798 , real:c009801 , real:c009637 , real:c008975 , real:c008522 , real:c007199 , real:c005770 , real:c006928 , real:c003131 , real:c000812 , real:c003349 , real:c000996 , real:c000530 , real:c000424 , real:c012156 , real:c007856 , real:c004830 , real:c001317 , real:c005383 , real:c012865 , real:c008771 , real:c003644 , real:c011118 , real:c004279 , real:c007836 , real:c006267 , real:c008625 , real:c003037 , real:c000960 , real:c003560 , real:c004246 , real:c002506 , real:c009898 , real:c005664 , real:c006810 , real:c011038 , real:c010788 , real:c002394 , real:c002380 , real:c006890 , real:c004226 , real:c008036 , real:c008348 , real:c007316 , real:c004559 , real:c005773 , real:c005005 , real:c003837 , real:c004775 , real:c001727 , real:c003917 , real:c000418 , real:c004565 , real:c004868 , real:c004790 , real:c012529 , real:c002675 , real:c002867 , real:c013964 , real:c002436 , real:c002640 , real:c004516 , real:c003501 , real:c012271 , real:c012893 , real:c013915 , real:c010896 , real:c007523 , real:c003886 , real:c002277 , real:c010601 , real:c012264 , real:c004386 , real:c009755 , real:c002483 , real:c005595 , real:c010528 , real:c003927 , real:c004094 , real:c007342 , real:c012578 , real:c007962 , real:c000095 , real:c005043 , real:c031731 , real:c001378 , real:c002106 , real:c008473 , real:c008140 , real:c006290 , real:c003222 , real:c005565 , real:c007938 , real:c000186 , real:c001447 , real:c000731 , real:c012650 , real:c006884 , real:c001757 , real:c003939 , real:c004130 , real:c013617 , real:c004267 , real:c000946 , real:c000371 , real:c000038 , real:c006074 , real:c010866 , real:c008562 , real:c005671 , real:c001278 , real:c004073 , real:c003354 , real:c008749 , real:c002347 , real:c000961 , real:c006596 , real:c000616 , real:c003088 , real:c001369 , real:c003312 , real:c010765 , real:c011510 , real:c010346 , real:c003809 , real:c003102 , real:c001341 , real:c009131 , real:c007222 , real:c013250 , real:c003377 , real:c013151 , real:c003120 , real:c002706 , real:c007348 , real:c006383 , real:c007075 , real:c004082 , real:c006433 , real:c000838 , real:c006761 , real:c007613 , real:c011740 , real:c007797 , real:c010987 , real:c005502 , real:c006057 , real:c003878 , real:c008857 , real:c008738 , real:c002187 , real:c013854 , real:c006137 , real:c012293 , real:c013029 , real:c002651 , real:c031889 , real:c003104 , real:c012568 , real:c008630 , real:c010490 , real:c002577 , real:c010983 , real:c009984 , real:c009347 , real:c000627 , real:c009641 , real:c002535 , real:c007217 , real:c003168 , real:c001585 , real:c003346 , real:c004948 , real:c007734 , real:c002550 , real:c012561 , real:c007236 , real:c008700 , real:c005756 , real:c005056 , real:c012297 , real:c001557 , real:c011017 , real:c010743 , real:c005213 , real:c008479 , real:c003091 , real:c004663 , real:c000469 , real:c008196 , real:c002254 , real:c031090 , real:c002418 , real:c004695 , real:c000956 , real:c005188 , real:c008507 , real:c004044 , real:c010268 , real:c002732 , real:c007555 , real:c031790 , real:c001838 , real:c011996 , real:c010598 , real:c000132 , real:c004757 , real:c006977 , real:c001138 , real:c011420 , real:c010226 , real:c003115 , real:c004986 , real:c004585 , real:c012784 , real:c002104 , real:c005551 , real:c012617 , real:c003811 , real:c004388 , real:c005226 , real:c002485 , real:c003683 , real:c008184 , real:c004379 , real:c003550 , real:c002774 , real:c013981 , real:c009769 , real:c012648 , real:c001301 , real:c005147 , real:c010706 , real:c002699 , real:c010996 , real:c012569 , real:c002451 , real:c004181 , real:c011469 , real:c001117 , real:c007519 , real:c010231 , real:c011387 , real:c008963 , real:c005702 , real:c007778 .
 
 real:c007613  skos:closeMatch  wd:Q208702 .
 
 real:c014031  skos:closeMatch  wd:Q132971 .
 
 real:c010129  skos:closeMatch  wd:Q5090465 .
+
+real:c011982  skos:closeMatch  wd:Q16674976 .
 
 real:c004154  skos:closeMatch  wd:Q898648 .
 
@@ -4388,6 +4632,8 @@ real:c030403  skos:closeMatch  wd:Q241 .
 
 real:c005758  skos:closeMatch  wd:Q193683 .
 
+real:c030397  skos:closeMatch  wd:Q36704 .
+
 real:c007507  skos:closeMatch  wd:Q28453760 .
 
 real:c004048  skos:closeMatch  wd:Q504453 .
@@ -4428,6 +4674,8 @@ real:c031041  skos:closeMatch  wd:Q889 .
 
 real:c030923  skos:closeMatch  wd:Q2064948 .
 
+real:c004170  skos:closeMatch  wd:Q37748 .
+
 real:c005801  skos:closeMatch  wd:Q161503 .
 
 real:c012520  skos:closeMatch  wd:Q103817 .
@@ -4450,11 +4698,15 @@ real:c005716  skos:closeMatch  wd:Q331710 .
 
 real:c030355  skos:closeMatch  wd:Q130905 .
 
+real:c013759  skos:closeMatch  wd:Q421897 .
+
 real:c030981  skos:closeMatch  wd:Q713750 .
 
 real:c009208  skos:closeMatch  wd:Q3634109 .
 
 real:c002257  skos:closeMatch  wd:Q2941663 .
+
+real:c011834  skos:closeMatch  wd:Q374259 .
 
 real:c000031  skos:closeMatch  wd:Q751439 .
 
@@ -4477,6 +4729,8 @@ real:c004547  skos:closeMatch  wd:Q864895 .
 real:c005291  skos:closeMatch  wd:Q4202 .
 
 real:c013340  skos:closeMatch  wd:Q15777 .
+
+real:c030334  skos:closeMatch  wd:Q1016 .
 
 real:c004690  skos:closeMatch  wd:Q194290 .
 
@@ -4568,6 +4822,8 @@ real:c012345  skos:closeMatch  wd:Q1898 .
 
 real:c030265  skos:closeMatch  wd:Q924 .
 
+real:c011118  skos:closeMatch  wd:Q1135540 .
+
 real:c000424  skos:closeMatch  wd:Q205805 .
 
 real:c005143  skos:closeMatch  wd:Q752174 .
@@ -4646,6 +4902,8 @@ real:c007953  skos:closeMatch  wd:Q411369 .
 
 real:c013770  skos:closeMatch  wd:Q187685 .
 
+real:c030764  skos:closeMatch  wd:Q2375 .
+
 real:c012361  skos:closeMatch  wd:Q713 .
 
 real:c009617  skos:closeMatch  wd:Q273499 .
@@ -4694,9 +4952,13 @@ real:c001561  skos:closeMatch  wd:Q874402 .
 
 real:c005536  skos:closeMatch  wd:Q1337813 .
 
+real:c005053  skos:closeMatch  wd:Q60235 .
+
 real:c000960  skos:closeMatch  wd:Q214975 .
 
 real:c012802  skos:closeMatch  wd:Q845657 .
+
+real:c000392  skos:closeMatch  wd:Q410454 .
 
 real:c011086  skos:closeMatch  wd:Q186101 .
 
@@ -4708,11 +4970,17 @@ real:c012717  skos:closeMatch  wd:Q843232 .
 
 real:c008968  skos:closeMatch  wd:Q842433 .
 
+real:c005515  skos:closeMatch  wd:Q162925 .
+
 real:c003283  skos:closeMatch  wd:Q212327 .
+
+real:c012860  skos:closeMatch  wd:Q41872 .
 
 real:c030780  skos:closeMatch  wd:Q50627 .
 
 real:c031302  skos:closeMatch  wd:Q334 .
+
+real:c012149  skos:closeMatch  wd:Q40218 .
 
 real:c004431  skos:closeMatch  wd:Q165044 .
 
@@ -4720,13 +4988,19 @@ real:c000228  skos:closeMatch  wd:Q25345 .
 
 real:c030701  skos:closeMatch  wd:Q159626 .
 
+real:c011548  skos:closeMatch  wd:Q1621273 .
+
 real:c002603  skos:closeMatch  wd:Q408688 .
 
 real:c031217  skos:closeMatch  wd:Q6812146 .
 
+real:c000371  skos:closeMatch  wd:Q669532 .
+
 real:c011065  skos:closeMatch  wd:Q22657 .
 
 real:c009065  skos:closeMatch  wd:Q1268744 .
+
+real:c030616  skos:closeMatch  wd:Q1769364 .
 
 real:c011691  skos:closeMatch  wd:Q39833 .
 
@@ -4783,6 +5057,8 @@ real:c030653  skos:closeMatch  wd:Q1209 .
 real:c000812  skos:closeMatch  wd:Q2294 .
 
 real:c011506  skos:closeMatch  wd:Q7258877 .
+
+real:c003782  skos:closeMatch  wd:Q5070208 .
 
 real:c005531  skos:closeMatch  wd:Q171171 .
 
@@ -4910,6 +5186,8 @@ real:c008894  skos:closeMatch  wd:Q37156 .
 
 real:c003692  skos:closeMatch  wd:Q30081 .
 
+real:c012160  skos:closeMatch  wd:Q648619 .
+
 real:c006583  skos:closeMatch  wd:Q1751859 .
 
 real:c000154  skos:closeMatch  wd:Q42844 .
@@ -4952,6 +5230,8 @@ real:c030998  skos:closeMatch  wd:Q131108 .
 
 real:c004251  skos:closeMatch  wd:Q7369 .
 
+real:c030521  skos:closeMatch  wd:Q104400 .
+
 real:c000674  skos:closeMatch  wd:Q8683 .
 
 real:c002423  skos:closeMatch  wd:Q2143837 .
@@ -4979,6 +5259,8 @@ real:c030500  skos:closeMatch  wd:Q113595 .
 real:c030494  skos:closeMatch  wd:Q2582803 .
 
 real:c000653  skos:closeMatch  wd:Q11173 .
+
+real:c005372  skos:closeMatch  wd:Q891109 .
 
 real:c011973  skos:closeMatch  wd:Q2465247 .
 
@@ -5026,13 +5308,19 @@ real:c030309  skos:closeMatch  wd:Q38872 .
 
 real:c006414  skos:closeMatch  wd:Q321249 .
 
+real:c031053  skos:closeMatch  wd:Q3224 .
+
 real:c030935  skos:closeMatch  wd:Q23635 .
+
+real:c011299  skos:closeMatch  wd:Q47359 .
 
 real:c000611  skos:closeMatch  wd:Q328692 .
 
 real:c011305  skos:closeMatch  wd:Q4530315 .
 
 real:c007556  skos:closeMatch  wd:Q187958 .
+
+real:c006329  skos:closeMatch  wd:Q102857 .
 
 real:c013856  skos:closeMatch  wd:Q412519 .
 
@@ -5067,7 +5355,7 @@ real:c003417  skos:closeMatch  wd:Q1968532 .
 <http://data.ub.uio.no/entity/aa780674-ac5f-40b2-a5a6-7912901f6d5f>
         a            uoc:Category ;
         rdfs:label   "Matematikk"@nb ;
-        skos:member  real:c000538 , real:c002848 , real:c000730 , real:c012296 , real:c004565 , real:c001877 , real:c005857 , real:c001656 , real:c006851 , real:c004836 , real:c008644 , real:c011689 , real:c012589 , real:c001590 , real:c010691 , real:c013699 , real:c012294 , real:c031888 , real:c012849 , real:c006146 , real:c012980 , real:c001971 , real:c010428 , real:c000998 , real:c008870 , real:c008988 , real:c031763 , real:c005388 , real:c008213 , real:c003074 , real:c000709 , real:c000090 , real:c003378 , real:c014044 , real:c011113 , real:c013839 , real:c000876 , real:c011115 , real:c011177 , real:c013157 , real:c006317 , real:c003683 , real:c012604 , real:c013329 , real:c006745 , real:c009886 , real:c012278 , real:c004292 , real:c009275 , real:c006598 , real:c002969 , real:c002549 , real:c009085 , real:c002106 , real:c009154 , real:c007199 , real:c012274 , real:c003750 , real:c000005 , real:c004468 , real:c008470 , real:c002528 , real:c003906 , real:c009388 , real:c013021 , real:c010775 , real:c012603 , real:c012892 , real:c006775 , real:c002726 , real:c001731 , real:c003289 , real:c005953 , real:c011611 , real:c013134 , real:c002151 , real:c003723 , real:c001847 , real:c013486 , real:c010528 , real:c000727 , real:c001779 , real:c010018 , real:c007832 , real:c031278 , real:c005057 , real:c009532 , real:c005449 , real:c005901 , real:c010231 , real:c003328 , real:c013314 , real:c009941 , real:c000122 , real:c001537 , real:c002085 , real:c010705 , real:c000719 , real:c008532 , real:c008517 , real:c004344 , real:c004706 , real:c001850 , real:c011559 , real:c003156 , real:c009996 , real:c003273 , real:c003974 , real:c008809 , real:c002565 , real:c010619 , real:c000712 , real:c010928 , real:c000707 , real:c002989 , real:c001331 , real:c012098 , real:c009577 , real:c000183 , real:c005911 , real:c011371 , real:c031764 , real:c001618 , real:c010303 , real:c031883 , real:c002304 , real:c002071 , real:c010087 , real:c010122 , real:c009667 , real:c006419 , real:c008107 , real:c006623 , real:c011419 , real:c006735 , real:c011763 , real:c008287 , real:c013328 , real:c011604 , real:c009817 , real:c012272 , real:c002274 , real:c006894 , real:c011229 , real:c000824 , real:c013364 , real:c001885 , real:c002053 , real:c003170 , real:c007466 , real:c008028 , real:c003043 , real:c000314 , real:c010105 , real:c005745 , real:c008578 , real:c010222 , real:c004799 .
+        skos:member  real:c000538 , real:c002848 , real:c000730 , real:c012296 , real:c004565 , real:c001877 , real:c005857 , real:c001656 , real:c006851 , real:c004836 , real:c008644 , real:c011689 , real:c012589 , real:c001590 , real:c010691 , real:c013699 , real:c012294 , real:c031888 , real:c012849 , real:c006146 , real:c012980 , real:c001971 , real:c010428 , real:c000998 , real:c008870 , real:c008988 , real:c031763 , real:c005388 , real:c008213 , real:c003074 , real:c000709 , real:c000090 , real:c003378 , real:c014044 , real:c011113 , real:c013839 , real:c000876 , real:c011115 , real:c011177 , real:c013157 , real:c006317 , real:c003683 , real:c012604 , real:c013329 , real:c006745 , real:c009886 , real:c012278 , real:c004292 , real:c009275 , real:c006598 , real:c002969 , real:c009085 , real:c002106 , real:c009154 , real:c007199 , real:c012274 , real:c003750 , real:c000005 , real:c004468 , real:c008470 , real:c002528 , real:c003906 , real:c009388 , real:c013021 , real:c010775 , real:c012603 , real:c012892 , real:c006775 , real:c002726 , real:c001731 , real:c003289 , real:c005953 , real:c011611 , real:c013134 , real:c002151 , real:c003723 , real:c001847 , real:c013486 , real:c010528 , real:c000727 , real:c001779 , real:c010018 , real:c007832 , real:c031278 , real:c005057 , real:c009532 , real:c005449 , real:c001383 , real:c005901 , real:c010231 , real:c003328 , real:c013314 , real:c009941 , real:c000122 , real:c001537 , real:c002085 , real:c010705 , real:c000719 , real:c008532 , real:c008517 , real:c004344 , real:c004706 , real:c001850 , real:c011559 , real:c003156 , real:c009996 , real:c003273 , real:c003974 , real:c008809 , real:c002565 , real:c010619 , real:c000712 , real:c010928 , real:c000707 , real:c002989 , real:c001331 , real:c012098 , real:c009577 , real:c000183 , real:c005911 , real:c011371 , real:c031764 , real:c004752 , real:c001618 , real:c010303 , real:c031883 , real:c002304 , real:c002071 , real:c010087 , real:c010122 , real:c009667 , real:c006419 , real:c008107 , real:c006623 , real:c011419 , real:c006735 , real:c011763 , real:c008287 , real:c013328 , real:c011604 , real:c009817 , real:c012272 , real:c002274 , real:c006894 , real:c011229 , real:c000824 , real:c013364 , real:c001885 , real:c002053 , real:c003170 , real:c007466 , real:c008028 , real:c003043 , real:c000314 , real:c010105 , real:c005745 , real:c008578 , real:c010222 , real:c004799 .
 
 real:c010762  skos:closeMatch  wd:Q419024 .
 
@@ -5106,6 +5394,8 @@ real:c010741  skos:closeMatch  wd:Q39531 .
 real:c008741  skos:closeMatch  wd:Q1889 .
 
 real:c000563  skos:closeMatch  wd:Q189159 .
+
+real:c030808  skos:closeMatch  wd:Q380307 .
 
 real:c011883  skos:closeMatch  wd:Q184996 .
 
@@ -5148,6 +5438,8 @@ real:c010635  skos:closeMatch  wd:Q2626870 .
 real:c006886  skos:closeMatch  wd:Q37187 .
 
 real:c013310  skos:closeMatch  wd:Q15409306 .
+
+real:c030298  skos:closeMatch  wd:Q114 .
 
 real:c030930  skos:closeMatch  wd:Q41573 .
 
@@ -5235,6 +5527,8 @@ real:c009231  skos:closeMatch  wd:Q1056194 .
 
 real:c013782  skos:closeMatch  wd:Q808 .
 
+real:c030776  skos:closeMatch  wd:Q1726 .
+
 real:c003911  skos:closeMatch  wd:Q208453 .
 
 real:c000935  skos:closeMatch  wd:Q7115638 .
@@ -5260,6 +5554,8 @@ real:c005569  skos:closeMatch  wd:Q4117854 .
 real:c030214  skos:closeMatch  wd:Q142 .
 
 real:c000367  skos:closeMatch  wd:Q156674 .
+
+real:c030840  skos:closeMatch  wd:Q109025 .
 
 real:c002116  skos:closeMatch  wd:Q154430 .
 
@@ -5303,7 +5599,11 @@ real:c012893  skos:closeMatch  wd:Q13081376 .
 
 real:c002089  skos:closeMatch  wd:Q7150 .
 
+real:c004947  skos:closeMatch  wd:Q2466273 .
+
 real:c010439  skos:closeMatch  wd:Q840453 .
+
+real:c005691  skos:closeMatch  wd:Q171877 .
 
 real:c007440  skos:closeMatch  wd:Q272467 .
 
@@ -5353,6 +5653,8 @@ real:c005585  skos:closeMatch  wd:Q124164 .
 
 real:c030230  skos:closeMatch  wd:Q797 .
 
+real:c004358  skos:closeMatch  wd:Q82264 .
+
 real:c007334  skos:closeMatch  wd:Q217270 .
 
 real:c030628  skos:closeMatch  wd:Q493279 .
@@ -5365,7 +5667,11 @@ real:c000304  skos:closeMatch  wd:Q485680 .
 
 real:c007249  skos:closeMatch  wd:Q66194 .
 
+real:c030771  skos:closeMatch  wd:Q494062 .
+
 real:c005023  skos:closeMatch  wd:Q17159 .
+
+real:c002673  skos:closeMatch  wd:Q19596 .
 
 real:c009624  skos:closeMatch  wd:Q8269924 .
 
@@ -5415,6 +5721,10 @@ real:c030182  skos:closeMatch  wd:Q7017 .
 
 real:c000341  skos:closeMatch  wd:Q8222 .
 
+real:c010917  skos:closeMatch  wd:Q280969 .
+
+real:c011661  skos:closeMatch  wd:Q131742 .
+
 real:c008917  skos:closeMatch  wd:Q189396 .
 
 real:c001966  skos:closeMatch  wd:Q652 .
@@ -5422,6 +5732,8 @@ real:c001966  skos:closeMatch  wd:Q652 .
 real:c003715  skos:closeMatch  wd:Q9382 .
 
 real:c012177  skos:closeMatch  wd:Q1108 .
+
+real:c010349  skos:closeMatch  wd:Q7260 .
 
 real:c008975  skos:closeMatch  wd:Q11656 .
 
@@ -5483,6 +5795,8 @@ real:c004873  skos:closeMatch  wd:Q1070952 .
 
 real:c001897  skos:closeMatch  wd:Q513110 .
 
+real:c005389  skos:closeMatch  wd:Q913842 .
+
 real:c008365  skos:closeMatch  wd:Q269829 .
 
 real:c030660  skos:closeMatch  wd:Q44725 .
@@ -5527,6 +5841,8 @@ real:c005368  skos:closeMatch  wd:Q7879841 .
 
 real:c000166  skos:closeMatch  wd:Q430 .
 
+real:c004767  skos:closeMatch  wd:Q416796 .
+
 real:c004284  skos:closeMatch  wd:Q476743 .
 
 real:c012634  skos:closeMatch  wd:Q1404532 .
@@ -5557,6 +5873,8 @@ real:c012549  skos:closeMatch  wd:Q1844555 .
 
 real:c030469  skos:closeMatch  wd:Q39193 .
 
+real:c004263  skos:closeMatch  wd:Q1265179 .
+
 real:c001287  skos:closeMatch  wd:Q2556382 .
 
 real:c003036  skos:closeMatch  wd:Q812800 .
@@ -5571,9 +5889,13 @@ real:c007780  skos:closeMatch  wd:Q25093013 .
 
 real:c000607  skos:closeMatch  wd:Q189308 .
 
+real:c006070  skos:closeMatch  wd:Q866317 .
+
 real:c007701  skos:closeMatch  wd:Q107968 .
 
 real:c010217  skos:closeMatch  wd:Q2853082 .
+
+real:c009444  skos:closeMatch  wd:Q326277 .
 
 real:c008217  skos:closeMatch  wd:Q40397 .
 
@@ -5612,6 +5934,8 @@ real:c005846  skos:closeMatch  wd:Q191831 .
 real:c004619  skos:closeMatch  wd:Q1035293 .
 
 real:c000644  skos:closeMatch  wd:Q11444704 .
+
+real:c031007  skos:closeMatch  wd:Q2 .
 
 real:c009338  skos:closeMatch  wd:Q5167661 .
 
@@ -5654,6 +5978,8 @@ real:c004115  skos:closeMatch  wd:Q190873 .
 real:c007085  skos:closeMatch  wd:Q25257 .
 
 real:c030379  skos:closeMatch  wd:Q5765 .
+
+real:c010233  skos:closeMatch  wd:Q48460 .
 
 real:c000538  skos:closeMatch  wd:Q11197 .
 
@@ -5700,7 +6026,7 @@ real:c030984  skos:closeMatch  wd:Q131694 .
 <http://data.ub.uio.no/entity/d5a885cd-56a0-4501-9c99-418db3fbcbdb>
         a            uoc:Category ;
         rdfs:label   "Astro"@nb ;
-        skos:member  real:c007914 , real:c013787 , real:c001064 , real:c004852 , real:c010758 , real:c003201 , real:c007374 , real:c001578 , real:c007259 , real:c004516 , real:c006084 , real:c000744 , real:c009511 , real:c004721 , real:c011740 , real:c009966 , real:c006575 , real:c000480 , real:c005043 , real:c001414 , real:c011144 , real:c001896 , real:c002790 , real:c030985 , real:c010754 , real:c007314 , real:c005291 , real:c002446 , real:c012802 , real:c012828 , real:c005677 , real:c012987 , real:c008744 , real:c011302 , real:c007935 , real:c009984 , real:c006703 , real:c011330 , real:c011278 , real:c002356 , real:c004858 , real:c010800 , real:c011216 , real:c006071 , real:c005143 , real:c009898 , real:c005040 , real:c012275 , real:c009677 , real:c005285 , real:c003733 , real:c005475 , real:c002020 , real:c012074 , real:c007825 , real:c010261 , real:c006793 , real:c005850 , real:c013058 , real:c003841 , real:c011628 , real:c000931 , real:c008750 , real:c005332 , real:c005823 , real:c000517 , real:c009758 , real:c002571 , real:c007075 , real:c010866 , real:c010272 , real:c002064 , real:c000127 , real:c004620 , real:c011755 , real:c003868 , real:c008996 , real:c006043 , real:c010186 , real:c013836 , real:c011956 , real:c001642 , real:c005875 , real:c003703 , real:c001936 , real:c010019 , real:c008857 , real:c009197 , real:c008572 , real:c012156 , real:c003397 , real:c003927 , real:c001334 , real:c005281 , real:c005702 , real:c010936 , real:c030992 , real:c006028 , real:c010567 , real:c012090 , real:c007271 , real:c003803 , real:c004757 , real:c010884 , real:c000487 , real:c003171 , real:c012947 , real:c010226 , real:c004794 , real:c009811 , real:c008534 , real:c000405 , real:c006728 , real:c000031 , real:c010945 , real:c003813 , real:c031014 , real:c004130 , real:c008522 , real:c009314 , real:c004246 , real:c007950 , real:c011304 , real:c012779 , real:c002699 , real:c011984 , real:c010793 , real:c009579 , real:c011689 , real:c002564 , real:c004822 , real:c003560 , real:c012814 , real:c005029 , real:c009119 , real:c006761 , real:c011019 , real:c013151 , real:c008366 , real:c012817 , real:c009955 , real:c005226 , real:c000126 , real:c008968 , real:c004239 , real:c010683 , real:c003014 , real:c004754 , real:c005297 , real:c009409 , real:c010988 , real:c011102 , real:c006316 , real:c011777 , real:c010208 , real:c011499 , real:c003380 , real:c000600 , real:c005190 , real:c012271 , real:c010559 , real:c003697 , real:c009470 , real:c000877 , real:c011158 , real:c002955 , real:c003036 , real:c011663 , real:c030991 , real:c011794 , real:c005213 , real:c006825 , real:c008511 , real:c004813 , real:c000644 , real:c006055 , real:c008028 , real:c010818 .
+        skos:member  real:c007914 , real:c013787 , real:c001064 , real:c004852 , real:c010758 , real:c012860 , real:c003201 , real:c007374 , real:c001578 , real:c007259 , real:c004516 , real:c006084 , real:c000744 , real:c009511 , real:c011740 , real:c004721 , real:c009966 , real:c012022 , real:c001913 , real:c006575 , real:c000480 , real:c004986 , real:c005043 , real:c001414 , real:c011144 , real:c001896 , real:c012546 , real:c002790 , real:c030985 , real:c010754 , real:c007314 , real:c005291 , real:c002446 , real:c012802 , real:c012828 , real:c005677 , real:c012987 , real:c008744 , real:c011302 , real:c007935 , real:c009984 , real:c006703 , real:c011330 , real:c011278 , real:c002356 , real:c004858 , real:c010800 , real:c011216 , real:c006071 , real:c005143 , real:c009898 , real:c005040 , real:c012275 , real:c009677 , real:c005285 , real:c003733 , real:c005475 , real:c002020 , real:c012074 , real:c007825 , real:c010261 , real:c006793 , real:c005850 , real:c013058 , real:c003841 , real:c011628 , real:c000931 , real:c008750 , real:c005332 , real:c005823 , real:c000517 , real:c009758 , real:c002571 , real:c007075 , real:c010866 , real:c010272 , real:c002064 , real:c000127 , real:c004620 , real:c011755 , real:c003868 , real:c008996 , real:c006043 , real:c010186 , real:c013836 , real:c011956 , real:c001642 , real:c005875 , real:c003703 , real:c001936 , real:c010019 , real:c008857 , real:c009197 , real:c008572 , real:c012156 , real:c003397 , real:c012149 , real:c003927 , real:c001334 , real:c005281 , real:c005702 , real:c010936 , real:c030992 , real:c006028 , real:c010567 , real:c012090 , real:c007271 , real:c003803 , real:c004757 , real:c010884 , real:c000487 , real:c003171 , real:c012947 , real:c010226 , real:c004794 , real:c009811 , real:c008534 , real:c000405 , real:c006728 , real:c000031 , real:c010945 , real:c003813 , real:c031014 , real:c004130 , real:c008522 , real:c009314 , real:c004246 , real:c007950 , real:c011304 , real:c012779 , real:c002699 , real:c011984 , real:c010793 , real:c000659 , real:c009579 , real:c011689 , real:c002564 , real:c004822 , real:c003560 , real:c012814 , real:c005029 , real:c009119 , real:c006761 , real:c011019 , real:c013151 , real:c008366 , real:c012817 , real:c009955 , real:c005226 , real:c000126 , real:c008968 , real:c004239 , real:c010683 , real:c003014 , real:c004754 , real:c005297 , real:c009409 , real:c010988 , real:c011102 , real:c006316 , real:c011777 , real:c010208 , real:c011499 , real:c003380 , real:c000600 , real:c005190 , real:c012271 , real:c010559 , real:c003697 , real:c009470 , real:c000877 , real:c011158 , real:c002955 , real:c003036 , real:c011663 , real:c030991 , real:c011794 , real:c005213 , real:c006825 , real:c008511 , real:c004813 , real:c000644 , real:c006055 , real:c008028 , real:c010818 .
 
 real:c001659  skos:closeMatch  wd:Q194294 .
 
@@ -5716,6 +6042,8 @@ real:c011980  skos:closeMatch  wd:Q1098275 .
 
 real:c004152  skos:closeMatch  wd:Q230731 .
 
+real:c030422  skos:closeMatch  wd:Q25287 .
+
 real:c008753  skos:closeMatch  wd:Q7372 .
 
 real:c005300  skos:closeMatch  wd:Q4388617 .
@@ -5730,9 +6058,15 @@ real:c012417  skos:closeMatch  wd:Q362 .
 
 real:c030337  skos:closeMatch  wd:Q2381588 .
 
+real:c003466  skos:closeMatch  wd:Q185757 .
+
 real:c008185  skos:closeMatch  wd:Q7155 .
 
 real:c011816  skos:closeMatch  wd:Q9633 .
+
+real:c000013  skos:closeMatch  wd:Q10990 .
+
+real:c009816  skos:closeMatch  wd:Q172778 .
 
 real:c012560  skos:closeMatch  wd:Q266678 .
 
@@ -5743,6 +6077,8 @@ real:c010106  skos:closeMatch  wd:Q243253 .
 real:c030878  skos:closeMatch  wd:Q712 .
 
 real:c030401  skos:closeMatch  wd:Q7343 .
+
+real:c030395  skos:closeMatch  wd:Q1288 .
 
 real:c009874  skos:closeMatch  wd:Q7325 .
 
@@ -5776,6 +6112,8 @@ real:c009227  skos:closeMatch  wd:Q272467 .
 
 real:c010626  skos:closeMatch  wd:Q161078 .
 
+real:c013301  skos:closeMatch  wd:Q155949 .
+
 real:c013295  skos:closeMatch  wd:Q27098 .
 
 real:c008626  skos:closeMatch  wd:Q199403 .
@@ -5787,6 +6125,8 @@ real:c030289  skos:closeMatch  wd:Q414 .
 real:c030921  skos:closeMatch  wd:Q327 .
 
 real:c011768  skos:closeMatch  wd:Q696715 .
+
+real:c002823  skos:closeMatch  wd:Q79995 .
 
 real:c013216  skos:closeMatch  wd:Q1124575 .
 
@@ -5809,6 +6149,8 @@ real:c004004  skos:closeMatch  wd:Q83303 .
 real:c010605  skos:closeMatch  wd:Q206202 .
 
 real:c006856  skos:closeMatch  wd:Q730573 .
+
+real:c004630  skos:closeMatch  wd:Q43648 .
 
 real:c003403  skos:closeMatch  wd:Q81225 .
 
@@ -5848,6 +6190,8 @@ real:c010180  skos:closeMatch  wd:Q519888 .
 
 real:c000485  skos:closeMatch  wd:Q16237489 .
 
+real:c006835  skos:closeMatch  wd:Q42262 .
+
 real:c002860  skos:closeMatch  wd:Q235352 .
 
 real:c010578  skos:closeMatch  wd:Q575890 .
@@ -5871,6 +6215,8 @@ real:c030390  skos:closeMatch  wd:Q80413 .
 real:c007500  skos:closeMatch  wd:Q167676 .
 
 real:c001548  skos:closeMatch  wd:Q1357 .
+
+real:c007494  skos:closeMatch  wd:Q25445 .
 
 real:c009243  skos:closeMatch  wd:Q16814 .
 
@@ -5906,6 +6252,8 @@ real:c009699  skos:closeMatch  wd:Q25565 .
 
 real:c002271  skos:closeMatch  wd:Q181354 .
 
+real:c010621  skos:closeMatch  wd:Q1503599 .
+
 real:c008621  skos:closeMatch  wd:Q309035 .
 
 real:c030284  skos:closeMatch  wd:Q244451 .
@@ -5925,6 +6273,8 @@ real:c007309  skos:closeMatch  wd:Q277614 .
 real:c003334  skos:closeMatch  wd:Q336191 .
 
 real:c012911  skos:closeMatch  wd:Q596252 .
+
+real:c030831  skos:closeMatch  wd:Q1204 .
 
 real:c007935  skos:closeMatch  wd:Q5042750 .
 
@@ -6004,6 +6354,8 @@ real:c008011  skos:closeMatch  wd:Q7218 .
 
 real:c030704  skos:closeMatch  wd:Q127598 .
 
+real:c030698  skos:closeMatch  wd:Q5451 .
+
 real:c003833  skos:closeMatch  wd:Q585302 .
 
 real:c012301  skos:closeMatch  wd:Q888122 .
@@ -6052,6 +6404,8 @@ real:c008929  skos:closeMatch  wd:Q138756 .
 
 real:c006703  skos:closeMatch  wd:Q1493218 .
 
+real:c012189  skos:closeMatch  wd:Q654 .
+
 real:c001495  skos:closeMatch  wd:Q191010 .
 
 real:c004471  skos:closeMatch  wd:Q419147 .
@@ -6076,7 +6430,11 @@ real:c012736  skos:closeMatch  wd:Q42196 .
 
 real:c030656  skos:closeMatch  wd:Q28134346 .
 
+real:c005534  skos:closeMatch  wd:Q200286 .
+
 real:c009509  skos:closeMatch  wd:Q6656244 .
+
+real:c007277  skos:closeMatch  wd:Q170744 .
 
 real:c003706  skos:closeMatch  wd:Q7195130 .
 
@@ -6180,6 +6538,8 @@ real:c030651  skos:closeMatch  wd:Q375754 .
 
 real:c009498  skos:closeMatch  wd:Q2826230 .
 
+real:c004302  skos:closeMatch  wd:Q181699 .
+
 real:c010903  skos:closeMatch  wd:Q3084232 .
 
 real:c013572  skos:closeMatch  wd:Q82811 .
@@ -6218,11 +6578,11 @@ real:c003048  skos:closeMatch  wd:Q3311537 .
 
 real:c004822  skos:closeMatch  wd:Q188463 .
 
-real:c011541  skos:closeMatch  wd:Q170430 .
-
 real:c001846  skos:closeMatch  wd:Q11409 .
 
 real:c001363  skos:closeMatch  wd:Q876690 .
+
+real:c003112  skos:closeMatch  wd:Q6005502 .
 
 real:c006082  skos:closeMatch  wd:Q25434 .
 
@@ -6252,6 +6612,8 @@ real:c010208  skos:closeMatch  wd:Q752171 .
 
 real:c006459  skos:closeMatch  wd:Q192637 .
 
+real:c030503  skos:closeMatch  wd:Q57864 .
+
 real:c001883  skos:closeMatch  wd:Q196823 .
 
 real:c012577  skos:closeMatch  wd:Q10886678 .
@@ -6259,6 +6621,8 @@ real:c012577  skos:closeMatch  wd:Q10886678 .
 real:c000656  skos:closeMatch  wd:Q202301 .
 
 real:c010749  skos:closeMatch  wd:Q18123741 .
+
+real:c030418  skos:closeMatch  wd:Q165608 .
 
 real:c008749  skos:closeMatch  wd:Q413 .
 
@@ -6289,6 +6653,8 @@ real:c002925  skos:closeMatch  wd:Q25522 .
 real:c005901  skos:closeMatch  wd:Q3926560 .
 
 real:c013318  skos:closeMatch  wd:Q864574 .
+
+real:c011387  skos:closeMatch  wd:Q402 .
 
 real:c013944  skos:closeMatch  wd:Q83357 .
 
@@ -6410,6 +6776,8 @@ real:c001210  skos:closeMatch  wd:Q126807 .
 
 real:c030933  skos:closeMatch  wd:Q917 .
 
+real:c030450  skos:closeMatch  wd:Q34600 .
+
 real:c012530  skos:closeMatch  wd:Q690578 .
 
 real:c013228  skos:closeMatch  wd:Q174726 .
@@ -6478,6 +6846,10 @@ real:c002310  skos:closeMatch  wd:Q1502822 .
 
 real:c010028  skos:closeMatch  wd:Q1713 .
 
+real:c030806  skos:closeMatch  wd:Q819 .
+
+real:c011881  skos:closeMatch  wd:Q8072 .
+
 real:c008028  skos:closeMatch  wd:Q124274 .
 
 real:c006911  skos:closeMatch  wd:Q64365 .
@@ -6493,6 +6865,8 @@ real:c013727  skos:closeMatch  wd:Q407212 .
 real:c008171  skos:closeMatch  wd:Q82682 .
 
 real:c012318  skos:closeMatch  wd:Q569 .
+
+real:c030238  skos:closeMatch  wd:Q50616 .
 
 real:c013062  skos:closeMatch  wd:Q7173 .
 
@@ -6511,6 +6885,10 @@ real:c006884  skos:closeMatch  wd:Q102205 .
 real:c030302  skos:closeMatch  wd:Q129677 .
 
 real:c008633  skos:closeMatch  wd:Q5413585 .
+
+real:c030296  skos:closeMatch  wd:Q1028 .
+
+real:c010150  skos:closeMatch  wd:Q1358604 .
 
 real:c005174  skos:closeMatch  wd:Q28813 .
 
@@ -6580,6 +6958,8 @@ real:c000413  skos:closeMatch  wd:Q210553 .
 
 real:c003383  skos:closeMatch  wd:Q127213 .
 
+real:c030880  skos:closeMatch  wd:Q2746097 .
+
 real:c002156  skos:closeMatch  wd:Q182722 .
 
 real:c007984  skos:closeMatch  wd:Q644997 .
@@ -6589,6 +6969,8 @@ real:c001555  skos:closeMatch  wd:Q5201397 .
 real:c008506  skos:closeMatch  wd:Q2752427 .
 
 real:c012249  skos:closeMatch  wd:Q9129 .
+
+real:c030795  skos:closeMatch  wd:Q2807 .
 
 real:c008023  skos:closeMatch  wd:Q133792 .
 
@@ -6618,11 +7000,15 @@ real:c001534  skos:closeMatch  wd:Q8038 .
 
 real:c008479  skos:closeMatch  wd:Q11402 .
 
+real:c013780  skos:closeMatch  wd:Q36293 .
+
 real:c006253  skos:closeMatch  wd:Q262547 .
 
 real:c012854  skos:closeMatch  wd:Q106345 .
 
 real:c011627  skos:closeMatch  wd:Q1639596 .
+
+real:c009627  skos:closeMatch  wd:Q176088 .
 
 real:c012371  skos:closeMatch  wd:Q1855 .
 
@@ -6708,9 +7094,9 @@ real:c000806  skos:closeMatch  wd:Q1141462 .
 
 real:c003776  skos:closeMatch  wd:Q4740894 .
 
-real:c002549  skos:closeMatch  wd:Q3882459 .
-
 real:c011017  skos:closeMatch  wd:Q669391 .
+
+real:c002066  skos:closeMatch  wd:Q181497 .
 
 real:c030790  skos:closeMatch  wd:Q484191 .
 
@@ -6805,6 +7191,8 @@ real:c012722  skos:closeMatch  wd:Q686881 .
 real:c030642  skos:closeMatch  wd:Q109140 .
 
 real:c001317  skos:closeMatch  wd:Q2305951 .
+
+real:c013563  skos:closeMatch  wd:Q7937 .
 
 real:c006036  skos:closeMatch  wd:Q173212 .
 
