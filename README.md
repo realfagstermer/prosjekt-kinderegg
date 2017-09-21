@@ -1,12 +1,11 @@
-# Prosjekt «Kinderegg»
+# Prosjekt Kinderegg
 
-Dette git-repoet inneheld data og status frå prosjekt Kinderegg på formatet SKOS-XL
-produsert av omsetjingsverktøyet [soksed](https://github.com/danmichaelo/soksed),
-samt statistikk.
+This repo contains data and stats from *Prosjekt Kinderegg* (the Kinder egg project),
+exported from the [soksed](https://github.com/danmichaelo/soksed) tool nightly whenever
+there are new changes.
 
-I prosjektet blir [Realfagstermer](https://github.com/realfagstermer/realfagstermer)
-kategorisert, omsett til engelsk og mappa til Wikdiata. Arbeidet byrja 20. februar 2017
-og vert gjort i samband med studentar.
+The Kinder egg project, started on 20 February 2017, is about increasing the value and usefulness of the [Realfagstermer](https://github.com/realfagstermer/realfagstermer) vocabulary by adding three things at the same time (thus the name): something good (translation of all terms to English), something to play with (categorization of concepts in disciplinary categories) and a surprise (mappings to Wikidata).
+For the mapping part, mappings are only established when there is a quite clear one-to-one relationship and all mappings are considered as `skos:closeMatch` at this point.
 
 [![Translation progress: terms](terms.png)](https://plot.ly/~danmichaelo/417/)
 
