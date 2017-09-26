@@ -1,1 +1,22 @@
-{}
+{
+  "REAL000023": {
+    "altLabel": [], 
+    "prefLabel": "Marxism"
+  }, 
+  "REAL001203": {
+    "altLabel": [
+      "Density"
+    ], 
+    "prefLabel": "Mass density"
+  }, 
+  "REAL031013": {
+    "altLabel": [], 
+    "prefLabel": "Mars"
+  }, 
+  "REAL030296": {
+    "altLabel": [
+      "Kingdom of Morocco"
+    ], 
+    "prefLabel": "Morocco"
+  }
+}
