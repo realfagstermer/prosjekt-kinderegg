@@ -7,13 +7,9 @@
     "altLabel": [], 
     "prefLabel": "Polysaccharides"
   }, 
-  "REAL030231": {
+  "REAL000331": {
     "altLabel": [], 
-    "prefLabel": "Poland"
-  }, 
-  "REAL030747": {
-    "altLabel": [], 
-    "prefLabel": "Paraguay"
+    "prefLabel": "Patients"
   }, 
   "REAL030744": {
     "altLabel": [], 
@@ -27,9 +23,9 @@
     "altLabel": [], 
     "prefLabel": "Plankton"
   }, 
-  "REAL030331": {
+  "REAL008365": {
     "altLabel": [], 
-    "prefLabel": "Rondane"
+    "prefLabel": "Placebo"
   }, 
   "REAL003899": {
     "altLabel": [], 
@@ -39,9 +35,9 @@
     "altLabel": [], 
     "prefLabel": "Pediatrics"
   }, 
-  "REAL010866": {
+  "REAL030231": {
     "altLabel": [], 
-    "prefLabel": "Particle acceleration"
+    "prefLabel": "Poland"
   }, 
   "REAL030272": {
     "altLabel": [], 
@@ -61,9 +57,9 @@
     "altLabel": [], 
     "prefLabel": "Oslofjord"
   }, 
-  "REAL004819": {
+  "REAL009816": {
     "altLabel": [], 
-    "prefLabel": "Spectrometry"
+    "prefLabel": "Plasmids"
   }, 
   "REAL002823": {
     "altLabel": [
@@ -71,13 +67,17 @@
     ], 
     "prefLabel": "Ozone layer"
   }, 
-  "REAL000331": {
+  "REAL010866": {
     "altLabel": [], 
-    "prefLabel": "Patients"
+    "prefLabel": "Particle acceleration"
   }, 
-  "REAL030387": {
+  "REAL030747": {
     "altLabel": [], 
-    "prefLabel": "Romerike"
+    "prefLabel": "Paraguay"
+  }, 
+  "REAL011548": {
+    "altLabel": [], 
+    "prefLabel": "Particles"
   }, 
   "REAL013391": {
     "altLabel": [], 
@@ -93,37 +93,37 @@
     "altLabel": [], 
     "prefLabel": "Pathology"
   }, 
-  "REAL008365": {
-    "altLabel": [], 
-    "prefLabel": "Placebo"
-  }, 
-  "REAL007086": {
-    "altLabel": [], 
-    "prefLabel": "Radioactive waste"
-  }, 
   "REAL003144": {
     "altLabel": [], 
     "prefLabel": "Python"
   }, 
-  "REAL010903": {
+  "REAL001246": {
     "altLabel": [], 
-    "prefLabel": "Polypeptides"
-  }, 
-  "REAL030575": {
-    "altLabel": [], 
-    "prefLabel": "Polynesia"
+    "prefLabel": "Quicksort"
   }, 
   "REAL007269": {
     "altLabel": [], 
     "prefLabel": "Pectins"
   }, 
+  "REAL007086": {
+    "altLabel": [], 
+    "prefLabel": "Radioactive waste"
+  }, 
+  "REAL030575": {
+    "altLabel": [], 
+    "prefLabel": "Polynesia"
+  }, 
+  "REAL030331": {
+    "altLabel": [], 
+    "prefLabel": "Rondane"
+  }, 
   "REAL030577": {
     "altLabel": [], 
     "prefLabel": "Paris"
   }, 
-  "REAL011548": {
+  "REAL030387": {
     "altLabel": [], 
-    "prefLabel": "Particles"
+    "prefLabel": "Romerike"
   }, 
   "REAL009464": {
     "altLabel": [], 
@@ -139,24 +139,24 @@
   }, 
   "REAL012828": {
     "altLabel": [
-      "Space trash", 
       "Space litter", 
+      "Space trash", 
       "Space waste", 
       "Space junk"
     ], 
     "prefLabel": "Space debris"
   }, 
-  "REAL009816": {
+  "REAL004819": {
     "altLabel": [], 
-    "prefLabel": "Plasmids"
-  }, 
-  "REAL001246": {
-    "altLabel": [], 
-    "prefLabel": "Quicksort"
+    "prefLabel": "Spectrometry"
   }, 
   "REAL002165": {
     "altLabel": [], 
     "prefLabel": "Pathogenic bacteria"
+  }, 
+  "REAL010903": {
+    "altLabel": [], 
+    "prefLabel": "Polypeptides"
   }, 
   "REAL004817": {
     "altLabel": [], 
