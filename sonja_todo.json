@@ -1,8 +1,4 @@
 {
-  "REAL002951": {
-    "altLabel": [], 
-    "prefLabel": "Pathogenic microorganisms"
-  }, 
   "REAL001216": {
     "altLabel": [], 
     "prefLabel": "Polysaccharides"
@@ -15,9 +11,9 @@
     "altLabel": [], 
     "prefLabel": "Rome"
   }, 
-  "REAL030499": {
+  "REAL010866": {
     "altLabel": [], 
-    "prefLabel": "Oxford"
+    "prefLabel": "Particle acceleration"
   }, 
   "REAL006302": {
     "altLabel": [], 
@@ -61,23 +57,23 @@
     "altLabel": [], 
     "prefLabel": "Plasmids"
   }, 
+  "REAL009464": {
+    "altLabel": [], 
+    "prefLabel": "Peptides"
+  }, 
   "REAL002823": {
     "altLabel": [
       "Ozone shield"
     ], 
     "prefLabel": "Ozone layer"
   }, 
-  "REAL010866": {
-    "altLabel": [], 
-    "prefLabel": "Particle acceleration"
-  }, 
   "REAL030747": {
     "altLabel": [], 
     "prefLabel": "Paraguay"
   }, 
-  "REAL011548": {
+  "REAL030387": {
     "altLabel": [], 
-    "prefLabel": "Particles"
+    "prefLabel": "Romerike"
   }, 
   "REAL013391": {
     "altLabel": [], 
@@ -88,6 +84,10 @@
       "Spacecraft"
     ], 
     "prefLabel": "Spacecrafts"
+  }, 
+  "REAL030499": {
+    "altLabel": [], 
+    "prefLabel": "Oxford"
   }, 
   "REAL006404": {
     "altLabel": [], 
@@ -105,9 +105,9 @@
     "altLabel": [], 
     "prefLabel": "Pectins"
   }, 
-  "REAL007086": {
+  "REAL010903": {
     "altLabel": [], 
-    "prefLabel": "Radioactive waste"
+    "prefLabel": "Polypeptides"
   }, 
   "REAL030575": {
     "altLabel": [], 
@@ -121,13 +121,17 @@
     "altLabel": [], 
     "prefLabel": "Paris"
   }, 
-  "REAL030387": {
+  "REAL011548": {
     "altLabel": [], 
-    "prefLabel": "Romerike"
+    "prefLabel": "Particles"
   }, 
-  "REAL009464": {
+  "REAL007086": {
     "altLabel": [], 
-    "prefLabel": "Peptides"
+    "prefLabel": "Radioactive waste"
+  }, 
+  "REAL002951": {
+    "altLabel": [], 
+    "prefLabel": "Pathogenic microorganisms"
   }, 
   "REAL012022": {
     "altLabel": [], 
@@ -139,9 +143,9 @@
   }, 
   "REAL012828": {
     "altLabel": [
-      "Space litter", 
-      "Space trash", 
       "Space waste", 
+      "Space trash", 
+      "Space litter", 
       "Space junk"
     ], 
     "prefLabel": "Space debris"
@@ -153,10 +157,6 @@
   "REAL002165": {
     "altLabel": [], 
     "prefLabel": "Pathogenic bacteria"
-  }, 
-  "REAL010903": {
-    "altLabel": [], 
-    "prefLabel": "Polypeptides"
   }, 
   "REAL004817": {
     "altLabel": [], 
