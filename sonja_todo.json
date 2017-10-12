@@ -1,1 +1,35 @@
-{}
+{
+  "REAL001473": {
+    "altLabel": [], 
+    "prefLabel": "Energy budget"
+  }, 
+  "REAL010112": {
+    "altLabel": [], 
+    "prefLabel": "Residential areas"
+  }, 
+  "REAL008678": {
+    "altLabel": [
+      "Copepoda"
+    ], 
+    "prefLabel": "Copepods"
+  }, 
+  "REAL002854": {
+    "altLabel": [
+      "Jellies", 
+      "Jellyfishes"
+    ], 
+    "prefLabel": "Jellyfish"
+  }, 
+  "REAL000547": {
+    "altLabel": [
+      "Floriography"
+    ], 
+    "prefLabel": "Language of flowers"
+  }, 
+  "REAL009689": {
+    "altLabel": [
+      "Marine Copepoda"
+    ], 
+    "prefLabel": "Marine copepods"
+  }
+}
