@@ -1,1 +1,46 @@
-{}
+{
+  "REAL007514": {
+    "altLabel": [], 
+    "prefLabel": "Leptons"
+  }, 
+  "REAL007346": {
+    "altLabel": [
+      "LIght Detection And Ranging"
+    ], 
+    "prefLabel": "LIDAR"
+  }, 
+  "REAL012305": {
+    "altLabel": [], 
+    "prefLabel": "Neogene"
+  }, 
+  "REAL012023": {
+    "altLabel": [], 
+    "prefLabel": "Supramolecular systems"
+  }, 
+  "REAL003314": {
+    "altLabel": [], 
+    "prefLabel": "Wolf\u2013Rayet stars"
+  }, 
+  "REAL002017": {
+    "altLabel": [], 
+    "prefLabel": "Naphthenic acids"
+  }, 
+  "REAL012048": {
+    "altLabel": [
+      "Neoproterozoic Era"
+    ], 
+    "prefLabel": "Neoproterozoic"
+  }, 
+  "REAL007603": {
+    "altLabel": [], 
+    "prefLabel": "Querelle"
+  }, 
+  "REAL008801": {
+    "altLabel": [], 
+    "prefLabel": "Lava"
+  }, 
+  "REAL010145": {
+    "altLabel": [], 
+    "prefLabel": "Natural gas"
+  }
+}
