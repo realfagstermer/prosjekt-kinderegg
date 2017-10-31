@@ -11,3 +11,5 @@ For the mapping part, mappings are only established when there is a quite clear 
 
 [![Translation progress: concept status](concepts.png)](https://plot.ly/~danmichaelo/419/)
 
+[![Translation progress: percentage](concepts_percentage.png)](https://plot.ly/~danmichaelo/421/)
+
