@@ -1,1 +1,40 @@
-{}
+{
+  "REAL001334": {
+    "altLabel": [], 
+    "prefLabel": "Carinae"
+  }, 
+  "REAL001881": {
+    "altLabel": [], 
+    "prefLabel": "Excursions"
+  }, 
+  "REAL000436": {
+    "altLabel": [], 
+    "prefLabel": "Proper motion"
+  }, 
+  "REAL009083": {
+    "altLabel": [], 
+    "prefLabel": "Popular astronomy"
+  }, 
+  "REAL009976": {
+    "altLabel": [], 
+    "prefLabel": "Astronomical cuneiform texts"
+  }, 
+  "REAL000676": {
+    "altLabel": [], 
+    "prefLabel": "History of books"
+  }, 
+  "REAL030086": {
+    "altLabel": [
+      "Star maps", 
+      "Star atlases", 
+      "Celestial maps", 
+      "Celestial charts", 
+      "Star charts"
+    ], 
+    "prefLabel": "Celestial atlases"
+  }, 
+  "REAL005779": {
+    "altLabel": [], 
+    "prefLabel": "Extremities"
+  }
+}
