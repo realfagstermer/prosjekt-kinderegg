@@ -1,1 +1,22 @@
-{}
+{
+  "REAL008969": {
+    "altLabel": [], 
+    "prefLabel": "Electron transport"
+  }, 
+  "REAL006158": {
+    "altLabel": [], 
+    "prefLabel": "Rings"
+  }, 
+  "REAL009698": {
+    "altLabel": [], 
+    "prefLabel": "Humic acids"
+  }, 
+  "REAL000133": {
+    "altLabel": [], 
+    "prefLabel": "Ionomers"
+  }, 
+  "REAL011613": {
+    "altLabel": [], 
+    "prefLabel": "Riemannian manifolds"
+  }
+}
