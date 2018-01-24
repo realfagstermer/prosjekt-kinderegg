@@ -1,14 +1,6 @@
 {
-  "REAL008532": {
+  "REAL009202": {
     "altLabel": [], 
-    "prefLabel": "Acoustic methods"
-  }, 
-  "REAL005607": {
-    "altLabel": [], 
-    "prefLabel": "Arctic seas"
-  }, 
-  "REAL007016": {
-    "altLabel": [], 
-    "prefLabel": "Arctic vegetation"
+    "prefLabel": "Vector architecture"
   }
 }
