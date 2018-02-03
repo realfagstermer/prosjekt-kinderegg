@@ -1,1 +1,24 @@
-{}
+{
+  "REAL004677": {
+    "altLabel": [
+      "Heliocentric theory"
+    ], 
+    "prefLabel": "Heliocentrism"
+  }, 
+  "REAL008025": {
+    "altLabel": [
+      "Broodiness"
+    ], 
+    "prefLabel": "Brooding"
+  }, 
+  "REAL007474": {
+    "altLabel": [], 
+    "prefLabel": "Living fossils"
+  }, 
+  "REAL031441": {
+    "altLabel": [
+      "Coal power stations"
+    ], 
+    "prefLabel": "Coal power plants"
+  }
+}
