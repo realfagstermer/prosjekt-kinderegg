@@ -1,1 +1,154 @@
-{}
+{
+  "REAL003812": {
+    "altLabel": [], 
+    "prefLabel": "Mica minerals"
+  }, 
+  "REAL001990": {
+    "altLabel": [
+      "Mining history"
+    ], 
+    "prefLabel": "History of mining"
+  }, 
+  "REAL007532": {
+    "altLabel": [
+      "Pits"
+    ], 
+    "prefLabel": "Mines"
+  }, 
+  "REAL002737": {
+    "altLabel": [], 
+    "prefLabel": "Isotope analysis"
+  }, 
+  "REAL006654": {
+    "altLabel": [
+      "History of industry"
+    ], 
+    "prefLabel": "Industrial history"
+  }, 
+  "REAL003071": {
+    "altLabel": [], 
+    "prefLabel": "Gypsum occurrences"
+  }, 
+  "REAL011612": {
+    "altLabel": [], 
+    "prefLabel": "Dinophyceaes"
+  }, 
+  "REAL008788": {
+    "altLabel": [], 
+    "prefLabel": "Core samples"
+  }, 
+  "REAL008575": {
+    "altLabel": [], 
+    "prefLabel": "Hornblende"
+  }, 
+  "REAL011733": {
+    "altLabel": [], 
+    "prefLabel": "Coccoliths"
+  }, 
+  "REAL002478": {
+    "altLabel": [], 
+    "prefLabel": "Industrial minerals"
+  }, 
+  "REAL005819": {
+    "altLabel": [], 
+    "prefLabel": "Continental rocks"
+  }, 
+  "REAL005951": {
+    "altLabel": [
+      "Antielectrons"
+    ], 
+    "prefLabel": "Positrons"
+  }, 
+  "REAL001039": {
+    "altLabel": [], 
+    "prefLabel": "Seafloor spreading"
+  }, 
+  "REAL004632": {
+    "altLabel": [], 
+    "prefLabel": "Solifluction"
+  }, 
+  "REAL008313": {
+    "altLabel": [], 
+    "prefLabel": "Groundwater flow"
+  }, 
+  "REAL007445": {
+    "altLabel": [], 
+    "prefLabel": "Dwarf novae"
+  }, 
+  "REAL006093": {
+    "altLabel": [], 
+    "prefLabel": "Cheating"
+  }, 
+  "REAL009654": {
+    "altLabel": [
+      "Granulite facies"
+    ], 
+    "prefLabel": "Granulites"
+  }, 
+  "REAL005480": {
+    "altLabel": [], 
+    "prefLabel": "Source rocks"
+  }, 
+  "REAL009535": {
+    "altLabel": [
+      "Lacustrine sediments"
+    ], 
+    "prefLabel": "Lake sediments"
+  }, 
+  "REAL011802": {
+    "altLabel": [], 
+    "prefLabel": "Continental slope"
+  }, 
+  "REAL007146": {
+    "altLabel": [
+      "Energy efficiency", 
+      "Efficient energy use", 
+      "Energy-saving"
+    ], 
+    "prefLabel": "Energy conservation"
+  }, 
+  "REAL005625": {
+    "altLabel": [
+      "Foundation"
+    ], 
+    "prefLabel": "Foundation engineering"
+  }, 
+  "REAL000456": {
+    "altLabel": [], 
+    "prefLabel": "Conodonts"
+  }, 
+  "REAL013442": {
+    "altLabel": [], 
+    "prefLabel": "Pseudoscience"
+  }, 
+  "REAL000888": {
+    "altLabel": [
+      "Ground heating"
+    ], 
+    "prefLabel": "Ground source heating"
+  }, 
+  "REAL002870": {
+    "altLabel": [], 
+    "prefLabel": "Konnerud Mines"
+  }, 
+  "REAL002507": {
+    "altLabel": [], 
+    "prefLabel": "Kettles"
+  }, 
+  "REAL008850": {
+    "altLabel": [], 
+    "prefLabel": "Chemical weathering"
+  }, 
+  "REAL003690": {
+    "altLabel": [], 
+    "prefLabel": "Soil erosion"
+  }, 
+  "REAL011570": {
+    "altLabel": [], 
+    "prefLabel": "Karst"
+  }, 
+  "REAL005880": {
+    "altLabel": [], 
+    "prefLabel": "Glacial processes"
+  }
+}
