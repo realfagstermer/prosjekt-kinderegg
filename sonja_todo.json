@@ -1,271 +1,127 @@
 {
-  "REAL008560": {
-    "altLabel": [], 
-    "prefLabel": "Classification schemes"
-  }, 
-  "REAL004864": {
-    "altLabel": [], 
-    "prefLabel": "Cosmic dust"
-  }, 
-  "REAL002948": {
+  "REAL010024": {
     "altLabel": [
-      "Manganese(IV) oxide"
+      "Oil history"
     ], 
-    "prefLabel": "Manganese dioxide"
+    "prefLabel": "Petroleum history"
   }, 
-  "REAL000027": {
+  "REAL011490": {
     "altLabel": [], 
-    "prefLabel": "Document Style Semantics and Specification Language"
+    "prefLabel": "Marine carbonates"
   }, 
-  "REAL012566": {
+  "REAL010925": {
+    "altLabel": [], 
+    "prefLabel": "Metamorphic processes"
+  }, 
+  "REAL011591": {
     "altLabel": [
-      "Oil extraction", 
-      "Extraction of petroleum"
+      "Chemistry teaching", 
+      "Teaching chemistry"
     ], 
-    "prefLabel": "Petroleum extraction"
+    "prefLabel": null
   }, 
-  "REAL001235": {
+  "REAL011136": {
     "altLabel": [], 
-    "prefLabel": "Quality of life"
+    "prefLabel": "Marine installations"
   }, 
-  "REAL011130": {
+  "REAL001024": {
     "altLabel": [], 
-    "prefLabel": "Optical crystallography"
+    "prefLabel": "Soil"
   }, 
-  "REAL000022": {
+  "REAL006419": {
     "altLabel": [], 
-    "prefLabel": "Surface representation"
+    "prefLabel": "Algebraic varieties"
   }, 
-  "REAL013490": {
+  "REAL011935": {
     "altLabel": [], 
-    "prefLabel": "Natural history"
+    "prefLabel": "Mineral chemistry"
   }, 
-  "REAL005495": {
+  "REAL005146": {
+    "altLabel": [], 
+    "prefLabel": "Microfossils"
+  }, 
+  "REAL005165": {
+    "altLabel": [], 
+    "prefLabel": "Ores"
+  }, 
+  "REAL004300": {
+    "altLabel": [], 
+    "prefLabel": "Microtectonics"
+  }, 
+  "REAL007357": {
+    "altLabel": [], 
+    "prefLabel": "Ore minerals"
+  }, 
+  "REAL003426": {
     "altLabel": [
-      "Oil resources"
+      "Mineral exploration"
     ], 
-    "prefLabel": "Petroleum resources"
+    "prefLabel": "Mineral prospecting"
   }, 
-  "REAL002842": {
+  "REAL006878": {
     "altLabel": [], 
-    "prefLabel": "Marine physiology"
+    "prefLabel": "Marine sedimentology"
   }, 
-  "REAL003957": {
+  "REAL009963": {
     "altLabel": [], 
-    "prefLabel": "Calcium compounds"
+    "prefLabel": "Geography teaching"
   }, 
-  "REAL010963": {
-    "altLabel": [], 
-    "prefLabel": "Borehole data"
-  }, 
-  "REAL012013": {
+  "REAL008983": {
     "altLabel": [
-      "Oil economics"
+      "Geothermal energy", 
+      "Geothermal technology", 
+      "Geothermal heat"
     ], 
-    "prefLabel": "Petroleum economics"
+    "prefLabel": "Geothermics"
   }, 
-  "REAL001045": {
+  "REAL005545": {
     "altLabel": [], 
-    "prefLabel": "Carbonate rocks"
+    "prefLabel": "Mineral physics"
   }, 
-  "REAL005718": {
+  "REAL001034": {
     "altLabel": [], 
-    "prefLabel": "Environmental crimes"
+    "prefLabel": "Mineral formation"
   }, 
-  "REAL011580": {
+  "REAL005378": {
+    "altLabel": [], 
+    "prefLabel": "Microfacies"
+  }, 
+  "REAL000362": {
+    "altLabel": [], 
+    "prefLabel": "Environmental policy"
+  }, 
+  "REAL004312": {
     "altLabel": [
-      "Oil policy"
+      "Ore prospecting"
     ], 
-    "prefLabel": "Petroleum policy"
+    "prefLabel": "Ore exploration"
   }, 
-  "REAL003227": {
+  "REAL004454": {
     "altLabel": [], 
-    "prefLabel": "Carbon isotopes"
+    "prefLabel": "Environmental technology"
   }, 
-  "REAL006959": {
+  "REAL008407": {
     "altLabel": [], 
-    "prefLabel": "Marine animal life"
+    "prefLabel": "Subsidence"
   }, 
-  "REAL001801": {
+  "REAL008911": {
     "altLabel": [], 
-    "prefLabel": "Building materials"
+    "prefLabel": "Classroom teaching"
   }, 
-  "REAL013435": {
+  "REAL031950": {
     "altLabel": [], 
-    "prefLabel": "Conflicts"
+    "prefLabel": "Titan (moon)"
   }, 
-  "REAL006814": {
+  "REAL013898": {
     "altLabel": [], 
-    "prefLabel": "Oil shales"
+    "prefLabel": "Mathematical methods"
   }, 
-  "REAL004862": {
+  "REAL001725": {
     "altLabel": [], 
-    "prefLabel": "Canals"
+    "prefLabel": "Metallogenesis"
   }, 
-  "REAL003930": {
+  "REAL011846": {
     "altLabel": [], 
-    "prefLabel": "Conductometry"
-  }, 
-  "REAL000569": {
-    "altLabel": [], 
-    "prefLabel": "Kac\u2013Moody groups"
-  }, 
-  "REAL007078": {
-    "altLabel": [], 
-    "prefLabel": "Z-transforms"
-  }, 
-  "REAL012565": {
-    "altLabel": [], 
-    "prefLabel": "Petroleum industry"
-  }, 
-  "REAL011540": {
-    "altLabel": [], 
-    "prefLabel": "Conglomerates"
-  }, 
-  "REAL003715": {
-    "altLabel": [
-      "Vesica urinaria"
-    ], 
-    "prefLabel": "Urinary bladder"
-  }, 
-  "REAL007918": {
-    "altLabel": [], 
-    "prefLabel": "Mineral extraction"
-  }, 
-  "REAL002026": {
-    "altLabel": [], 
-    "prefLabel": "Capital markets"
-  }, 
-  "REAL004306": {
-    "altLabel": [
-      "Oil well drilling"
-    ], 
-    "prefLabel": "Oil drilling"
-  }, 
-  "REAL001934": {
-    "altLabel": [], 
-    "prefLabel": "Climate data"
-  }, 
-  "REAL009948": {
-    "altLabel": [], 
-    "prefLabel": "Glacial hydrology"
-  }, 
-  "REAL008234": {
-    "altLabel": [], 
-    "prefLabel": "Matrix norms"
-  }, 
-  "REAL002496": {
-    "altLabel": [], 
-    "prefLabel": "Numerical modeling"
-  }, 
-  "REAL010065": {
-    "altLabel": [], 
-    "prefLabel": "Cages"
-  }, 
-  "REAL003840": {
-    "altLabel": [], 
-    "prefLabel": "Maple"
-  }, 
-  "REAL010050": {
-    "altLabel": [], 
-    "prefLabel": "Livestock"
-  }, 
-  "REAL011645": {
-    "altLabel": [], 
-    "prefLabel": "Copper mines"
-  }, 
-  "REAL013469": {
-    "altLabel": [
-      "Oil pollution"
-    ], 
-    "prefLabel": "Oil spills"
-  }, 
-  "REAL001403": {
-    "altLabel": [], 
-    "prefLabel": "Erlang"
-  }, 
-  "REAL005998": {
-    "altLabel": [], 
-    "prefLabel": "Interstellar medium"
-  }, 
-  "REAL001645": {
-    "altLabel": [], 
-    "prefLabel": "Marine geology"
-  }, 
-  "REAL009550": {
-    "altLabel": [], 
-    "prefLabel": "Borehole evaluation"
-  }, 
-  "REAL009325": {
-    "altLabel": [
-      "Oil traps"
-    ], 
-    "prefLabel": "Petroleum traps"
-  }, 
-  "REAL006921": {
-    "altLabel": [], 
-    "prefLabel": "Ophiolites"
-  }, 
-  "REAL011454": {
-    "altLabel": [], 
-    "prefLabel": "Mineral resources"
-  }, 
-  "REAL010083": {
-    "altLabel": [], 
-    "prefLabel": "Deadlocks"
-  }, 
-  "REAL013441": {
-    "altLabel": [], 
-    "prefLabel": "Quantum theory"
-  }, 
-  "REAL002686": {
-    "altLabel": [], 
-    "prefLabel": "Microquasars"
-  }, 
-  "REAL009186": {
-    "altLabel": [], 
-    "prefLabel": "Natural resources"
-  }, 
-  "REAL011866": {
-    "altLabel": [], 
-    "prefLabel": "Breccias"
-  }, 
-  "REAL004769": {
-    "altLabel": [
-      "China clay"
-    ], 
-    "prefLabel": "Kaolin"
-  }, 
-  "REAL009878": {
-    "altLabel": [
-      "Ocean chemistry"
-    ], 
-    "prefLabel": "Marine chemistry"
-  }, 
-  "REAL004708": {
-    "altLabel": [], 
-    "prefLabel": "Rheumatoid arthritis"
-  }, 
-  "REAL005946": {
-    "altLabel": [], 
-    "prefLabel": "Optical mineralogy"
-  }, 
-  "REAL009819": {
-    "altLabel": [], 
-    "prefLabel": "Cambro-Silurian"
-  }, 
-  "REAL002624": {
-    "altLabel": [], 
-    "prefLabel": "Concert halls"
-  }, 
-  "REAL010309": {
-    "altLabel": [
-      "Videotelephony"
-    ], 
-    "prefLabel": "Videoconferencing"
-  }, 
-  "REAL001678": {
-    "altLabel": [], 
-    "prefLabel": "Coordinate systems"
+    "prefLabel": "Metamorphism"
   }
 }
