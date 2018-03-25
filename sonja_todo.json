@@ -1,1 +1,30 @@
-{}
+{
+  "REAL003438": {
+    "altLabel": [], 
+    "prefLabel": "Ruby"
+  }, 
+  "REAL001543": {
+    "altLabel": [], 
+    "prefLabel": "Sunspots"
+  }, 
+  "REAL006556": {
+    "altLabel": [], 
+    "prefLabel": "Satellite communication"
+  }, 
+  "REAL012012": {
+    "altLabel": [], 
+    "prefLabel": "Zinc oxide"
+  }, 
+  "REAL007562": {
+    "altLabel": [], 
+    "prefLabel": "Scala"
+  }, 
+  "REAL002634": {
+    "altLabel": [], 
+    "prefLabel": "Social relations"
+  }, 
+  "REAL009384": {
+    "altLabel": [], 
+    "prefLabel": "Groupoids"
+  }
+}
