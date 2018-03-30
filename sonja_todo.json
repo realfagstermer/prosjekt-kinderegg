@@ -1,1 +1,110 @@
-{}
+{
+  "REAL001207": {
+    "altLabel": [], 
+    "prefLabel": "Interstellar molecules"
+  }, 
+  "REAL002492": {
+    "altLabel": [], 
+    "prefLabel": "Solar energy"
+  }, 
+  "REAL010678": {
+    "altLabel": [], 
+    "prefLabel": "Turbines"
+  }, 
+  "REAL000115": {
+    "altLabel": [], 
+    "prefLabel": "L-systems"
+  }, 
+  "REAL012874": {
+    "altLabel": [
+      "Psychological tests"
+    ], 
+    "prefLabel": "Psychometrics"
+  }, 
+  "REAL010140": {
+    "altLabel": [], 
+    "prefLabel": "Textile art"
+  }, 
+  "REAL000056": {
+    "altLabel": [], 
+    "prefLabel": "Signal theory"
+  }, 
+  "REAL000121": {
+    "altLabel": [
+      "Classical novae", 
+      "Novas", 
+      "Classical novas"
+    ], 
+    "prefLabel": "Novae"
+  }, 
+  "REAL000989": {
+    "altLabel": [
+      "X-ray spectra", 
+      "X-ray spectrometry", 
+      "Roentgen spectroscopy", 
+      "Roentgen spectrometry"
+    ], 
+    "prefLabel": "X-ray spectroscopy"
+  }, 
+  "REAL003615": {
+    "altLabel": [
+      "Lab reactors", 
+      "Reactors (chemistry)"
+    ], 
+    "prefLabel": "Chemical reactors"
+  }, 
+  "REAL000239": {
+    "altLabel": [], 
+    "prefLabel": "SPARC"
+  }, 
+  "REAL001923": {
+    "altLabel": [], 
+    "prefLabel": "Seal hunting"
+  }, 
+  "REAL000359": {
+    "altLabel": [
+      "Protective coloration"
+    ], 
+    "prefLabel": "Camouflage"
+  }, 
+  "REAL001777": {
+    "altLabel": [], 
+    "prefLabel": "Cochlea"
+  }, 
+  "REAL000054": {
+    "altLabel": [
+      "Comparative method", 
+      "Comparative surveys", 
+      "Comparative studies"
+    ], 
+    "prefLabel": "Comparative research"
+  }, 
+  "REAL008225": {
+    "altLabel": [
+      "Timberlines"
+    ], 
+    "prefLabel": "Forest lines"
+  }, 
+  "REAL000293": {
+    "altLabel": [], 
+    "prefLabel": "Neurofibromatosis"
+  }, 
+  "REAL001640": {
+    "altLabel": [], 
+    "prefLabel": "Autecology"
+  }, 
+  "REAL012861": {
+    "altLabel": [], 
+    "prefLabel": "Interstellar amino acids"
+  }, 
+  "REAL000302": {
+    "altLabel": [
+      "Reconnaissance satellites"
+    ], 
+    "prefLabel": "Satellite surveillance"
+  }, 
+  "REAL000379": {
+    "altLabel": [], 
+    "prefLabel": "Philosophy of language"
+  }
+}
