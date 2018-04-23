@@ -9,6 +9,8 @@ For the mapping part, mappings are only established when there is a quite clear 
 
 [![Translation progress: terms](terms.png)](https://plot.ly/~danmichaelo/417/)
 
+Note: The bump in March 2018 is due to removal of deprecated concepts from the counting.
+
 [![Translation progress: concept status](concepts.png)](https://plot.ly/~danmichaelo/419/)
 
 [![Translation progress: percentage](concepts_percentage.png)](https://plot.ly/~danmichaelo/421/)
