@@ -15,12 +15,9 @@
     "altLabel": [], 
     "prefLabel": "Anadromous fishes"
   }, 
-  "REAL003118": {
-    "altLabel": [
-      "Thermoelectric effect", 
-      "Seebeck effect"
-    ], 
-    "prefLabel": "Thermoelectricity"
+  "REAL007622": {
+    "altLabel": [], 
+    "prefLabel": "Diencephalon"
   }, 
   "REAL000868": {
     "altLabel": [], 
@@ -74,9 +71,12 @@
     "altLabel": [], 
     "prefLabel": "Anadromy"
   }, 
-  "REAL007622": {
-    "altLabel": [], 
-    "prefLabel": "Diencephalon"
+  "REAL003118": {
+    "altLabel": [
+      "Thermoelectric effect", 
+      "Seebeck effect"
+    ], 
+    "prefLabel": "Thermoelectricity"
   }, 
   "REAL007739": {
     "altLabel": [], 
