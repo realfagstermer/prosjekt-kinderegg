@@ -1,7 +1,7 @@
 {
-  "REAL000868": {
+  "REAL002602": {
     "altLabel": [], 
-    "prefLabel": "Elf fire"
+    "prefLabel": "Medical physiology"
   }, 
   "REAL011496": {
     "altLabel": [], 
@@ -15,16 +15,13 @@
     "altLabel": [], 
     "prefLabel": "Anadromous fishes"
   }, 
-  "REAL003118": {
-    "altLabel": [
-      "Seebeck effect", 
-      "Thermoelectric effect"
-    ], 
-    "prefLabel": "Thermoelectricity"
-  }, 
-  "REAL002602": {
+  "REAL007622": {
     "altLabel": [], 
-    "prefLabel": "Medical physiology"
+    "prefLabel": "Diencephalon"
+  }, 
+  "REAL000868": {
+    "altLabel": [], 
+    "prefLabel": "Elf fire"
   }, 
   "REAL007053": {
     "altLabel": [], 
@@ -74,9 +71,12 @@
     "altLabel": [], 
     "prefLabel": "Anadromy"
   }, 
-  "REAL007622": {
-    "altLabel": [], 
-    "prefLabel": "Diencephalon"
+  "REAL003118": {
+    "altLabel": [
+      "Seebeck effect", 
+      "Thermoelectric effect"
+    ], 
+    "prefLabel": "Thermoelectricity"
   }, 
   "REAL007739": {
     "altLabel": [], 
