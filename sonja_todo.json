@@ -1,7 +1,7 @@
 {
-  "REAL000868": {
+  "REAL002602": {
     "altLabel": [], 
-    "prefLabel": "Elf fire"
+    "prefLabel": "Medical physiology"
   }, 
   "REAL011496": {
     "altLabel": [], 
@@ -38,9 +38,9 @@
     ], 
     "prefLabel": "Metal sulfides"
   }, 
-  "REAL002602": {
+  "REAL000868": {
     "altLabel": [], 
-    "prefLabel": "Medical physiology"
+    "prefLabel": "Elf fire"
   }, 
   "REAL007053": {
     "altLabel": [], 
@@ -90,10 +90,6 @@
     "altLabel": [], 
     "prefLabel": "Bildung"
   }, 
-  "REAL007622": {
-    "altLabel": [], 
-    "prefLabel": "Diencephalon"
-  }, 
   "REAL001095": {
     "altLabel": [
       "Ageing experiments"
@@ -112,9 +108,9 @@
     "altLabel": [], 
     "prefLabel": "Nanophotonics"
   }, 
-  "REAL010039": {
+  "REAL007622": {
     "altLabel": [], 
-    "prefLabel": "Moons"
+    "prefLabel": "Diencephalon"
   }, 
   "REAL007739": {
     "altLabel": [], 
@@ -136,25 +132,25 @@
     ], 
     "prefLabel": "LR parsing"
   }, 
-  "REAL000451": {
+  "REAL009441": {
     "altLabel": [], 
-    "prefLabel": "Planetariums"
+    "prefLabel": "Amniotes"
   }, 
   "REAL009537": {
     "altLabel": [], 
     "prefLabel": "Vaccination"
   }, 
-  "REAL006511": {
+  "REAL010039": {
     "altLabel": [], 
-    "prefLabel": "Natural history museums"
+    "prefLabel": "Moons"
   }, 
   "REAL031970": {
     "altLabel": [], 
     "prefLabel": "Road trips"
   }, 
-  "REAL009441": {
+  "REAL000451": {
     "altLabel": [], 
-    "prefLabel": "Amniotes"
+    "prefLabel": "Planetariums"
   }, 
   "REAL008421": {
     "altLabel": [], 
@@ -171,6 +167,10 @@
   "REAL004974": {
     "altLabel": [], 
     "prefLabel": "Nanoelectronics"
+  }, 
+  "REAL006511": {
+    "altLabel": [], 
+    "prefLabel": "Natural history museums"
   }, 
   "REAL004910": {
     "altLabel": [
