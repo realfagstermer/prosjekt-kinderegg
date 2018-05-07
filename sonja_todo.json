@@ -7,9 +7,11 @@
     "altLabel": [], 
     "prefLabel": "Anaerobic fungi"
   }, 
-  "REAL006587": {
-    "altLabel": [], 
-    "prefLabel": "Turing test"
+  "REAL011150": {
+    "altLabel": [
+      "Isoprenoids"
+    ], 
+    "prefLabel": "Terpenoids"
   }, 
   "REAL010044": {
     "altLabel": [], 
@@ -58,11 +60,9 @@
     "altLabel": [], 
     "prefLabel": "Quantum cosmology"
   }, 
-  "REAL011150": {
-    "altLabel": [
-      "Isoprenoids"
-    ], 
-    "prefLabel": "Terpenoids"
+  "REAL006587": {
+    "altLabel": [], 
+    "prefLabel": "Turing test"
   }, 
   "REAL009090": {
     "altLabel": [
@@ -99,6 +99,10 @@
   "REAL004633": {
     "altLabel": [], 
     "prefLabel": "Peroxides"
+  }, 
+  "REAL010039": {
+    "altLabel": [], 
+    "prefLabel": "Moons"
   }, 
   "REAL010833": {
     "altLabel": [], 
@@ -140,9 +144,9 @@
     "altLabel": [], 
     "prefLabel": "Vaccination"
   }, 
-  "REAL010039": {
+  "REAL006511": {
     "altLabel": [], 
-    "prefLabel": "Moons"
+    "prefLabel": "Natural history museums"
   }, 
   "REAL031970": {
     "altLabel": [], 
@@ -167,10 +171,6 @@
   "REAL004974": {
     "altLabel": [], 
     "prefLabel": "Nanoelectronics"
-  }, 
-  "REAL006511": {
-    "altLabel": [], 
-    "prefLabel": "Natural history museums"
   }, 
   "REAL004910": {
     "altLabel": [
