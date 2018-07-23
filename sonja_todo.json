@@ -1,1 +1,222 @@
-{}
+{
+  "REAL005465": {
+    "prefLabel": "Animal welfare",
+    "altLabel": [
+      "Animal rights",
+      "Animal protection"
+    ]
+  },
+  "REAL013721": {
+    "prefLabel": "Genetically modified plants",
+    "altLabel": []
+  },
+  "REAL008136": {
+    "prefLabel": "Organofluorine compounds",
+    "altLabel": [
+      "Organofluorine chemistry",
+      "Organofluorines"
+    ]
+  },
+  "REAL008646": {
+    "prefLabel": "Zoonoses",
+    "altLabel": []
+  },
+  "REAL005331": {
+    "prefLabel": "Optical microscopy",
+    "altLabel": [
+      "Light microscopy"
+    ]
+  },
+  "REAL008230": {
+    "prefLabel": "Genetic recombination",
+    "altLabel": [
+      "Recombination",
+      "Genetic reshuffling"
+    ]
+  },
+  "REAL012269": {
+    "prefLabel": "Lagrangian points",
+    "altLabel": []
+  },
+  "REAL011758": {
+    "prefLabel": "Chemoreceptors",
+    "altLabel": [
+      "Chemical receptors",
+      "Chemosensors"
+    ]
+  },
+  "REAL002730": {
+    "prefLabel": "Organoantimony compounds",
+    "altLabel": [
+      "Organoantimony chemistry"
+    ]
+  },
+  "REAL003634": {
+    "prefLabel": "Inflation theory",
+    "altLabel": [
+      "Inflationary cosmology",
+      "Cosmic inflation"
+    ]
+  },
+  "REAL003534": {
+    "prefLabel": "Hanle effect",
+    "altLabel": []
+  },
+  "REAL009543": {
+    "prefLabel": "Organonickel compounds",
+    "altLabel": [
+      "Organonickel chemistry"
+    ]
+  },
+  "REAL011225": {
+    "prefLabel": "Organocopper compounds",
+    "altLabel": [
+      "Organic copper compunds",
+      "Organocopper chemistry"
+    ]
+  },
+  "REAL003112": {
+    "prefLabel": "Immunocytochemistry",
+    "altLabel": [
+      "ICC"
+    ]
+  },
+  "REAL007262": {
+    "prefLabel": "Garden ponds",
+    "altLabel": []
+  },
+  "REAL004899": {
+    "prefLabel": "Animal communication",
+    "altLabel": [
+      "Animal signals"
+    ]
+  },
+  "REAL000445": {
+    "prefLabel": "Reactive oxygen species",
+    "altLabel": [
+      "Active oxygen"
+    ]
+  },
+  "REAL005489": {
+    "prefLabel": "Play",
+    "altLabel": []
+  },
+  "REAL013040": {
+    "prefLabel": "Theory of equations",
+    "altLabel": []
+  },
+  "REAL010911": {
+    "prefLabel": "Crystal optics",
+    "altLabel": []
+  },
+  "REAL002913": {
+    "prefLabel": "Phenotypes",
+    "altLabel": []
+  },
+  "REAL004521": {
+    "prefLabel": "Intracellular transport",
+    "altLabel": []
+  },
+  "REAL009693": {
+    "prefLabel": "Ganglia",
+    "altLabel": []
+  },
+  "REAL011228": {
+    "prefLabel": "Geneticists",
+    "altLabel": []
+  },
+  "REAL006197": {
+    "prefLabel": "Feminization",
+    "altLabel": []
+  },
+  "REAL000156": {
+    "prefLabel": "Neo-Darwinism",
+    "altLabel": []
+  },
+  "REAL000565": {
+    "prefLabel": "Migratory birds",
+    "altLabel": []
+  },
+  "REAL009548": {
+    "prefLabel": "Genetic diversity",
+    "altLabel": []
+  },
+  "REAL006434": {
+    "prefLabel": "Myology",
+    "altLabel": []
+  },
+  "REAL010218": {
+    "prefLabel": "Immunization",
+    "altLabel": [
+      "Immunisation"
+    ]
+  },
+  "REAL011305": {
+    "prefLabel": "Insect ecology",
+    "altLabel": []
+  },
+  "REAL009028": {
+    "prefLabel": "Quantitative genetics",
+    "altLabel": []
+  },
+  "REAL008586": {
+    "prefLabel": "Cepheids variables",
+    "altLabel": [
+      "Cepheid variables"
+    ]
+  },
+  "REAL009374": {
+    "prefLabel": "Jupiter family comets",
+    "altLabel": []
+  },
+  "REAL007925": {
+    "prefLabel": "Leonids",
+    "altLabel": []
+  },
+  "REAL013946": {
+    "prefLabel": "Phylogenetics",
+    "altLabel": [
+      "Phylogenetic trees",
+      "Phylogenetic classification",
+      "Phylogenetic analysis"
+    ]
+  },
+  "REAL011237": {
+    "prefLabel": "Curved spaces",
+    "altLabel": []
+  },
+  "REAL010239": {
+    "prefLabel": "Communications satellites",
+    "altLabel": []
+  },
+  "REAL007084": {
+    "prefLabel": "Telomeres",
+    "altLabel": []
+  },
+  "REAL007638": {
+    "prefLabel": "Chronometry",
+    "altLabel": []
+  },
+  "REAL013249": {
+    "prefLabel": "Zoophysiology",
+    "altLabel": [
+      "Animal physiology"
+    ]
+  },
+  "REAL012894": {
+    "prefLabel": "Non-coding RNA",
+    "altLabel": []
+  },
+  "REAL009333": {
+    "prefLabel": "Armillary spheres",
+    "altLabel": []
+  },
+  "REAL006226": {
+    "prefLabel": "Ultrafiltration",
+    "altLabel": []
+  },
+  "REAL005111": {
+    "prefLabel": "Phenology",
+    "altLabel": []
+  }
+}
