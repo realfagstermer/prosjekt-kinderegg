@@ -1,1 +1,225 @@
-{}
+{
+  "REAL013662": {
+    "prefLabel": "Fisheries management",
+    "altLabel": [
+      "Fishery regulation",
+      "Fishery management",
+      "Fisheries law"
+    ]
+  },
+  "REAL004988": {
+    "prefLabel": "Origin of life",
+    "altLabel": []
+  },
+  "REAL006507": {
+    "prefLabel": "Microemulsions",
+    "altLabel": []
+  },
+  "REAL005112": {
+    "prefLabel": "Micrography",
+    "altLabel": [
+      "Digital micrography",
+      "Microphotography",
+      "Photo micrography",
+      "Photomicrography",
+      "Electron micrography"
+    ]
+  },
+  "REAL004381": {
+    "prefLabel": "Electron cryomicroscopy",
+    "altLabel": [
+      "Cryo-electron microscopy",
+      "Scanning electron cryomicroscopy",
+      "Transmission electron cryomicroscopy",
+      "Cryo-EM",
+      "Cryogenic electron microscopy"
+    ]
+  },
+  "REAL006702": {
+    "prefLabel": "Microflora",
+    "altLabel": [
+      "Flora (microbiology)"
+    ]
+  },
+  "REAL005432": {
+    "prefLabel": "Qualitative inorganic analysis",
+    "altLabel": [
+      "Qualitative analysis"
+    ]
+  },
+  "REAL005708": {
+    "prefLabel": "Comet nuclei",
+    "altLabel": [
+      "Cometary nuclei"
+    ]
+  },
+  "REAL005556": {
+    "prefLabel": "Body sounds",
+    "altLabel": []
+  },
+  "REAL011870": {
+    "prefLabel": "Lie algebras",
+    "altLabel": []
+  },
+  "REAL004929": {
+    "prefLabel": "Body fluids",
+    "altLabel": []
+  },
+  "REAL004038": {
+    "prefLabel": "Art theory",
+    "altLabel": [
+      "Theory of art"
+    ]
+  },
+  "REAL001985": {
+    "prefLabel": "History of fishing",
+    "altLabel": [
+      "History of fisheries"
+    ]
+  },
+  "REAL008103": {
+    "prefLabel": "Manifolds",
+    "altLabel": []
+  },
+  "REAL013156": {
+    "prefLabel": "Local quantum physics",
+    "altLabel": []
+  },
+  "REAL003506": {
+    "prefLabel": "Crimes",
+    "altLabel": [
+      "Felonies"
+    ]
+  },
+  "REAL002041": {
+    "prefLabel": "Cuticle",
+    "altLabel": []
+  },
+  "REAL007546": {
+    "prefLabel": "Ball lightning",
+    "altLabel": []
+  },
+  "REAL007843": {
+    "prefLabel": "Microfauna",
+    "altLabel": []
+  },
+  "REAL011991": {
+    "prefLabel": "Solar corona",
+    "altLabel": []
+  },
+  "REAL007870": {
+    "prefLabel": "Microelectrodes",
+    "altLabel": []
+  },
+  "REAL010708": {
+    "prefLabel": "Body temperature",
+    "altLabel": []
+  },
+  "REAL005529": {
+    "prefLabel": "Life insurance",
+    "altLabel": []
+  },
+  "REAL011833": {
+    "prefLabel": "Uterus",
+    "altLabel": [
+      "Womb"
+    ]
+  },
+  "REAL012073": {
+    "prefLabel": "Body ideals",
+    "altLabel": [
+      "Human beauty ideals"
+    ]
+  },
+  "REAL009685": {
+    "prefLabel": "Fishery politics",
+    "altLabel": []
+  },
+  "REAL009893": {
+    "prefLabel": "Cold adaptation",
+    "altLabel": [
+      "Cold acclimation",
+      "Freezing tolerance"
+    ]
+  },
+  "REAL009959": {
+    "prefLabel": "Micelles",
+    "altLabel": []
+  },
+  "REAL007041": {
+    "prefLabel": "Coronagraphy",
+    "altLabel": []
+  },
+  "REAL000238": {
+    "prefLabel": "Crime",
+    "altLabel": [
+      "Criminality"
+    ]
+  },
+  "REAL013823": {
+    "prefLabel": "Fishery resources",
+    "altLabel": []
+  },
+  "REAL006448": {
+    "prefLabel": "Christian Church",
+    "altLabel": []
+  },
+  "REAL003230": {
+    "prefLabel": "Body weight",
+    "altLabel": [
+      "Body mass"
+    ]
+  },
+  "REAL000253": {
+    "prefLabel": "Requirements specifications",
+    "altLabel": [
+      "Software requirements specifications"
+    ]
+  },
+  "REAL013665": {
+    "prefLabel": "Fishery statistics",
+    "altLabel": []
+  },
+  "REAL013821": {
+    "prefLabel": "Creationism",
+    "altLabel": []
+  },
+  "REAL004946": {
+    "prefLabel": "Lie groups",
+    "altLabel": []
+  },
+  "REAL006799": {
+    "prefLabel": "Mangroves",
+    "altLabel": []
+  },
+  "REAL002153": {
+    "prefLabel": "Microfiltration",
+    "altLabel": []
+  },
+  "REAL008971": {
+    "prefLabel": "Fishery technology",
+    "altLabel": []
+  },
+  "REAL008839": {
+    "prefLabel": "Metallic clusters",
+    "altLabel": [
+      "Metal clusters"
+    ]
+  },
+  "REAL004013": {
+    "prefLabel": "Pharmacy education",
+    "altLabel": []
+  },
+  "REAL004601": {
+    "prefLabel": "Controlled vocabularies",
+    "altLabel": []
+  },
+  "REAL009474": {
+    "prefLabel": "Microevolution",
+    "altLabel": []
+  },
+  "REAL011476": {
+    "prefLabel": "Microporous materials",
+    "altLabel": []
+  }
+}
