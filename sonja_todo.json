@@ -1,1 +1,24 @@
-{}
+{
+  "REAL001758": {
+    "prefLabel": "Strategic management",
+    "altLabel": []
+  },
+  "REAL004811": {
+    "prefLabel": "Quantitative analysis",
+    "altLabel": []
+  },
+  "REAL030169": {
+    "prefLabel": "Short stories",
+    "altLabel": [
+      "Novellas"
+    ]
+  },
+  "REAL006922": {
+    "prefLabel": "Iris recognition",
+    "altLabel": []
+  },
+  "REAL000524": {
+    "prefLabel": "Optimal design",
+    "altLabel": []
+  }
+}
