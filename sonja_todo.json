@@ -1,1 +1,88 @@
-{}
+{
+  "REAL006645": {
+    "prefLabel": "Animal feeding",
+    "altLabel": []
+  },
+  "REAL012643": {
+    "prefLabel": "Flatfishes",
+    "altLabel": [
+      "Flounders"
+    ]
+  },
+  "REAL005346": {
+    "prefLabel": "Tick",
+    "altLabel": []
+  },
+  "REAL005559": {
+    "prefLabel": "Australasian robin",
+    "altLabel": []
+  },
+  "REAL001653": {
+    "prefLabel": "Prosobranchs",
+    "altLabel": []
+  },
+  "REAL000870": {
+    "prefLabel": "Flycatchers",
+    "altLabel": [
+      "Old World flycatchers"
+    ]
+  },
+  "REAL013882": {
+    "prefLabel": "Folk medicine",
+    "altLabel": [
+      "Ethnomedicine",
+      "Traditional medicine",
+      "Popular medicine"
+    ]
+  },
+  "REAL006183": {
+    "prefLabel": "Floristic regions",
+    "altLabel": [
+      "Phytochorions"
+    ]
+  },
+  "REAL003095": {
+    "prefLabel": "Folates",
+    "altLabel": []
+  },
+  "REAL000544": {
+    "prefLabel": "Flatworms",
+    "altLabel": []
+  },
+  "REAL030119": {
+    "prefLabel": "Floras",
+    "altLabel": []
+  },
+  "REAL004657": {
+    "prefLabel": "Cilia",
+    "altLabel": []
+  },
+  "REAL012854": {
+    "prefLabel": "Ciliates",
+    "altLabel": []
+  },
+  "REAL013922": {
+    "prefLabel": "Animal feed",
+    "altLabel": [
+      "Fish nutrition",
+      "Fish feed",
+      "Fodder"
+    ]
+  },
+  "REAL008379": {
+    "prefLabel": "Feed manufacturing",
+    "altLabel": []
+  },
+  "REAL006133": {
+    "prefLabel": "Flies",
+    "altLabel": []
+  },
+  "REAL000188": {
+    "prefLabel": "Refining",
+    "altLabel": []
+  },
+  "REAL007872": {
+    "prefLabel": "Prehistoric pathogens",
+    "altLabel": []
+  }
+}
