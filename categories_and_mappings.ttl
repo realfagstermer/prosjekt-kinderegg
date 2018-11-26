@@ -6730,6 +6730,8 @@ real:c013545  skos:closeMatch  wd:Q9199 .
 
 real:c010105  skos:closeMatch  wd:Q729429 .
 
+real:c000017  skos:closeMatch  wd:Q2916569 .
+
 real:c009893  skos:closeMatch  wd:Q21110405 .
 
 real:c031762  skos:closeMatch  wd:Q143089 .
