@@ -1,1 +1,16 @@
-{}
+{
+  "REAL030110": {
+    "prefLabel": "Comics",
+    "altLabel": [
+      "Comic books"
+    ]
+  },
+  "REAL010636": {
+    "prefLabel": "Image segmentation",
+    "altLabel": []
+  },
+  "REAL001106": {
+    "prefLabel": "State diagrams",
+    "altLabel": []
+  }
+}
