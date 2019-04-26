@@ -4664,6 +4664,8 @@ real:c030909  skos:closeMatch  wd:Q31547742 .
 
 real:c007946  skos:closeMatch  wd:Q223729 .
 
+real:c000879  skos:closeMatch  wd:Q3393476 .
+
 real:c006852  skos:closeMatch  wd:Q7281232 .
 
 real:c030719  skos:closeMatch  wd:Q771405 .
@@ -10539,8 +10541,6 @@ real:c011807  skos:closeMatch  wd:Q4915350 .
 real:c006548  skos:closeMatch  wd:Q889796 .
 
 real:c001719  skos:closeMatch  wd:Q159964 .
-
-real:c010713  skos:closeMatch  wd:Q818930 .
 
 real:c004360  skos:closeMatch  wd:Q15078788 .
 
